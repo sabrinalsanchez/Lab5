@@ -74,7 +74,7 @@ public class Main {
             while (index >= 0) {
                 hexCalc = valueAssignment(hexInput.charAt(index));//gets the leftmost character and assigns it a value
                 decimalTotal = decimalTotal + Math.abs(hexCalc * (long) Math.pow(16, hexInputLength - index - 1));
-                //not part of final code I'm using this to see where the program is going wrong
+                \\new comment
                 index--;
             }
 
