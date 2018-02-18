@@ -1,0 +1,62 @@
+{
+    "lang.en": {
+        "title": "Totem Tribe Gold",
+        "#slogan": "Bring prosperity to the planet!",
+        "title_short": "Totem Tribe Gold",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id586984915?mt=12",
+            "full": "http://itunes.apple.com/app/id586983952?mt=12"
+        },
+        "#youtube_id": "shSXNX6pnWA",
+        "genre": "ST",
+        "article span": "Help Aruku, a chief of the Hawk tribe, restore peace and lead her tribe to a better future in this real-time strategy and adventure game! Bring prosperity back to this struggling planet by enhancing the Hawk tribe’s skills and equipment.<ul><li>32 Enchanted locations to search</li><li>22 Adventurous quests and mini-games</li><li>20 Precious artifacts</li><li>Real-time strategy and adventure game</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Totem Tribe Gold<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Totem Tribe Gold",
+        "#slogan": "Bring dem Planeten Wohlstand!",
+        "title_short": "Totem Tribe Gold",
+        "article span": "Hilf Aruku, dem Anführer des Hawk-Stamms, in diesem Echtzeit-Strategie- und Abenteuerspiel Frieden wiederherzustellen und seinen Stamm in eine bessere Zukunft zu führen! Bring diesem armen Planeten seinen Wohlstand zurück, indem du die Fähigkeiten und die Ausrüstung des Hawk-Stamms entwickelst.<ul><li>32 Verzauberte Schauplätze zum Durchsuchen</li><li>22 Abenteuerliche Rätsel und Minispiele</li><li>20 Wertvolle Artefakte</li><li>Echtzeit-Strategie- und Abenteuerspiel</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Totem Tribe Gold<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Totem Tribe Gold",
+        "#slogan": "¡Haz que el planeta prospere!",
+        "title_short": "Totem Tribe Gold",
+        "article span": "¡Ayuda a Aruku, una jefe de la tribu Hawk, a restaurar la paz y conducir a su tribu a un futuro mejor en este juego de aventura y estrategia en tiempo real! Devuelve la prosperidad a este planeta en apuros aumentando las habilidades y equipo de la tribu Hawk.<ul><li>32 Ubicaciones encantadas para la búsqueda</li><li>22 Misiones de aventuras y mini-juegos</li><li>20 Valiosos artefactos</li><li>Juego de aventura y estrategia en tiempo real</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Totem Tribe Gold<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Totem Tribe Gold",
+        "#slogan": "Assurez la prospérité de la planète !",
+        "title_short": "Totem Tribe Gold",
+        "article span": "Prêtez main-forte à Aruku, une jeune femme téméraire qui est à la tête de la tribu du Faucon ! Aidez-la à restaurer la paix et à bâtir un avenir radieux pour son peuple, dans ce jeu qui mêle habilement aventure et stratégie en temps réel ! Transformez les membres de la tribu du Faucon en combattants aguerris, et améliorez leur équipement pour ramener la prospérité sur cette planète jadis florissante !<ul><li>32 Endroits pittoresques à fouiller</li><li>22 Quêtes captivantes et mini-jeux stimulants</li><li>20 Artefacts précieux</li><li>Jeu d&apos;aventure et de stratégie en temps réel</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Totem Tribe Gold<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Totem Tribe Gold",
+        "#slogan": "Fai prosperare il pianeta!",
+        "title_short": "Totem Tribe Gold",
+        "article span": "Aiuta Aruku, una dei capi della tribù del falco, a ripristinare la pace e a condurre la sua tribù verso un futuro migliore, in questo gioco di avventura e strategia in tempo reale. Riporta la prosperità su questo pianeta in difficoltà miglirando l&apos;equipaggiamento e le abilità della tribù del falco.<ul><li>32 Località incantate da perlustrare</li><li>22 Avventurose missioni e mini-giochi</li><li>20 Artefatti preziosi</li><li>Gioco di avventura e strategia in tempo reale</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Totem Tribe Gold<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Племя тотема: Золотое издание",
+        "#slogan": "Приведите планету к процветанию!",
+        "title_short": "Племя тотема",
+        "article span": "Помогите юной Аруку, вождю племени Ястреба, вернуть мир и привести свое племя к процветанию в этой приключенческой стратегии в реальном времени! Верните благополучие этой многострадальной планете!<ul><li>32 Заколдованные локации</li><li>22 Увлекательных квеста и мини-игры</li><li>20 Ценных артефактов</li><li>Приключенческая стратегия в реальном времени</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Племя тотема: Золотое издание<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Totem Tribe Gold",
+        "title_short": "Totem Tribe Gold"
+    },
+    "lang.ja": {
+        "title": "Totem Tribe Gold",
+        "title_short": "Totem Tribe Gold"
+    },
+    "lang.ko": {
+        "title": "Totem Tribe Gold",
+        "title_short": "Totem Tribe Gold"
+    }
+}

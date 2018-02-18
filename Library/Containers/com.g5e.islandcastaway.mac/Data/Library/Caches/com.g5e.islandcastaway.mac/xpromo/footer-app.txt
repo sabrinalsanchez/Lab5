@@ -1,0 +1,11 @@
+{
+"lang.en":
+{
+  "#backButton" : "Back",
+  "#exitButton" : "Exit",
+  "li a.home"   : "Home",
+  "li a.twitter"   : "Twitter",
+  "li a.facebook"   : "Facebook",
+  "li a.support"  : "Support"
+}
+}

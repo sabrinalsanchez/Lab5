@@ -1,0 +1,38 @@
+{
+"lang.en":
+{
+  ".title"  : "G5 Games",
+  ".club a" : "New games",
+  "a#learn"   : "Learn More"
+},
+"lang.de":
+{
+  ".title"  : "G5 Spiele",
+  ".club a" : "Neue Spiele",
+  "a#learn"   : "Mehr info"
+},
+"lang.es":
+{
+  ".title"  : "G5 Juegos",
+  ".club a" : "Nuevos juegos",
+  "a#learn"   : "Más info"
+},
+"lang.fr":
+{
+  ".title"  : "G5 Jeux",
+  ".club a" : "Nouveaux jeux",
+  "a#learn"   : "Plus d'infos"
+},
+"lang.it":
+{
+  ".title"  : "G5 Giochi",
+  ".club a" : "Nuovi giochi",
+  "a#learn" : "Ult. Info"
+},
+"lang.ru":
+{
+  ".title"  : "G5 Игры",
+  ".club a" : "Новинки",
+  "a#learn"   : "Подробнее"
+}
+}

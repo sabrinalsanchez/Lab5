@@ -1,0 +1,62 @@
+{
+    "lang.en": {
+        "title": "Righteous Kill",
+        "#slogan": "Put the killer behind bars.",
+        "title_short": "Righteous Kill",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id618144543?mt=12",
+            "full": "http://itunes.apple.com/app/id618065578?mt=12"
+        },
+        "#youtube_id": "poLP7tdVUuQ",
+        "genre": "ADV",
+        "article span": "Hunt for clues to apprehend a vigilante killer in this thrilling hidden object adventure! Search over 70 locations through 15 animated levels, play forensic based mini-games, find all the clues that lead to evidence and stop the creep before he has another opportunity to kill!<ul><li>71 locations to search</li><li>15 animated levels</li><li>15 detective-themed mini games</li><li>Captivating Storyline</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Righteous Kill<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Righteous Kill",
+        "#slogan": "Bring den Mörder hinter Gittern.",
+        "title_short": "Righteous Kill",
+        "article span": "Begib dich in diesem spannenden Wimmelbildabenteuer auf die Jagd nach Hinweisen, um einen Selbstjustiz übenden Mörder zu fassen! Suche an über 70 Orten in über 15 animierten Levels, spiele detektivische Minispiele, finde alle Hinweise, die zu Beweisen führen und halte den Täter auf, bevor er eine weitere Gelegenheit zu morden findet.<ul><li>71 Suchorte</li><li>15 animierte Levels</li><li>15 detektivische Minispiele</li><li>Fesselnde Storyline</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Righteous Kill<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Righteous Kill",
+        "#slogan": "Mete al asesino entre rejas.",
+        "title_short": "Righteous Kill",
+        "article span": "¡Encuentra pistas para detener a un asesino justiciero en esta aventura de objetos ocultos! Busca más de 70 ubicaciones en 15 animados niveles. ¡Juega a los mini-juegos basados en prácticas forenses, encuentra todas las pistas que te conducirán a la evidencia y detén al escurridizo sospechoso antes de que tenga otra oportunidad de matar!<ul><li>71 ubicaciones para que buscar</li><li>15 animados niveles</li><li>15 mini-juegos con temática detectivesca</li><li>Cautivante trama</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Righteous Kill<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Righteous Kill",
+        "#slogan": "Envoyez le tueur derrière les barreaux.",
+        "title_short": "Righteous Kill",
+        "article span": "Cherchez des indices pour appréhender un justicier meurtrier, dans cette enquête passionnante truffée d&apos;objets dissimulés ! Fouillez plus de 70 lieux au beau milieu de 15 niveaux magnifiquement animés, jouez à des mini-jeux \"médico-légaux\", dénichez les preuves qui vous mettront sur une piste et capturez ce dangereux psychopathe avant qu&apos;il ne se fasse à nouveau juge et bourreau !<ul><li>71 lieux à fouiller de fond en comble</li><li>15 niveaux animés</li><li>15 mini-jeux sur le thème des enquêtes policières</li><li>Intrigue captivante</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Righteous Kill<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Righteous Kill",
+        "#slogan": "Metti l&apos;assassino dietro alle sbarre.",
+        "title_short": "Righteous Kill",
+        "article span": "Vai a caccia di indizi per acciuffare un assassino-giustiziere in questa eccitante avventura di oggetti nascosti! Perquisisci oltre 70 luoghi attraversando più di 15 livelli animati, completa i minigiochi in stile forense e trova tutti gli indizi necessari per incastrare questa canaglia prima che gli si presenti un&apos;altra occasione di uccidere!<ul><li>71 luoghi da perquisire</li><li>15 livelli animati</li><li>15 minigiochi a tema investigativo</li><li>Trama avvincente</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Righteous Kill<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Право на убийство",
+        "#slogan": "Отправьте убийцу за решетку!",
+        "title_short": "Право на убийство",
+        "article span": "Найдите все улики, чтобы остановить убийцу в этом захватывающем триллере по поиску скрытых предметов! Исследуйте более 70 локаций на 15 динамичных уровнях, пройдите детективные мини-игры. Распутайте эту загадочную историю и остановите негодяя до того, как ему представится очередная возможность убить.<ul><li>71 локация</li><li>15 динамичных уровней</li><li>15 детективных мини-игр</li><li>Увлекательный сюжет</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Право на убийство<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Righteous Kill",
+        "title_short": "Righteous Kill"
+    },
+    "lang.ja": {
+        "title": "Righteous Kill",
+        "title_short": "Righteous Kill"
+    },
+    "lang.ko": {
+        "title": "Righteous Kill",
+        "title_short": "Righteous Kill"
+    }
+}

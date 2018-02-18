@@ -1,0 +1,173 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Survivors: the Quest®",
+    "#slogan"     : "Hurry to this gorgeous but unsettling island to rescue the three survivors now!",
+    "title_short"  : "Survivors: the Quest®",
+    "title_GN"    : "Survivors: the Quest®",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id1099860195?mt=12"
+    },
+    "#youtube_id"  : "JRghgSKKwC0",
+    "article span"  : "Help the plane crash survivors get along, avoid starvation, explore the island and unravel a startling mystery. Plunge into this gripping island adventure and bring the survivors home!
+<ul>
+<li>EXPLORE beaches, lagoons, jungles and mountains on a beautiful tropical island</li>
+<li>FIND, ASSEMBLE AND USE TOOLS to gather clues and resources</li>
+<li>MANAGE WELL-BEING by improving each character’s Stamina, Hunger, Fun and Comfort levels</li>
+<li>LOCATE INGREDIENTS AND COOK FOOD for your fellow survivors</li>
+<li>SOLVE PUZZLES and a thrilling island mystery in order to bring the survivors home</li>
+</ul>
+Head to the island today and be on the lookout for regular free updates",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: the Quest®<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Survivors: Die Quest",
+    "#slogan"     : "Stürz dich gleich in dieses großartige aber nervenaufreibende Inselabenteuer und rette die drei Überlebenden!",
+    "title_short"  : "Survivors: Die Quest",
+    "title_GN"    : "Survivors: Die Quest",
+    "article span"  : "Hilf den Überlebenden des Flugzeugunglücks zurechtzukommen und nicht zu verhungern, erforsche die Insel und enträtsle ein erstaunliches Geheimnis. Tauche ein in dieses fesselnde Inselabenteuer und führe die Überlebenden nach Hause!
+<ul>
+<li>Erkunde Strände, Lagunen, Dschungel und Berge einer wunderschönen Tropeninsel</li>
+<li>Spiele drei einzigartige Charaktere, von denen jeder unterschiedliche Eigenschaften benötigt</li>
+<li>Verwalte die Werte von Ausdauer, Hunger, Spaß, Zufriedenheit und Freundschaft deiner Charaktere</li>
+<li>Lüfte das spannende Geheimnis der Insel, bevor du die Überlebenden nach Hause bringst</li>
+<li>Lass ich monatelang unterhalten und bestehe hunderte von Aufgaben und vervollständige jede Menge Sammlungen</li>
+<li>Hol dir regelmäßig kostenlose Updates mit neuen spannenden Inhalten!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: Die Quest<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Survivors: La búsqueda",
+    "#slogan"     : "¡Entra ya en esta isla preciosa pero inquietante para rescatar a los tres supervivientes!",
+    "title_short"  : "Survivors: La búsqueda",
+    "title_GN"    : "Survivors: La búsqueda",
+    "article span"  : "Consigue que los supervivientes del accidente se lleven bien, eviten el hambre, exploren la isla y desentrañen un misterio sorprendente. ¡Sumérgete en esta aventura fascinante en una isla y devuelve a los supervivientes a casa!
+<ul>
+<li>Explora las playas, lagunas, selvas y montañas de esta hermosa isla tropical</li>
+<li>Juega con tres personajes únicos, cada uno con unas características avanzadas que gestionar</li>
+<li>Administra los niveles de energía, hambre, diversión, comodidad y amistad de cada superviviente</li>
+<li>Resuelve el emocionante misterio de la isla antes de conseguir llevar a los supervivientes a casa</li>
+<li>Diviértete durante meses gracias a cientos de misiones y colecciones</li>
+<li>¡Disfruta de las actualizaciones periódicas gratuitas con emocionantes contenidos nuevos!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: La búsqueda<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Survivors : La Quête",
+    "#slogan"     : "Dépêchez-vous de partir à la découverte de cette île étrange et de porter secours aux trois survivants !",
+    "title_short"  : "Survivors : La Quête",
+    "title_GN"    : "Survivors : La Quête",
+    "article span"  : "Prêtez main-forte aux survivants d&apos;un accident aérien ! Aidez-les à travailler ensemble, à éviter de mourir de faim, à explorer l&apos;île et à percer un mystère insondable. Plongez au cœur de cette aventure palpitante et faites le maximum pour que les survivants retrouvent la voie de la civilisation !
+<ul>
+<li>Explorez des plages, des lagons, des jungles et des montagnes sur une magnifique île tropicale</li>
+<li>Incarnez trois personnages uniques possédant chacun des caractéristiques à entretenir</li>
+<li>Gérez les niveaux d&apos;endurance, de faim, de divertissement, de confort et d&apos;amitié</li>
+<li>Percez un mystère palpitant avant d&apos;aider les survivants à retrouver le chemin de la civilisation</li>
+<li>Divertissez-vous des mois durant grâce aux centaines de quêtes et de collections</li>
+<li>Ouvrez l&apos;œil et le bon : des mises à jour regorgeant de contenu inédit débarqueront régulièrement !</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors : La Quête<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Survivors: La missione",
+    "#slogan"     : "Corri subito su questa isola splendida ma inquietante per salvare i tre sopravvissuti!",
+    "title_short"  : "Survivors: La missione",
+    "title_GN"    : "Survivors: La missione",
+    "article span"  : "Aiuta i sopravvissuti all&apos;incidente aereo ad andare d&apos;accordo, evitare di morire di fame, esplorare l&apos;isola e svelare un mistero sorprendente. Immergiti in questa avventura sull&apos;isola e riporta a casa i sopravvissuti!
+<ul>
+<li>Esplora spiagge, lagune, giungle e montagne su una meravigliosa isola tropicale</li>
+<li>Controlla tre personaggi unici, ciascuno con caratteristiche avanzate da gestire</li>
+<li>Gestisci l&apos;energia, la fame, lo svago, l&apos;igiene e l&apos;amicizia dei sopravvissuti</li>
+<li>Svela l&apos;elettrizzante mistero dell&apos;isola prima di riportare a casa i sopravvissuti</li>
+<li>Divertiti per mesi con centinaia di missioni e di collezioni.</li>
+<li>Continua a giocare con regolari aggiornamenti gratuiti pieni di nuovi contenuti!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: La missione<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Survivors: Остаться в живых",
+    "#slogan"     : "Поспешите на этот великолепный, хотя и неспокойный, остров и спасите трех выживших!",
+    "title_short"  : "Survivors: The Quest®",
+    "title_GN"    : "Survivors: The Quest®",
+    "article span"  : "Помогите троим героям, спасшимся после крушения самолета, выжить на незнакомом острове, исследовать его и раскрыть невероятную тайну. Погрузитесь в это захватывающее приключение и помогите героям вернуться домой!
+<ul>
+<li>Исследуйте пляжи, лагуны, джунгли и горы на живописном тропическом острове</li>
+<li>Играйте за трех разных персонажей</li>
+<li>Контролируйте показатели силы, веселья, комфорта и дружбы каждого персонажа</li>
+<li>Раскройте невероятную тайну острова и помогите выжившим вернуться домой</li>
+<li>Сотни заданий и коллекций не позволят вам заскучать на протяжении месяцев</li>
+<li>Регулярные бесплатные обновления с захватывающим новым контентом!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: Остаться в живых<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Survivors: 任务",
+    "title_short"  : "Survivors: 任务",
+    "title_GN"    : "Survivors: 任务",
+    "article span"  : "帮助坠机幸存者彼此相处，战胜饥饿，探索岛屿并揭开令人震惊的谜。投入到扣人心弦的岛屿历险，将幸存者带回家！
+<ul>
+<li>在这美丽的热带岛屿探索沙滩、泻湖、丛林和群山</li>
+<li>扮演三个独特角色，每个角色都有先进的特性需维持</li>
+<li>控制每位生存者的体力、饥饿值、乐趣值、舒适度与友谊等级</li>
+<li>带生还者回家前，解开岛屿令人震惊的秘密</li>
+<li>数以百计的任务和收藏，能让你开心玩上好几个月</li>
+<li>敬请期待定期免费更新，内含众多刺激新内容！</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: 任务<br>undefined:</h3>"
+  },
+  "lang.zh_tw"    :
+  {
+    "title"       : "Survivors: 探索",
+    "title_short"  : "Survivors: 任务",
+    "title_GN"    : "Survivors: 任务",
+    "article span"  : "幫助墜機倖存者彼此相處，戰勝饑餓，探索島嶼並揭開令人震驚的謎。投入到扣人心弦的島嶼歷險，將倖存者帶回家！
+<ul>
+<li>在美麗的熱帶島嶼探索海灘、潟湖、叢林和高山</li>
+<li>扮演三位獨特的角色，每位角色都有先進的特性需維持</li>
+<li>控制每位生存者的耐力值、飢餓值、樂趣值、舒適度與友誼水準</li>
+<li>在你帶生還者回家之前，解開島嶼令人震驚的祕密</li>
+<li>數以百計的任務和收藏，能讓你開心玩上好幾個月</li>
+<li>請期待定期的免費更新，裡面有許多刺激的新內容！</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: 探索<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Survivors：クエスト",
+    "title_short"  : "Survivors: 任务",
+    "title_GN"    : "Survivors: 任务",
+    "article span"  : "墜落した飛行機の生存者を助けて、食べ物を確保し、島を探検し、驚くような謎を解き明かしましょう。思わず引きこまれるアイランドアドベンチャーに飛び込んで、みんなを家に帰してあげてください！
+<ul>
+<li>美しい熱帯の島でビーチ、礁湖、ジャングル、山を探検しよう</li>
+<li>3人のユニークなキャラクターを操作しよう。それぞれが面倒を見なければならない特別な性格を持っている</li>
+<li>各遭難者のスタミナ、満腹度、楽しさ、快適さ、友情レベルを管理しよう</li>
+<li>遭難者を家に帰す前に、スリリングな島の謎を解こう</li>
+<li>何百ものクエストやコレクションで、何か月も楽しめる</li>
+<li>定期的な無料アップデートによるエキサイティングな新コンテンツをお楽しみに！</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors：クエスト<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Survivors: 탐색",
+    "title_short"  : "Survivors: 任务",
+    "title_GN"    : "Survivors: 任务",
+    "article span"  : "비행기 추락 생존자들이 서로 협력하고 도와주고, 굶어 죽지 않게 보살피고, 섬을 탐험하고, 놀라운 비밀을 파헤치세요. 중독성이 강한 섬 모험에 참여하여 생존자들을 구출하세요!
+<ul>
+<li>아름다운 열대 섬에서 해변, 석호, 정글 그리고 산을 탐험하세요</li>
+<li>세 명의 독특한 캐릭터를 플레이하세요. 각각 유지해야 할 고급 특성이 있습니다</li>
+<li>각 생존자의 체력, 허기, 재미, 편안함 그리고 우정 레벨을 관리하세요</li>
+<li>섬의 짜릿한 비밀을 풀고 생존자를 집으로 돌려보내세요</li>
+<li>수많은 퀘스트와 컬렉션으로 오랫동안 즐거움을 누리세요</li>
+<li>재미있는 새 콘텐츠와 함께 정기적으로 제공되는 무료 업데이트를 기대하세요!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Survivors: 탐색<br>undefined:</h3>"
+  }
+}

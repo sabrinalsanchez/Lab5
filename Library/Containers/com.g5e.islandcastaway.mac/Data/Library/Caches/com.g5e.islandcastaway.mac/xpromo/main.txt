@@ -1,0 +1,218 @@
+{
+"lang.en":
+{
+  ".button-exit a" : "Back to Game",
+  ".button-change-platform" : "Change platform",
+  ".type-sort span" : "Sort by:",
+  ".type-sort .recent" : "Most Recent",
+  ".type-sort .popular" : "Most Popular",
+  ".recent span"  : "Most Recent",
+  ".popular span" : "Most Popular",
+  ".adventure span" : "Adventure",
+  ".strategy span" : "Strategy",
+  ".adv .type-game span" : "Adventure Games",
+  ".st .type-game span" : "Strategy Games",
+  "title"         : "G5 Games",
+  ".slogan"       : "World of Adventures<small>™</small>",
+  ".button #play" : "Play Now!",
+  ".select-type b" : "More Games",
+  "#recent strong" : "Most Recent",
+  "#popular strong" : "Most Popular",
+  "#adventure strong" : "Adventure",
+  "#strategy strong" : "Strategy",
+  ".banner-item .text" : "<h2></h2>Looking for news...",
+  "#popup .button" : "Play Now!",
+  "#popup .header h2" : "Welcome! New games and updates from G5:",
+  ".headerTitle"  : "iPad Games",
+  ".check-internet" : "Please check your Internet connection.",
+  "#_loading strong" : "Loading...",
+  "games"         : "Games",
+  "banners"       : 
+  [
+  ]
+},
+"lang.de":
+{
+  ".button-exit a" : "Zurück zum Spiel",
+  ".button-change-platform" : "Plattform ändern",
+  ".type-sort span" : "Sortieren nach:",
+  ".type-sort .recent" : "Neueste",
+  ".type-sort .popular" : "Beliebteste",
+  ".recent span"  : "Neueste",
+  ".popular span" : "Beliebteste",
+  ".adventure span" : "Abenteuer",
+  ".strategy span" : "Strategie",
+  ".adv .type-game span" : "Abenteuerspiele",
+  ".st .type-game span" : "Strategiespiele",
+  "title"         : "G5 Spiele",
+  ".slogan"       : "World of Adventures<small>™</small>",
+  ".button #play" : "Spiel starten!",
+  ".select-type b" : "Mehr spiele",
+  "#recent strong" : "Neueste",
+  "#popular strong" : "Beliebteste",
+  "#adventure strong" : "Abenteuer",
+  "#strategy strong" : "Strategie",
+  ".banner-item .text" : "<h2></h2>Suche nach Neuigkeiten...",
+  "#popup .button" : "Spiel starten!",
+  "#popup .header h2" : "Willkommen! Neue Spiele und Updates von G5:",
+  ".headerTitle"  : "iPad Spiele",
+  ".check-internet" : "Bitte prüfe deine Internetverbindung.",
+  "#_loading strong" : "Laden...",
+  "games"         : "Spiele",
+  "banners"       : 
+  [
+  ]
+},
+"lang.es":
+{
+  ".button-exit a" : "Volver a la partida",
+  ".button-change-platform" : "Cambiar plataforma",
+  ".type-sort span" : "Ordenar por:",
+  ".type-sort .recent" : "Más reciente",
+  ".type-sort .popular" : "Más popular",
+  ".recent span"  : "Más reciente",
+  ".popular span" : "Más popular",
+  ".adventure span" : "Aventura",
+  ".strategy span" : "Estrategia",
+  ".adv .type-game span" : "Juegos de aventura",
+  ".st .type-game span" : "Juegos de estrategia",
+  "title"         : "G5 Juegos",
+  ".slogan"       : "World of Adventures<small>™</small>",
+  ".button #play" : "Juega ahora",
+  ".select-type b" : "Más juegos",
+  "#recent strong" : "Más reciente",
+  "#popular strong" : "Más popular",
+  "#adventure strong" : "Aventura",
+  "#strategy strong" : "Estrategia",
+  ".banner-item .text" : "<h2></h2>Buscando noticias...",
+  "#popup .button" : "Juega ahora!",
+  "#popup .header h2" : "¡Bienvenidos! Nuevos juegos y actualizaciones de G5:",
+  ".headerTitle"  : "Juegos para iPad",
+  ".check-internet" : "Comprueba tu conexión a Internet.",
+  "#_loading strong" : "Cargando",
+  "games"         : "Juegos para",
+  "banners"       : 
+  [
+  ]
+},
+"lang.fr":
+{
+  ".button-exit a" : "Retour au jeu",
+  ".button-change-platform" : "Changer de plateforme",
+  ".type-sort span" : "Classer par :",
+  ".type-sort .recent" : "Plus récent",
+  ".type-sort .popular" : "Plus populaire",
+  ".recent span"  : "Plus récent",
+  ".popular span" : "Plus populaire",
+  ".adventure span" : "Aventure",
+  ".strategy span" : "Stratégie",
+  ".adv .type-game span" : "Jeux d'aventure",
+  ".st .type-game span" : "Jeux de stratégie",
+  "title"         : "G5 Jeux",
+  ".slogan"       : "World of Adventures<small>™</small>",
+  ".button #play" : "Jouer maintenant !",
+  ".select-type b" : "Autres jeux",
+  "#recent strong" : "Plus récent",
+  "#popular strong" : "Plus populaire",
+  "#adventure strong" : "Aventure",
+  "#strategy strong" : "Stratégie",
+  ".banner-item .text" : "<h2></h2>Recherche d'infos...",
+  "#popup .button" : "Jouer!",
+  "#popup .header h2" : "Bienvenue! Nouveaux jeux et mises à jour de G5:",
+  ".headerTitle"  : "iPad Jeux",
+  ".check-internet" : "Vérifiez votre connexion Internet.",
+  "#_loading strong" : "Chargement",
+  "games"         : "Jeux",
+  "banners"       : 
+  [
+  ]
+},
+"lang.it":
+{
+  ".button-exit a" : "Torna al gioco",
+  ".button-change-platform" : "Cambia piattaforma",
+  ".type-sort span" : "Ordina per:",
+  ".type-sort .recent" : "Più recente",
+  ".type-sort .popular" : "Più popolare",
+  ".recent span"  : "Più recente",
+  ".popular span" : "Più popolare",
+  ".adventure span" : "Avventura",
+  ".strategy span" : "Strategia",
+  ".adv .type-game span" : "Giochi d'avventura",
+  ".st .type-game span" : "Giochi di strategia",
+  "title"         : "G5 Giochi",
+  ".slogan"       : "World of Adventures<small>™</small>",
+  ".button #play" : "Gioca ora!",
+  ".select-type b" : "Altri giochi",
+  "#recent strong" : "Più recente",
+  "#popular strong" : "Più popolare",
+  "#adventure strong" : "Avventura",
+  "#strategy strong" : "Strategia",
+  ".banner-item .text" : "<h2></h2>Ricerca notizie...",
+  "#popup .button" : "Gioca ora!",
+  "#popup .header h2" : "Benvenuti! Nuovi giochi e aggiornamenti di G5:",
+  ".headerTitle"  : "iPad Giochi",
+  ".check-internet" : "Controlla la tua connessione.",
+  "#_loading strong" : "Caricamento",
+  "games"         : "Giochi",
+  "banners"       : 
+  [
+  ]
+},
+"lang.ru":
+{
+  ".button-exit a" : "Вернуться в игру",
+  ".button-change-platform" : "Сменить платформу",
+  ".type-sort span" : "Сортировать по:",
+  ".type-sort .recent" : "Новинки",
+  ".type-sort .popular" : "Популярное",
+  ".recent span"  : "Новинки",
+  ".popular span" : "Популярное",
+  ".adventure span" : "Приключения",
+  ".strategy span" : "Стратегии",
+  ".adv .type-game span" : "Приключения",
+  ".st .type-game span" : "Стратегии",
+  "title"         : "G5 Игры",
+  ".slogan"       : "World of Adventures<small>™</small>",
+  ".button #play" : "Играть сейчас!",
+  ".select-type b" : "Другие игры",
+  "#recent strong" : "Новинки",
+  "#popular strong" : "Популярное",
+  "#adventure strong" : "Приключения",
+  "#strategy strong" : "Стратегии",
+  ".banner-item .text" : "<h2></h2>Идет обновление...",
+  "#popup .button" : "Играть!",
+  "#popup .header h2" : "Добро пожаловать! Новые игры и обновления от G5:",
+  ".headerTitle"  : "iPad Игры",
+  ".check-internet" : "Пожалуйста, проверьте ваше подключение к интернету.",
+  "#_loading strong" : "Загрузка...",
+  "games"         : "Игры",
+  "banners"       : 
+  [
+  ]
+},
+"lang.zh":
+{
+  "banners"       : 
+  [
+  ]
+},
+"lang.zh_tw":
+{
+  "banners"       : 
+  [
+  ]
+},
+"lang.ja":
+{
+  "banners"       : 
+  [
+  ]
+},
+"lang.ko":
+{
+  "banners"       : 
+  [
+  ]
+}
+}

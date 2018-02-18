@@ -1,0 +1,50 @@
+{
+    "lang.en": {
+        "title": "Supermarket Mania®",
+        "#slogan": "Run a grocery store!",
+        "title_short": "Supermark Mania",
+        "#links": {
+            "lite": "http://itunes.apple.com/app/id418546915?mt=12",
+            "full": "http://itunes.apple.com/app/id406645012?mt=12"
+        },
+        "#youtube_id": "ar7YayHIF9o",
+        "genre": "ST",
+        "article span": "Help Nikki keep five stores stocked to the rafters and show your adversary what a little hometown pluck can do!<ul><li>50 Levels</li><li>Five Shops</li><li>Seven types of customers</li><li>Over a dozen products to sell</li><li>Over 20 accessories and upgrades for your shop</li><li>Hours of fun!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Mania®<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Supermarket Mania®",
+        "#slogan": "Führe einen Lebensmittelladen!",
+        "title_short": "Supermark Mania",
+        "article span": "Hilf Nikki dabei, in fünf Läden dafür zu sorgen, dass immer alle Waren vorrätig sind!<ul><li>50 Levels</li><li>5 Läden</li><li>7 verschiedene Kundentypen</li><li>Über ein Dutzend Produkte</li><li>Über 20 Accessoires und Upgrades für deinen Laden</li><li>Stundenlangen Spielspaß</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Mania®<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Supermarket Mania®",
+        "#slogan": "¡Dirige un supermercado!",
+        "title_short": "Supermark Mania",
+        "article span": "¡Ayuda a Nikki a mantener cinco tiendas totalmente equipadas con las provisiones que necesitan los clientes!<ul><li>50 niveles</li><li>Cinco tiendas</li><li>Siete tipo de clientes</li><li>Más de una docena de productos para vender</li><li>Más de 20 accesorios y actualizaciones para tu tienda</li><li>¡Horas de diversión!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Mania®<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Supermarket Mania®",
+        "#slogan": "Gérez un supermarché !",
+        "title_short": "Supermark Mania",
+        "article span": "Aidez Nikki à satisfaire constamment la demande de ses clients dans ses cinq supermarchés !<ul><li>50 niveaux</li><li>Cinq décors</li><li>Sept types de clients</li><li>Plus d’une douzaine de produits à vendre</li><li>Plus de 20 accessoires et améliorations pour votre supermarché</li><li>De quoi s’amuser pendant des heures !</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Mania®<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Supermarket Mania®",
+        "#slogan": "Gestisci un negozio di alimentari!",
+        "title_short": "Supermark Mania",
+        "article span": "Aiuta Nikki a mantenere cinque negozi riforniti delle merce richiesta dai clienti!<ul><li>50 livelli nella modalità Storia</li><li>Cinque negozi</li><li>Sette tipi di clienti</li><li>Oltre una dozzina di prodotti da vendere</li><li>Più di 20 potenziamenti per il tuo negozio</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Mania®<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Супермаркет Мания",
+        "#slogan": "Управляйте продуктовым магазином!",
+        "title_short": "Супермаркет Мания",
+        "article span": "Покажите вашим конкурентам, на что способна простая девочка из провинции!<ul><li>50 уровней</li><li>5 различных магазинов</li><li>7 типов покупателей с уникальными пристрастиями</li><li>более десяти видов продуктов</li><li>более 20 апгрейдов для вашего магазина!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Супермаркет Мания<br>выйдет через:</h3>"
+    }
+}

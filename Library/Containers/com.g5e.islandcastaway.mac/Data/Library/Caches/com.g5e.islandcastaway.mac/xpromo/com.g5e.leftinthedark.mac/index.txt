@@ -1,0 +1,122 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Left in the Dark: No One on Board",
+    "#slogan"     : "Solve the spooky mystery of a ship that was long thought to be lost at sea!",
+    "title_short"  : "Left in the Dark",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id895094382?mt=12",
+      "full"      : "http://itunes.apple.com/app/id895093901?mt=12"
+    },
+    "#youtube_id"  : "eFLtKJcuZ2A",
+    "article span"  : "Put on your private investigator hat in this hidden object puzzle adventure set in a beautiful yet grim environment.
+<ul>
+<li>68 engaging and captivating levels</li>
+<li>14 uniquely enticing mini-games</li>
+<li>13 inspiring achievements</li>
+<li>Seven enigmatic characters</li>
+<li>Gripping storyline and unparalleled hand-drawn art</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: No One on Board<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Left in the Dark: No One on Board",
+    "#slogan"     : "Geh dem Geheimnis eines längst verschollen geglaubten Schiffes auf den Grund!",
+    "title_short"  : "Left in the Dark",
+    "article span"  : "Schlüpf in diesem liebevoll gestalteten und schauerhaft in Szene gesetzten Wimmelbildabenteuer in die Rolle einer Privatdetektivin.
+<ul>
+<li>68 spannende und fesselnde Levels</li>
+<li>14 einzigartige und knifflige Minispiele</li>
+<li>13 ehrgeizweckende Auszeichnungen</li>
+<li>Sieben faszinierende Charaktere</li>
+<li>Eine fesselnde Geschichte mit herausragenden, handgezeichneten Grafiken</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: No One on Board<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Left in the Dark: No One on Board",
+    "#slogan"     : "¡Resuelve el espeluznante misterio de un barco que durante mucho tiempo se creía perdido en el mar!",
+    "title_short"  : "Left in the Dark",
+    "article span"  : "Haz las veces de detective privado en este puzzle de aventura con objetos ocultos en un hermoso pero sombrío entorno.
+<ul>
+<li>68 niveles interesantes y cautivadores</li>
+<li>14 minijuegos singularmente tentadores</li>
+<li>13 impresionantes logros</li>
+<li>7 enigmáticos personajes</li>
+<li>Apasionante argumento e incomparable gráfica dibujada a mano</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: No One on Board<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Left in the Dark: No One on Board",
+    "#slogan"     : "Élucidez l&apos;étrange mystère d&apos;un bateau qu&apos;on croyait au fond de l&apos;océan depuis des temps immémoriaux !",
+    "title_short"  : "Left in the Dark",
+    "article span"  : "Éveillez le détective privé qui sommeille en vous et embarquez pour une aventure truffée d&apos;objets savamment dissimulés dans les profondeurs insondables de lieux tout aussi sinistres que pittoresques.
+<ul>
+<li>68 niveaux captivants qui vous plongeront dans un abîme de perplexité</li>
+<li>14 mini-jeux uniques en leur genre</li>
+<li>13 trophées stimulants</li>
+<li>Sept personnages énigmatiques</li>
+<li>Intrigue haletante et magnifiques visuels dessinés à la main</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: No One on Board<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Left in the Dark: No One on Board",
+    "#slogan"     : "Risolvi il caso misterioso di una nave scomparsa in mare molto tempo fa!",
+    "title_short"  : "Left in the Dark",
+    "article span"  : "Vesti i panni di un&apos;investigatrice privata in questa incredibile avventura di oggetti nascosti ambientata in luoghi affascinanti e spettrali allo stesso tempo.
+<ul>
+<li>68 incredibili livelli mozzafiato</li>
+<li>14 minigiochi unici e coinvolgenti</li>
+<li>13 prestigiosissimi riconoscimenti</li>
+<li>Sette personaggi enigmatici</li>
+<li>Una trama appassionante e un&apos;impareggiabile grafica realizzata a mano</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: No One on Board<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Наедине с темнотой: Корабль-призрак",
+    "#slogan"     : "Разгадайте жуткую тайну корабля, который долгое время считался затерянным в море!",
+    "title_short"  : "Наедине с темнотой",
+    "article span"  : "Примерьте на себя роль частного детектива в мрачном и прекрасном мире этой приключенческой игры, полной заданий по поиску предметов и головоломок.
+<ul>
+<li>68 увлекательных и захватывающих уровней</li>
+<li>14 уникальных, интересных мини-игр</li>
+<li>13 вдохновляющих достижений</li>
+<li>Семь загадочных персонажей</li>
+<li>Сюжет, который никого не оставит равнодушным и бесподобная, прорисованная вручную графика</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Наедине с темнотой: Корабль-призрак<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Left in the Dark: 舰船魅影",
+    "title_short"  : "Left in the Dark: 舰船魅影",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: 舰船魅影<br>undefined:</h3>"
+  },
+  "lang.zh_tw"    :
+  {
+    "title"       : "Left in the Dark: 艦船魅影",
+    "title_short"  : "Left in the Dark: 艦船魅影",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: 艦船魅影<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Left in the Dark: 消えた乗組員",
+    "title_short"  : "Left in the Dark: 消えた乗組員",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: 消えた乗組員<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Left in the Dark: 유령선",
+    "title_short"  : "Left in the Dark: 유령선",
+    "ct"          : "<h3 style='text-align: center;'>Left in the Dark: 유령선<br>undefined:</h3>"
+  }
+}

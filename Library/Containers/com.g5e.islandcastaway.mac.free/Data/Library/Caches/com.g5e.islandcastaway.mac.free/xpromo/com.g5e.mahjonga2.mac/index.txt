@@ -1,0 +1,91 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Mahjongg Artifacts®: Chapter 2",
+    "#slogan"     : "Dismantle hundreds of layouts!",
+    "title_short"  : "Mahjongg Artifacts® 2",
+    "#links"      :
+    {
+      "lite"      : "http://itunes.apple.com/app/id418559912?mt=12",
+      "full"      : "http://itunes.apple.com/app/id407255773?mt=12"
+    },
+    "#youtube_id"  : "es2uY963w-0",
+    "article span"  : "Enjoy this highly addictive tile-matching game in full screen mode of the Mac! Pair up tiles to dismantle hundreds of layouts.
+<ul>
+<li>Epic Quest Mode</li>
+<li>Additional 99 levels in Classic Mode</li>
+<li>Thrilling Endless Mode</li>
+<li>Ground-breaking Powerups</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Mahjongg Artifacts®: Chapter 2<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Mahjongg Artifacts®: Chapter 2",
+    "#slogan"     : "Decke Hunderte von Layouts auf!",
+    "title_short"  : "Mahjongg Artifacts® 2",
+    "article span"  : "Erlebe dieses hoch spannende Quadratpaar-Suchspiel im Vollbild-Modus des Mac! Finde gleiche Spielsteine, um die mehreren Hundert Layouts zu lösen.
+<ul>
+<li>Epischer Abenteuermodus</li>
+<li>Weitere 99 Levels im Klassikmodus</li>
+<li>Packender Endlosmodus</li>
+<li>Bahnbrechende Powerups</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Mahjongg Artifacts®: Chapter 2<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Mahjongg Artifacts®: Chapter 2",
+    "#slogan"     : "¡Desmonta cientos de tableros!",
+    "title_short"  : "Mahjongg Artifacts® 2",
+    "article span"  : "¡Disfruta de este juego de parejas tan adictivo a pantalla completa del Mac! Empareja las fichas para descubrir cientos de patrones.
+<ul>
+<li>Modo Misión Épica</li>
+<li>99 niveles adicionales en el Modo Clásico</li>
+<li>Un Modo Sinfín súper excitante</li>
+<li>Potenciadores descomunales</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Mahjongg Artifacts®: Chapter 2<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Mahjongg Artifacts®: Chapter 2",
+    "#slogan"     : "Videz des centaines de plateaux de jeu !",
+    "title_short"  : "Mahjongg Artifacts® 2",
+    "article span"  : "Goûtez aux plaisirs addictifs de ce jeu d&apos;appariement en mode plein écran sur Mac ! Retrouvez la paire correspondant à chaque tuile afin de résoudre des centaines de modèles.
+<ul>
+<li>Mode Conquête</li>
+<li>99 niveaux supplémentaires en mode classique</li>
+<li>Mode « infini » ultra-grisant</li>
+<li>Bonus révolutionnaires</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Mahjongg Artifacts®: Chapter 2<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Mahjongg Artifacts®: Chapter 2",
+    "#slogan"     : "Smantella centinaia di schemi!",
+    "title_short"  : "Mahjongg Artifacts® 2",
+    "article span"  : "In Mahjongg Artifacts: Chapter 2 Mac vi sono così tante tessere da abbinare da tenerti incollato allo schermo per mesi! Accoppia le tessere per far sparire centinaia di layout.
+<ul>
+<li>Modalità Ricerca Epica</li>
+<li>99 livelli addizionali in Modalità Classica</li>
+<li>Fantastica Modalità Infinita</li>
+<li>Potenziatori fantastici</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Mahjongg Artifacts®: Chapter 2<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Маджонг Артефакт 2",
+    "#slogan"     : "Разберите сотни головоломок!",
+    "title_short"  : "Маджонг Артефакт 2",
+    "article span"  : "В полноэкранном режиме Mac’а эта увлекательная игра жанра маджонг доставит Вам огромное удовольствие! Найдите парные фишки и разберите сотни пирамид разных конфигураций.
+<ul>
+<li>Эпический Quest режим</li>
+<li>99 дополнительных уровней в Классическом режиме</li>
+<li>Увлекательный бесконечный режим</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Маджонг Артефакт 2<br>выйдет через:</h3>"
+  }
+}

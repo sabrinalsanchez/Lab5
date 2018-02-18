@@ -1,0 +1,62 @@
+{
+"lang.en":
+{
+  "#backButton" : "Back",
+  "#exitButton" : "Exit",
+  "p.news a"   : "News<span>?</span>",
+  "p.home a"   : "Featured",
+  "p.home-gf a": "Home",
+  "p.support a": "Support",
+  "p.games a"  : "Games"
+},
+"lang.de":
+{
+  "#backButton" : "Zurück",
+  "#exitButton" : "Beenden",
+  "p.news a"   : "Neuigkeiten<span>?</span>",
+  "p.home a"   : "Empfohlen",
+  "p.home-gf a": "Home",
+  "p.support a": "Support",
+  "p.games a"  : "Spiele"
+},
+"lang.es":
+{
+  "#backButton" : "Atrás",
+  "#exitButton" : "Salir",
+  "p.news a"   : "Noticias<span>?</span>",
+  "p.home a"   : "Destacado",
+  "p.home-gf a": "Inicio",
+  "p.support a": "Soporte",
+  "p.games a"  : "Juegos"
+},
+"lang.fr":
+{
+  "#backButton" : "Retour",
+  "#exitButton" : "Quitter",
+  "p.news a"   : "Infos<span>?</span>",
+  "p.home a"   : "Sélection",
+  "p.home-gf a": "Accueil",
+  "p.support a": "Support",
+  "p.games a"  : "Jeux"
+},
+"lang.it":
+{
+  "#backButton" : "Indietro",
+  "#exitButton" : "Esci",
+  "p.news a"   : "Notizie<span>?</span>",
+  "p.home a"   : "In primo",
+  "p.home-gf a": "Principale",
+  "p.support a": "Supporto",
+  "p.games a"  : "Giochi"
+},
+"lang.ru":
+{
+  "#backButton" : "Назад",
+  "#exitButton" : "Выход",
+  "p.news a"   : "Новости<span>?</span>",
+  "p.home a"   : "Новинки",
+  "p.home-gf a": "Главная",
+  "p.support a": "Поддержка",
+  "p.games a"  : "Игры"
+}
+}

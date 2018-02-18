@@ -1,0 +1,59 @@
+{
+    "lang.en": {
+        "title": "Fix-It-Up 80s: Meet Kate’s Parents",
+        "#slogan": "A trip back to the 80&apos;s!",
+        "title_short": "Fix-It-Up 80s",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id524685691?mt=12",
+            "full": "http://itunes.apple.com/app/id524684778?mt=8"
+        },
+        "#youtube_id": "YlliVP85A4o",
+        "genre": "ST",
+        "article span": "Take a trip back to the 80&apos;s in this totally tubular, time management adventure! Experience the thrill of success more than ever before in Fix-it-Up 80&apos;s: Meet Kate&apos;s Parents!<ul><li>45 Levels and 7 Free Play levels</li><li>7 Unique locations</li><li>10 Types of cars and 6 emergency vehicles to fix</li><li>Hire employees and train them</li><li>Upgrades, achievements and more!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up 80s: Meet Kate’s Parents<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Fix-It-Up 80s: Meet Kate’s Parents",
+        "#slogan": "Eine Reise zurück in die 80er!",
+        "title_short": "Fix-It-Up 80s",
+        "article span": "Unternimm in diesem vollkommen coolen Zeitmanagement-Abenteuer eine Zeitreise zurück in die 80er! Erlebe einen Erfolgskick wie noch nie zuvor in \"Fix-it-up 80s: Meet Kate’s Parents\"!<ul><li>45 Level und 7 Freispiel-Level</li><li>7 Einzigartige Schauplätze</li><li>10 Autotypen und 6 Einsatzfahrzeuge zum Reparieren</li><li>Stelle Angestellte ein und trainiere sie</li><li>Upgrades, Erfolge und mehr!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up 80s: Meet Kate’s Parents<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Fix-It-Up 80s: Meet Kate’s Parents",
+        "#slogan": "¡Retrocede a los años ochenta!",
+        "title_short": "Fix-It-Up 80s",
+        "article span": "¡Realiza un viaje de regreso a los años 80 en esta aventura totalmente tubular, de administración de tiempo! ¡Experimenta la emoción del éxito más que nunca antes en Fix-it-up 80s: Meet Kate’s Parents!<ul><li>45 Niveles y 7 niveles de Free Play</li><li>7 Lugares únicos</li><li>10 Tipos de coches y 6 vehículos de emergencia para arreglar</li><li>Contratar a los empleados y porporcionales entrenamiento</li><li>¡Actualizaciones, logros y mucho más!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up 80s: Meet Kate’s Parents<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Fix-It-Up 80s: Meet Kate’s Parents",
+        "#slogan": "Retour dans les années 80 !",
+        "title_short": "Fix-It-Up 80s",
+        "article span": "Préparez-vous à (re)plonger au cœur des années 80 et à embarquer pour une incroyable aventure de gestion de temps ! Laissez-vous griser par le succès dans Fix-it-Up 80&apos;s: Meet Kate&apos;s Parents !<ul><li>45 Niveaux et 7 niveaux de jeu libre</li><li>7 Lieux uniques</li><li>10 Types de voitures et 6 véhicules d&apos;urgence à réparer</li><li>Embauchez des employés et formez-les</li><li>Des améliorations, des réalisations et bien plus encore !</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up 80s: Meet Kate’s Parents<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Fix-It-Up 80s: Meet Kate’s Parents",
+        "#slogan": "Un viaggio negli anni 80!",
+        "title_short": "Fix-It-Up 80s",
+        "article span": "Fai un salto indietro negli anni 80 in questa avventura completamente tubolare di gestione del tempo! Prova il brivido del successo più forte mai provato prima in Fix-it-up 80s: Meet Kate’s Parents!<ul><li>45 Livelli e 7 livelli di gioco libero</li><li>7 Località uniche</li><li>10 Tipi di auto e 6 vetture d&apos;emergenza da riparare</li><li>Assumi e addestra i tuoi dipendenti</li><li>Migliorie, obbiettivi e tanto ancora!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up 80s: Meet Kate’s Parents<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Починяй-ка: Знакомство с родителями",
+        "#slogan": "Назад в 80-ые!",
+        "title_short": "Починяй-ка 80е",
+        "article span": "Окунитесь в эпоху легендарных 80-х в этом фантастическом приключении в жанре тайм-менеджмент! Сделайте ваше семейное дело еще более успешным и процветающим в игре Починяй-ка: Знакомство с родителями!<ul><li>45 Уровней и 7 уровней в режиме Free play</li><li>7 Уникальных локаций</li><li>10 Видов автомобилей и 6 спецмашин</li><li>Квалифицированные помощники</li><li>Апгрейды, награды и многое другое!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Починяй-ка: Знакомство с родителями<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Fix-it-up 80s: Meet Kate’s Parents"
+    },
+    "lang.ja": {
+        "title": "Fix-it-up 80s: Meet Kate’s Parents"
+    },
+    "lang.ko": {
+        "title": "Fix-it-up 80s: Meet Kate’s Parents"
+    }
+}

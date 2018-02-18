@@ -1,0 +1,50 @@
+{
+    "lang.en": {
+        "title": "Supermarket Management",
+        "#slogan": "Reach the top of the corporation!",
+        "title_short": "Supermark Managmnt",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id444712268?mt=12",
+            "full": "http://itunes.apple.com/app/id436123841?mt=12"
+        },
+        "#youtube_id": "PSv5DeEibYE",
+        "genre": "ST",
+        "article span": "Help Kate climb her way to the top and become Supermarket Manager!<ul><li>49 challenging levels</li><li>4 different shops</li><li>More than 13 upgrades for your shop and your character</li><li>9 sale mini-games</li><li>3 assistants to hire</li><li>3 more special-task counters to purchase and upgrade</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Management<br>will be available in:<h3>"
+    },
+    "lang.de": {
+        "title": "Supermarket Management",
+        "#slogan": "Schaffe es bis an die Spitze des Unternehmens!",
+        "title_short": "Supermark Managmnt",
+        "article span": "Hilf Kate bei ihrer Karriere zur Supermarkt-Managerin!<ul><li>49 anspruchsvolle Levels</li><li>4 verschiedene Läden</li><li>Über 13 Upgrades für deinen Laden und deinen Charakter</li><li>9 Verkaufs-Minispiele</li><li>3 Verkäufer zum Einstellen</li><li>3 weitere Ladentheken mit Sonderaufgaben zum Kaufen und Upgraden</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Management<br>ist in:<h3>"
+    },
+    "lang.es": {
+        "title": "Supermarket Management",
+        "#slogan": "¡Llega a lo más alto de la empresa!",
+        "title_short": "Supermark Managmnt",
+        "article span": "¡Ayuda a Kate a alcanzar el éxito para que se convierta en Supermarket Manager!<ul><li>49 niveles desafiantes</li><li>4 tiendas distintas</li><li>Más de 13 mejoras para tu tienda y tu personaje</li><li>9 minijuegos de ofertas</li><li>3 ayudantes a quien puedes contratar</li><li>3 mostradores de tarea especial adicionales que puedes comprar y mejorar</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Management<br>estara disponible en:<h3>"
+    },
+    "lang.fr": {
+        "title": "Supermarket Management",
+        "#slogan": "Devenez le grand boss !",
+        "title_short": "Supermark Managmnt",
+        "article span": "Aidez Kate à grimper les échelons et à devenir patronne de supermarché !<ul><li>49 niveaux exaltants</li><li>4 magasins différents</li><li>Plus de 13 améliorations pour votre magasin et votre personnage</li><li>9 mini-jeux de vente</li><li>3 assistants à employer</li><li>3 présentoirs spéciaux</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Management<br>sera disponible dans:<h3>"
+    },
+    "lang.it": {
+        "title": "Supermarket Management",
+        "#slogan": "Sali ai vertici della società!",
+        "title_short": "Supermark Managmnt",
+        "article span": "Aiuta Kate a fare carriera e a diventare la direttrice di un supermercato!<ul><li>49 livelli complicatissimi</li><li>4 negozi diversi</li><li>Più di 13 potenziamenti per il tuo negozio e il tuo personaggio</li><li>9 mini giochi di vendita</li><li>3 assistenti da assumere</li><li>Altri 3 banconi speciali da acquistare e potenziare</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Supermarket Management<br>sara disponibile tra:<h3>"
+    },
+    "lang.ru": {
+        "title": "Торговый переполох",
+        "#slogan": "Поднимитесь на самую вершину карьерной лестницы!",
+        "title_short": "Торговый переполох",
+        "article span": "Помогите Кейт сделать успешную карьеру и стать менеджером супермаркета!<ul><li>49 Увлекательных уровней</li><li>4 Магазина</li><li>Более 13 апгрейдов для Вашего магазина</li><li>9 Мини-игр распродаж</li><li>3 Помощника</li><li>3 Специальных прилавка для покупки и апгрейда</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Торговый переполох<br>выйдет через:<h3>"
+    }
+}

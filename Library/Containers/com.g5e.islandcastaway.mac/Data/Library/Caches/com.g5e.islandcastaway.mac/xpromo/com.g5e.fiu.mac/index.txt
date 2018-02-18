@@ -1,0 +1,62 @@
+{
+    "lang.en": {
+        "title": "Fix-it-up: Kate's Adventure",
+        "#slogan": "Fix up cars and find true love!",
+        "title_short": "Fix-it-up",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id466758419?mt=12",
+            "full": "http://itunes.apple.com/app/id466757641?mt=12"
+        },
+        "#youtube_id": "wapJnAlQ3k8",
+        "genre": "ST",
+        "article span": "Get ready for a time management adventure with Kate that will keep you on your toes! So, roll up your sleeves and prepare for a variety of challenges in six exciting locations. Expand the franchise from arid Nevada to glamorous Hollywood. Save the shop, fix up cool cars, and maybe even find true love in Fix-it-up: Kate's Adventure!<ul><li>30 Challenging Levels in 6 Settings</li><li>10 Types of cars</li><li>12 Time and Money Challenges</li><li>Hours of time management fun!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-it-up: Kate's Adventure<br>will be available in:<h3>"
+    },
+    "lang.de": {
+        "title": "Fix-it-up: Kate's Adventure",
+        "#slogan": "Richte Autos her und finde die wahre Liebe!",
+        "title_short": "Fix-it-up",
+        "article span": "Mach dich auf ein Zeitmanagement-Abenteuer mit Kate gefasst, das dich ordentlich auf Trab hält! Kremple also die Ärmel hoch und mach dich auf viele Herausforderungen an sechs reizenden Orten bereit. Erweitere sie zu einer Franchise-Firma vom trockenen Nevada bis hin zum glamourösen Hollywood. Rette die Firma, richte coole Autos her und finde vielleicht sogar wahre Liebe in Fix-it-up: Kates Abenteuer!<ul><li>30 herausfordernde Level an 6 Orten</li><li>10 Autotypen</li><li>12 Zeit- und Geldherausforderungen</li><li>Stundenlanger Management-Spaß</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-it-up: Kate's Adventure<br>ist in:<h3>"
+    },
+    "lang.es": {
+        "title": "Fix-it-up: Kate's Adventure",
+        "#slogan": "¡Repara coches y encuentra el amor verdadero!",
+        "title_short": "Fix-it-up",
+        "article span": "¡Prepárate para una aventura de gestión del tiempo que te mantendrá en vilo! Por lo tanto, remángate la camisa y prepárate para una variedad de desafíos en seis ubicaciones emocionantes. Amplía la franquicia desde el árido estado de Nevada hasta el glamuroso Hollywood. Salva el taller, arregla coches geniales y quizás incluso encuentres el amor verdadero en Fix-it-up: Kate's Adventure!<ul><li>30 desafiantes niveles en 6 escenarios</li><li>10 tipos de coches</li><li>12 desafíos de tiempo y dinero</li><li>¡Muchas horas de divertida gestión del tiempo!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-it-up: Kate's Adventure<br>estara disponible en:<h3>"
+    },
+    "lang.fr": {
+        "title": "Fix-it-up: Kate's Adventure",
+        "#slogan": "Réparez des voitures et trouvez l'amour",
+        "title_short": "Fix-it-up",
+        "article span": "Enfilez votre bleu et préparez-vous à mettre les mains dans le cambouis dans ce nouveau jeu de gestion du temps ! Retroussez vos manches et embarquez dans une aventure riche en péripéties dans six magnifiques lieux. Développez une chaîne d'ateliers auto du Nevada désertique jusqu'aux boulevards huppés d'Hollywood. Sauvez l'entreprise, réparez des voitures de rêve et qui sait, peut-être trouverez-vous l'amour dans Fix-it-up: Kate's Adventure !<ul><li>30 niveaux redoutables dans 6 décors</li><li>10 modèles de voiture</li><li>12 défis de gestion de temps et d'argent</li><li>Des heures de gestion stratégique !</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-it-up: Kate's Adventure<br>sera disponible dans:<h3>"
+    },
+    "lang.it": {
+        "title": "Fix-it-up: Kate's Adventure",
+        "#slogan": "Ripara le auto e trova il vero amore!",
+        "title_short": "Fix-it-up",
+        "article span": "Preparati per un'avventura di gestione temporale che ti terrà sul filo del rasoio! Perciò dovrà rimboccarsi le maniche e prepararsi per una serie di sfide in sei divertenti luoghi. Apri una catena di autofficine, dal desertico Nevada fino all'elegante Hollywood. Salva il negozio, sistema bellissime auto e forse riuscirai anche a trovare il vero amore in Fix-it-up: Kate's Adventure!<ul><li>30 livelli impegnativi in 6 ambientazioni</li><li>10 tipi di auto</li><li>12 sfide di tempo e denaro</li><li>Ore di divertimento di gestione temporale!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-it-up: Kate's Adventure<br>sara disponibile tra:<h3>"
+    },
+    "lang.ru": {
+        "title": "Починяй-ка: Мастерская Кейт",
+        "#slogan": "Ремонтируйте машины и найдите свою любовь!",
+        "title_short": "Починяй-ка",
+        "article span": "Готовы к приключению, которое не даст вам расслабиться ни на минуту?! После возвращения домой из колледжа, Кейт находит, что автосервис ее отца пришел в упадок. Но девушка не привыкла сдаваться без боя! В игре вас ждет более 10 видов автомобилей, несколько различных мастерских и множество неожиданных сюрпризов! Сохраните мастерскую, ремонтируйте крутые машины, найдите свою вторую половинку в Починяй-ка: Мастерская Кейт!<ul><li>30 захватывающих уровней в 6 сеттингах</li><li>10 видов автомобилей</li><li>12 бизнес игр</li><li>Интереснейшая бизнес-стратегия</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Починяй-ка: Мастерская Кейт<br>выйдет через:<h3>"
+    },
+    "lang.zh": {
+        "title": "Fix-it-up: Kate’s Adventure",
+        "title_short": "Fix-it-up: Kate’s Adventure"
+    },
+    "lang.ja": {
+        "title": "Fix-it-up: Kate’s Adventure",
+        "title_short": "Fix-it-up: Kate’s Adventure"
+    },
+    "lang.ko": {
+        "title": "Fix-it-up: Kate’s Adventure",
+        "title_short": "Fix-it-up: Kate’s Adventure"
+    }
+}

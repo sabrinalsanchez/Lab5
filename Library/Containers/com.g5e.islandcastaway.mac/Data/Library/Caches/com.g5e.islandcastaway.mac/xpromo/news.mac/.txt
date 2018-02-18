@@ -1,0 +1,235 @@
+{
+  "2013/10/14"  :
+  {
+    "name"  :
+    {
+      "en"  : "Weekly SALE!",
+      "de"  : "Wöchentliche AKTION!",
+      "es"  : "¡OFERTA semanal!",
+      "fr"  : "PROMO hebdomadaire !",
+      "it"  : "SVENDITA settimanale!",
+      "ru"  : "Еженедельная РАСПРОДАЖА!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-10-14_en.html",
+      "de"  : "2013-10-14_de.html",
+      "es"  : "2013-10-14_es.html",
+      "fr"  : "2013-10-14_fr.html",
+      "it"  : "2013-10-14_it.html",
+      "ru"  : "2013-10-14_ru.html"
+    },
+    "date"  : "2013/10/14",
+    "date_end"  : "2013/10/21"
+  },
+  "2013/10/02"  :
+  {
+    "name"  :
+    {
+      "en"  : "Special Enquiry Detail: Engaged to Kill, the riveting sequel to Special Enquiry Detail: The Hand That Feeds, is now available for Mac!",
+      "de"  : "Special Enquiry Detail: Engaged to Kill, der fesselnde Nachfolger von Special Enquiry Detail: The Hand That Feeds, ist nun für Mac erhältlich!",
+      "es"  : "Special Enquiry Detail: Engaged to Kill, la emocionante continuación de Special Enquiry Detail: The Hand That Feeds, ¡ya está disponible para Mac!",
+      "fr"  : "Special Enquiry Detail: Engaged to Kill, la suite passionnante de Special Enquiry Detail: The Hand That Feeds, est désormais disponible sur Mac !",
+      "it"  : "Special Enquiry Detail: Engaged to Kill, l'affascinante seguito di Special Enquiry Detail: The Hand That Feeds, è ora disponibile per Mac!",
+      "ru"  : "Департамент особых расследований: Обрученные со Смертью, захватывающее продолжение игры Департамент Особых Расследований, уже доступен на Mac!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-10-02_en.html",
+      "de"  : "2013-10-02_de.html",
+      "es"  : "2013-10-02_es.html",
+      "fr"  : "2013-10-02_fr.html",
+      "it"  : "2013-10-02_it.html",
+      "ru"  : "2013-10-02_ru.html"
+    }
+  },
+  "2013/09/04"  :
+  {
+    "name"  :
+    {
+      "en"  : "Twin Moons, a thrilling hidden object adventure, is now available on Mac!",
+      "de"  : "Twin Moons, ein spannendes Wimmelbildabenteuer, ist jetzt auf Mac verfügbar!",
+      "es"  : "Twin Moons, una emocionante aventura de objetos ocultos, ¡ya está disponible para Mac!",
+      "fr"  : "Twin Moons, une aventure passionnante truffée d'objets cachés, est disponible sur Mac !",
+      "it"  : "Twin Moons, un'elettrizzante avventura a oggetti nascosti, è ora disponibile per Mac!",
+      "ru"  : "Две луны, невероятное приключение в жанре поиска скрытых предметов, теперь на Mac!<br />"
+    },
+    "href"  :
+    {
+      "en"  : "2013-09-04_en.html",
+      "de"  : "2013-09-04_de.html",
+      "es"  : "2013-09-04_es.html",
+      "fr"  : "2013-09-04_fr.html",
+      "it"  : "2013-09-04_it.html",
+      "ru"  : "2013-09-04_ru.html"
+    }
+  },
+  "2013/07/31"  :
+  {
+    "name"  :
+    {
+      "en"  : "Righteous Kill, a heart-pounding hidden object game, is now available on Mac as a full app!",
+      "de"  : "Righteous Kill, ein packendes Wimmelbildspiel, ist jetzt als kostenpflichtige Vollversion für Mac verfügbar!",
+      "es"  : "Righteous Kill, un emocionante juego de objetos ocultos, ¡ya está disponible para Mac como aplicación completa de pago!",
+      "fr"  : "Righteous Kill, un jeu d'objets cachés haletant, est désormais disponible sur Mac sous forme d'appli complète et payante !",
+      "it"  : "Righteous Kill, un gioco a oggetti nascosti da cardiopalma, è ora disponibile per Mac come app completa a pagamento!",
+      "ru"  : "Право на убийство, захватывающий триллер в жанре поиска предметов, теперь на Мас в полной версии!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-07-31_en.html",
+      "de"  : "2013-07-31_de.html",
+      "es"  : "2013-07-31_es.html",
+      "fr"  : "2013-07-31_fr.html",
+      "it"  : "2013-07-31_it.html",
+      "ru"  : "2013-07-31_ru.html"
+    }
+  },
+  "2013/07/25"  :
+  {
+    "name"  :
+    {
+      "en"  : "Where Angels Cry, a mysterious and shocking hidden object adventure, is now available on Mac as a full, paid app!",
+      "de"  : "Where Angels Cry, ein geheimnisvolles und aufregendes Wimmelbildspiel, ist jetzt auf Mac als bezahlte App in Vollversion verfügbar!",
+      "es"  : "Where Angels Cry, una misteriosa y sorprendente aventura de objetos ocultos, ¡ya está disponible para Mac como aplicación completa de pago!",
+      "fr"  : "Where Angels Cry, une aventure d'objets cachés mystérieuse et bouleversante, est désormais disponible sur Mac sous forme d'appli complète et payante !",
+      "it"  : "Where Angels Cry, quest'avventura di oggetti nascosti sbalorditiva e misteriosa è ora disponibile per Mac come app completa a pagamento!",
+      "ru"  : "Когда ангелы плачут - потрясающее полное тайн приключение в жанре поиска предметов, теперь на Мас в полной, платной версии!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-07-25_en.html",
+      "de"  : "2013-07-25_de.html",
+      "es"  : "2013-07-25_es.html",
+      "fr"  : "2013-07-25_fr.html",
+      "it"  : "2013-07-25_it.html",
+      "ru"  : "2013-07-25_ru.html"
+    }
+  },
+  "2013/06/20"  :
+  {
+    "name"  :
+    {
+      "en"  : "Red Crow Mysteries: Legion, a dangerous and mystical adventure, is now available for Mac!",
+      "de"  : "Red Crow Mysteries: Legion, ein gefährliches und geheimnisvolles Abenteuer, ist jetzt für den Mac verfügbar!",
+      "es"  : "Red Crow Mysteries: Legion, una aventura arriesgada y mística, ¡ya está disponible para Mac!",
+      "fr"  : "Red Crow Mysteries: Legion, une aventure mystique et périlleuse, est désormais disponible sur Mac !",
+      "it"  : "Red Crow Mysteries: Legion, un'avventura mistica e pericolosa, è ora disponibile per Mac!",
+      "ru"  : "Тайна Красного ворона: Легион, головокружительное приключение, теперь доступно на Mac!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-06-20_en.html",
+      "de"  : "2013-06-20_de.html",
+      "es"  : "2013-06-20_es.html",
+      "fr"  : "2013-06-20_fr.html",
+      "it"  : "2013-06-20_it.html",
+      "ru"  : "2013-06-20_ru.html"
+    }
+  },
+  "2013/06/13"  :
+  {
+    "name"  :
+    {
+      "en"  : "Righteous Kill, a heart-pounding hidden object game, is now available for Mac!",
+      "de"  : "Righteous Kill, ein packendes Wimmelbildspiel, ist jetzt für den Mac verfügbar!",
+      "es"  : "Righteous Kill, un emocionante juego de objetos ocultos, ¡ya está disponible para Mac!",
+      "fr"  : "Righteous Kill, un jeu d'objets cachés haletant, est désormais disponible sur Mac !",
+      "it"  : "Righteous Kill, un gioco a oggetti nascosti da cardiopalma, è ora disponibile per Mac!",
+      "ru"  : "Право на убийство, захватывающий триллер в жанре поиска предметов, теперь на Mac!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-06-13_en.html",
+      "de"  : "2013-06-13_de.html",
+      "es"  : "2013-06-13_es.html",
+      "fr"  : "2013-06-13_fr.html",
+      "it"  : "2013-06-13_it.html",
+      "ru"  : "2013-06-13_ru.html"
+    }
+  },
+  "2013/04/25"  :
+  {
+    "name"  :
+    {
+      "en"  : "Old Clockmaker’s Riddle, a captivating match-3 puzzle adventure, is now available on Mac as a full, paid app!",
+      "de"  : "Old Clockmaker’s Riddle, ein spannendes 3-gewinnt-Abenteuer, ist jetzt auf Mac als bezahlte App in Vollversion verfügbar!",
+      "es"  : "Old Clockmaker’s Riddle, una cautivadora aventura de combinar gemas, ¡ya está disponible para Mac como aplicación completa de pago!",
+      "fr"  : "Savant mélange d'aventure et de casse-tête de type Match-3, Old Clockmaker’s Riddle est désormais disponible sur Mac sous forme d'appli complète et payante !",
+      "it"  : "Old Clockmaker’s Riddle, un'accattivante avventura abbina-3, è ora disponibile per Mac come app completa a pagamento!",
+      "ru"  : "Загадка Старого Часовщика, захватывающее приключение жанра три в ряд теперь в полной, платной версии на Мас!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-04-25_en.html",
+      "de"  : "2013-04-25_de.html",
+      "es"  : "2013-04-25_es.html",
+      "fr"  : "2013-04-25_fr.html",
+      "it"  : "2013-04-25_it.html",
+      "ru"  : "2013-04-25_ru.html"
+    }
+  },
+  "2013/04/12"  :
+  {
+    "name"  :
+    {
+      "en"  : "G5 Games is now on Pinterest!",
+      "de"  : "G5 Games ist jetzt auf Pinterest!",
+      "es"  : "¡G5 Games ya está en Pinterest!",
+      "fr"  : "G5 Games vous attend sur Pinterest !",
+      "it"  : "G5 Games ora è su Pinterest!",
+      "ru"  : "G5 Games на Pinterest!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-04-12_en.html",
+      "de"  : "2013-04-12_de.html",
+      "es"  : "2013-04-12_es.html",
+      "fr"  : "2013-04-12_fr.html",
+      "it"  : "2013-04-12_it.html",
+      "ru"  : "2013-04-12_ru.html"
+    }
+  },
+  "2013/04/11"  :
+  {
+    "name"  :
+    {
+      "en"  : "Art Mogul, a thrilling mix of hidden object, strategy and business simulation, is now available on Mac!",
+      "de"  : "Art Mogul, eine spannende Mischung aus Wimmelbild-, Strategiespiel und Geschäftssimulation, ist jetzt für den Mac verfügbar!",
+      "es"  : "Art Mogul, una emocionante mezcla de objetos ocultos, estrategia y simulación empresarial, ¡ya está disponible para Mac!",
+      "fr"  : "Art Mogul, un mélange captivant de stratégie, de simulation commerciale et de jeu d'objets cachés, est désormais disponible sur Mac !",
+      "it"  : "Art Mogul, un elettrizzante miscuglio di oggetti nascosti, strategia e simulazione economica, è ora disponibile su Mac!",
+      "ru"  : "Магнат искусства, великолепная игра, сочетающая в себе  поиск скрытых предметов, стратегию и бизнес симулятор, теперь на Мас!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-04-11_en.html",
+      "de"  : "2013-04-11_de.html",
+      "es"  : "2013-04-11_es.html",
+      "fr"  : "2013-04-11_fr.html",
+      "it"  : "2013-04-11_it.html",
+      "ru"  : "2013-04-11_ru.html"
+    }
+  },
+  "2013/04/01"  :
+  {
+    "name"  :
+    {
+      "en"  : "G5 Games is now on Instagram!",
+      "de"  : "G5 Games ist jetzt auf Instagram!",
+      "es"  : "¡G5 Games ya está en Instagram!",
+      "fr"  : "Retrouvez G5 Games sur Instagram !",
+      "it"  : "G5 Games ora è su Instagram!",
+      "ru"  : "Ищите G5 Games на Instagram!"
+    },
+    "href"  :
+    {
+      "en"  : "2013-04-01_en.html",
+      "de"  : "2013-04-01_de.html",
+      "es"  : "2013-04-01_es.html",
+      "fr"  : "2013-04-01_fr.html",
+      "it"  : "2013-04-01_it.html",
+      "ru"  : "2013-04-01_ru.html"
+    }
+  }
+}

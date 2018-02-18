@@ -1,0 +1,100 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Royal Trouble",
+    "#slogan"     : "Save two royal heirs!",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id511909327?mt=12",
+      "full"      : "http://itunes.apple.com/app/id511911534?mt=12"
+    },
+    "#youtube_id"  : "CpCfKuuVgnY",
+    "article span"  : "Help two charming royal heirs escape from a secluded island in this hidden object quest! Solve the mystery of their captivity, and watch love blossom in this charming adventure game with fun twists and turns.
+<ul>
+<li>22 Entertaining locations</li>
+<li>16 Intricate mini games</li>
+<li>Charming witty characters</li>
+<li>Explosive combination of mystery, romance and fun!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Royal Trouble",
+    "#slogan"     : "Rette zwei königliche Erben!",
+    "article span"  : "Hilf in dieser Wimmelbild-Quest zwei charmanten königlichen Erben bei ihrer Flucht von einer abgeschiedenen Insel! Decke das Geheimnis um ihre Gefangenschaft auf und beobachte in diesem charmanten Abenteuer mit lustigen Wendungen, wie die Liebe zu wachsen beginnt.
+<ul>
+<li>22 unterhaltsame Orte</li>
+<li>16 schwierige Minispiele</li>
+<li>Charmante &amp; witzige Charaktere</li>
+<li>Ein explosives Gemisch von Geheimnissen, Romantik und Spaß!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Royal Trouble",
+    "#slogan"     : "¡Salva a dos herederos al trono!",
+    "article span"  : "¡Ayuda a dos herederos de la corona a escapar de su isla prisión en este desafío de objetos perdidos! Resuelve el misterio de su cautividad y observa como aflora el amor en este encantador juego de aventuras con inesperados giros.
+<ul>
+<li>22 entretenidos escenarios.</li>
+<li>16 intrincados minijuegos.</li>
+<li>Entrañables personajes</li>
+<li>¡Una explosiva combinación de misterio, romance y diversión!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Royal Trouble",
+    "#slogan"     : "Sauvez deux héritiers royaux !",
+    "article span"  : "Aidez deux héritiers royaux à fuir une île déserte dans cette quête d&apos;objets cachés ! Percez le mystère de leur captivité et regardez l&apos;amour naître dans cette aventure charmante aux multiples rebondissements ! Resuelve el misterio de su cautividad y observa como aflora el amor en este encantador juego de aventuras con inesperados giros.
+<ul>
+<li>22 lieux amusants</li>
+<li>16 mini-jeux complexes</li>
+<li>Personnages attachants</li>
+<li>Mariage explosif de mystère, romance et délire !</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Royal Trouble",
+    "#slogan"     : "Salva due eredi al trono!",
+    "article span"  : "Aiuta due nobili affascinanti a fuggire da un&apos;isola sperduta in questa avventura di oggetti nascosti! Risolvi il mistero della loro prigionia e osserva l&apos;amore sbocciare in questa affascinante avventura ricca di svolte e colpi di scena.
+<ul>
+<li>22 luoghi fantastici</li>
+<li>16 mini giochi impegnativi</li>
+<li>Personaggi davvero affascinanti</li>
+<li>Una combinazione esplosiva di mistero, amore e divertimento!</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Королевские Тайны",
+    "#slogan"     : "Спасите наследников двух королевских домов!",
+    "article span"  : "В этом занимательном квесте в жанре «поиск предметов» вы поможете двум очаровательным молодым королевским наследникам сбежать с безлюдного острова! Раскройте тайну похищения Лорин и Натаниэля и станьте свидетелем зарождения их любви в этой приключенческой игре, полной забавных непредсказуемых поворотов.
+<ul>
+<li>22 Занимательные локации</li>
+<li>16 Непростых мини-игр</li>
+<li>Симпатичные остроумные персонажи</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Королевские Тайны<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Royal Trouble: Hidden Adventures",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble: Hidden Adventures<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Royal Trouble: Hidden Adventures",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble: Hidden Adventures<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Royal Trouble: Hidden Adventures",
+    "ct"          : "<h3 style='text-align: center;'>Royal Trouble: Hidden Adventures<br>undefined:</h3>"
+  }
+}

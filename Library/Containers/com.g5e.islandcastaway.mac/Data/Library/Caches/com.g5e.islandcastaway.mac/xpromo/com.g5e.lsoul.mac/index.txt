@@ -1,0 +1,61 @@
+{
+    "lang.en": {
+        "title": "Lost Souls: Enchanted Paintings",
+        "#slogan": "Help Bella rescue her son!",
+        "title_short": "Lost Souls",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id580482630?mt=12",
+            "full": "http://itunes.apple.com/app/id580481954?mt=12"
+        },
+        "#youtube_id": "-zn_EZuAh8c",
+        "article span": "Join Bella as she travels through enchanted paintings, exploring the worlds within them. Save a missing boy and immerse yourself in this breathtaking adventure!<ul><li>25 Stunning locations to explore</li><li>25 Tricky mini-games to master</li><li>9 Extra locations</li><li>4 Extra mini-games</li><li>In-depth strategy guide</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Lost Souls: Enchanted Paintings<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Lost Souls: Die Verzauberten Gemälde",
+        "#slogan": "Hilf Bella, ihren Sohn zu retten!",
+        "title_short": "Lost Souls",
+        "article span": "Schließen Sie sich Bella an - auf ihrer Reise durch die verzauberten Gemälde, und erkunden Sie die Welten in ihnen. Retten Sie einen vermissten Jungen und tauchen Sie in dieses atemberaubende Abenteuer ein!<ul><li>25 Atemberaubende Orte</li><li>25 Knifflige Minispiele</li><li>9 Zusätzliche Schauplätze</li><li>4 Zusätzliche Minispiel-Rätsel</li><li>Ausführlicher Strategieleitfaden</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Lost Souls: Die Verzauberten Gemälde<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Lost Souls: Cuadros encantados",
+        "#slogan": "¡Ayuda a Bella a rescatar a su hijo!",
+        "title_short": "Lost Souls",
+        "article span": "Únete a Bella cuando viaja a través de pinturas encantadas, explorando los mundos en su interior. ¡Salva a un niño desaparecido y sumergete en esta impresionante aventura!<ul><li>25 Asombrosas ubicaciones para explorar</li><li>25 Intrigantes mini-juegos para dominar</li><li>9 Ubicaciones adicionales</li><li>4 Mini-juegos puzzles extra</li><li>Guía de Estrategia</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Lost Souls: Cuadros encantados<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Lost Souls: Le Portrait Ensorcelé",
+        "#slogan": "Aidez Bella à secourir son fils !",
+        "title_short": "Lost Souls",
+        "article span": "Rejoignez Bella, et plongez au cœur de tableaux magiques pour en explorer les mondes fantastiques. Sauvez un enfant qui a disparu et embarquez pour une aventure haletante !<ul><li>25 Lieux pittoresques à explorer</li><li>25 Mini-jeux captivants à maîtriser</li><li>9 Lieux supplémentaires</li><li>4 Mini-jeux/énigmes supplémentaires</li><li>Guide stratégique détaillé</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Lost Souls: Le Portrait Ensorcelé<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Lost Souls: I Dipinti Incantati",
+        "#slogan": "Aiuta Bella a salvare suo figlio!",
+        "title_short": "Lost Souls",
+        "article span": "Unisciti a Bella nel suo viaggio fra dipinti incantati, esplorando i mondi in essi contenuti. Salva un ragazzo scomparso e immergiti in questa avventura mozzafiato!<ul><li>25 Splendidi luoghi da esplorare</li><li>25 Difficili minigiochi da affrontare</li><li>9 Scenari extra</li><li>4 Mini-giochi extra</li><li>Guida strategica approfondita</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Lost Souls: I Dipinti Incantati<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Потерянные Души: Заколдованные Картины",
+        "#slogan": "Помогите Белле спасти сына!",
+        "title_short": "Потерянные Души",
+        "article span": "Отправляйтесь вместе с Беллой в путешествие сквозь заколдованные картины и исследуйте миры внутри полотен. Погрузитесь в это захватывающее приключение и спасите пропавшего мальчика!<ul><li>25 Великолепных локаций</li><li>25 Непростых мини-игр</li><li>9 Дополнительных локаций</li><li>4 Дополнительные мини-игры</li><li>Подробное руководство по игре</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Потерянные Души: Заколдованные Картины<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Lost Souls: 失落灵魂",
+        "title_short": "Lost Souls: 失落灵魂"
+    },
+    "lang.ja": {
+        "title": "Lost Souls: ロスト・ソウルズ",
+        "title_short": "Lost Souls: ロスト・ソウルズ"
+    },
+    "lang.ko": {
+        "title": "Lost Souls: 잃어버린 영혼",
+        "title_short": "Lost Souls: 잃어버린 영혼"
+    }
+}

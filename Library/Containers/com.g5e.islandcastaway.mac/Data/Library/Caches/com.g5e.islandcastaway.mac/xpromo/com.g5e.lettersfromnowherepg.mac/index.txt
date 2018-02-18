@@ -1,0 +1,123 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "#slogan"     : "Rid Hazewich of the spooky forces that are trying to destroy your world!",
+    "title_short"  : "Letters Mystery",
+    "title_GN"    : "Letters Mystery",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id981472983?mt=12"
+    },
+    "#youtube_id"  : "meu_h1oIa78",
+    "article span"  : "Witches are trying to conquer Hazewich, and threatening secrets from the past keep surfacing! If that weren’t enough, demons walk right by you, and scary symbols keep appearing in the morgue following enigmatic murders.. Are you ready to confront the overwhelming evil to save your old town … and may be the whole world?<br />
+<ul>
+<li>Over 3000 heart-pounding quests to fulfill</li>
+<li>52 eerie hidden object scenes to search </li>
+<li>400+ collections to gather for bonuses and awards</li>
+<li>13 different types of mini-games to master</li>
+<li>Regular free updates with loads of new content</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "#slogan"     : "Befreie Hazewich von den Kräften, die deine Welt zerstören möchten!",
+    "title_short"  : "Letters Mystery",
+    "title_GN"    : "Letters Mystery",
+    "article span"  : "Hexen versuchen Hazewich zu bekämpfen und bedrohliche Geheimnisse der Vergangenheit kommen ans Tageslicht! Als wäre das nicht schon genug, erscheinen auch Dämonen und unheimliche Symbole im Leichenschauhaus, gefolgt von rätselhaften Morden. Bist du bereit, dich dem abgrundtief Bösen entgegenzustellen, um deine alte Stadt zu retten ... und vielleicht auch die gesamte Welt?<br />
+<ul>
+<li>Mehr als 3000 fesselnde Aufgaben</li>
+<li>52 unheimliche Wimmelbildszenen</li>
+<li>400+ Sammlungen mit Bonussen und Prämien</li>
+<li>13 verschiedene Arten von Minispielen</li>
+<li>Regelmäßig kostenlose Updates mit Unmengen an neuem Inhalt</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "#slogan"     : "¡Libra Hazewich de las espeluznantes fuerzas que intentan destruir tu mundo!",
+    "title_short"  : "Letters Mystery",
+    "title_GN"    : "Letters Mystery",
+    "article span"  : "Las brujas intentan conquistar Hazewich, ¡y no paran de aflorar secretos amenazadores! Por si fuera poco, los demonios pasan a tu lado, y en la morgue no dejan de aparecer símbolos espeluznantes tras enigmáticos asesinatos… ¿Te atreves a enfrentarte al mal arrollador para salvar tu aldea… o puede que el mundo entero?<br />
+<ul>
+<li>Más de 3000 emocionantes misiones por cumplir </li>
+<li>52 espeluznantes escenas de objetos ocultos por explorar </li>
+<li>400+ colecciones por reunir para lograr bonificaciones y recompensas </li>
+<li>13 tipos distintos de minijuegos por dominar  </li>
+<li>Actualizaciones con regularidad con mucho contenido nuevo </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "#slogan"     : "Débarrassez Hazewich des forces effrayantes tentent de détruire votre monde !",
+    "title_short"  : "Letters Mystery",
+    "title_GN"    : "Letters Mystery",
+    "article span"  : "Les sorcières essaient de conquérir Hazewich, et de menaçants secrets du passé refont surface ! Comme si cela ne suffisait pas, des démons errent et des symboles effrayants ne cessent d’apparaître dans la morgue suite à d’énigmatiques meurtres... Êtes-vous prêt à affronter le mal accablant pour sauver votre ville natale... et peut-être le monde entier ?<br />
+<ul>
+<li>Plus de 3000 quêtes palpitantes à mener </li>
+<li>52 scènes d&apos;objets cachés inquiétantes à explorer </li>
+<li>400+ collections à rassembler pour recevoir des bonus et des prix </li>
+<li>13 types de mini-jeux à maîtriser </li>
+<li>Des mises à jour gratuites régulières avec beaucoup de nouveau contenu </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "#slogan"     : "Libera Hazewich dalle forze oscure che stanno cercando di distruggere il tuo mondo!",
+    "title_short"  : "Letters Mystery",
+    "title_GN"    : "Letters Mystery",
+    "article span"  : "Le streghe stanno cercando di conquistare Hazewich e dal passato continuano a riaffiorare dei minacciosi segreti! Non solo: i demoni camminano tra noi e all&apos;obitorio continuano ad apparire simboli spaventosi in seguito a degli omicidi enigmatici... Pensi di essere in grado di sfidare questo male travolgente per salvare la tua vecchia città... e forse addirittura il mondo intero?<br />
+<ul>
+<li>Più di 3000 missioni al cardiopalma da completare </li>
+<li>52 inquietanti scene a oggetti nascosti da esaminare </li>
+<li>400+ collezioni da raccogliere per bonus e premi </li>
+<li>13 diversi tipi di mini giochi da padroneggiare </li>
+<li>Aggiornamenti gratuiti regolari con molti nuovi contenuti </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Письма из Прошлого: Тайна Хейзвича",
+    "#slogan"     : "Освободите Хейзвич от зловещих сил, пытающихся разрушить ваш мир!",
+    "title_short"  : "Letters Mystery",
+    "title_GN"    : "Letters Mystery",
+    "article span"  : "Ведьмы, пытающиеся захватить город... Угрожающие тайны из прошлого... И это только начало! Демоны, которые находятся совсем рядом, странные символы, появляющиеся в морге вслед за загадочными убийствами. Готовы ли вы встретиться лицом к лицу с воплощением самого зла, чтобы спасти свой город... а может и весь мир?<br />
+<ul>
+<li>Более 3000 квестов – захватывающих и таинственных </li>
+<li>52 загадочных сцен скрытых предметов </li>
+<li>400+ коллекций, дающих бонусы и награды </li>
+<li>13 типов мини-игр </li>
+<li>Регулярные бесплатные апдейты с новым контентом </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Письма из Прошлого: Тайна Хейзвича<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>undefined:</h3>"
+  },
+  "lang.zh_tw"    :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Letters From Nowhere®: A Hidden Object Mystery",
+    "ct"          : "<h3 style='text-align: center;'>Letters From Nowhere®: A Hidden Object Mystery<br>undefined:</h3>"
+  }
+}

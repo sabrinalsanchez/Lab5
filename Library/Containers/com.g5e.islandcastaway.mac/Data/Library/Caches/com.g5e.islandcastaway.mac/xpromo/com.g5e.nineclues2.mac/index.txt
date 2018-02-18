@@ -1,0 +1,133 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "9 Clues: The Ward",
+    "#slogan"     : "What unspeakable secrets lay buried in Mnemosyne Asylum?",
+    "title_short"  : "9 Clues: The Ward",
+    "title_GN"    : "9 Clues: The Ward",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id1048146804?mt=12",
+      "full"      : "http://itunes.apple.com/app/id1048150850?mt=12"
+    },
+    "#youtube_id"  : "D2Y6624f9t0",
+    "article span"  : "Plunge into the creepiest edition yet in the gripping 9 Clues series to unravel dark secrets buried in the halls of the spooky asylum.<br />
+<ul>
+<li>42 eerie locations to explore</li>
+<li>18 challenging mini-games to play</li>
+<li>Eight suspicious characters to meet</li>
+<li>19 achievements to unlock</li>
+<li>Three difficulty modes: casual, advanced and expert</li>
+<li>Spine-tingling story set in a 1950s American mental asylum</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues: The Ward<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "9 Clues: The Ward",
+    "#slogan"     : "Welche entsetzlichen Geheimnisse liegen in der Mnemosyne-Irrenanstalt begraben?",
+    "title_short"  : "9 Clues: The Ward",
+    "title_GN"    : "9 Clues: The Ward",
+    "article span"  : "Tauche ein in die bisher gruseligste Edition der fesselnden Serie 9 Clues und enträtsle in den Gängen der gespenstischen Irrenanstalt dunkle Geheimnisse.
+<ul>
+<li>42 unheimliche Orte zum Erkunden</li>
+<li>18 anspruchsvolle Minispiele zum Spielen</li>
+<li>Acht verdächtige Charaktere zum Kennenlernen</li>
+<li>19 Erfolge zum Freischalten</li>
+<li>Drei Schwierigkeitsstufen: Normal, Fortgeschritten und Experte</li>
+<li>Eine schaurige Geschichte in einer amerikanischen Nervenheilanstalt der 1950er-Jahre</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues: The Ward<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "9 Clues: The Ward",
+    "#slogan"     : "¿Qué atroces secretos encierra el manicomio Mnemosina?",
+    "title_short"  : "9 Clues: The Ward",
+    "title_GN"    : "9 Clues: The Ward",
+    "article span"  : "Sumérgete en la entrega más cautivadora de la fascinante serie 9 Clues y desentraña los secretos ocultos en los pasillos de este espeluznante manicomio.
+<ul>
+<li>42 lugares misteriosos que descubrir.</li>
+<li>18 desafiantes minijuegos.</li>
+<li>8 personajes sospechosos que conocer.</li>
+<li>19 logros que conseguir.</li>
+<li>Tres modos de dificultad: casual, avanzado y experto.</li>
+<li>Una historia escalofriante ambientada en un manicomio americano de los años 50</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues: The Ward<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "9 Clues: The Ward",
+    "#slogan"     : "Quels terribles secrets l&apos;asile Mnemosyne cache-t-il ?",
+    "title_short"  : "9 Clues: The Ward",
+    "title_GN"    : "9 Clues: The Ward",
+    "article span"  : "Plongez au cœur de l&apos;édition la plus effroyable de la série haletante 9 Clues et découvrez d&apos;horribles secrets cachés dans les couloirs d&apos;un asile sinistre.
+<ul>
+<li>42 lieux sinistres à explorer</li>
+<li>18 mini-jeux captivants à découvrir</li>
+<li>Huit personnages suspects à rencontrer</li>
+<li>19 trophées à gagner</li>
+<li>Trois modes de difficulté : détente, complexe et expert</li>
+<li>Une intrigue terrifiante se déroulant dans les années 50 au cœur d&apos;un établissement psychiatrique américain</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues: The Ward<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "9 Clues: The Ward",
+    "#slogan"     : "Quali segreti inenarrabili si celano nel manicomio Mnemosyne?",
+    "title_short"  : "9 Clues: The Ward",
+    "title_GN"    : "9 Clues: The Ward",
+    "article span"  : "Immergiti nel capitolo più raccapricciante dell&apos;avvincente serie 9 Clues per svelare i segreti oscuri celati nei saloni di un inquietante manicomio.
+<ul>
+<li>42 ambientazioni misteriose da esplorare</li>
+<li>18 stimolanti mini giochi da completare</li>
+<li>Otto personaggi sospetti da incontrare</li>
+<li>19 riconoscimenti da sbloccare</li>
+<li>Tre livelli di difficoltà: facile, avanzato ed esperto</li>
+<li>Una trama da brivido ambientata in un manicomio americano degli anni &apos;50</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues: The Ward<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "9 улик. Пепел безумия",
+    "#slogan"     : "Какие страшные тайны скрывает клиника «Мнемозина»?",
+    "title_short"  : "9 улик. Пепел безумия",
+    "title_GN"    : "9 улик. Пепел безумия",
+    "article span"  : "Отправляйтесь в самое пугающее приключение из захватывающей серии игр 9 Улик, чтобы расследовать зловещую историю, произошедшую в психиатрической клинике.
+<ul>
+<li>42 леденящие кровь локации</li>
+<li>18 хитроумных мини-игр</li>
+<li>Восемь подозрительных персонажей</li>
+<li>19 игровых достижений</li>
+<li>Три уровня сложности: легкий, сложный и эксперт</li>
+<li>Зловещая история, произошедшая в психиатрической клинике в середине прошлого века в Америке</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>9 улик. Пепел безумия<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "9 Clues 2: 病房",
+    "title_short"  : "9 Clues 2: 病房",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues 2: 病房<br>undefined:</h3>"
+  },
+  "lang.zh_tw"    :
+  {
+    "title"       : "9 Clues 2: 病房",
+    "title_short"  : "9 Clues 2: 病房",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues 2: 病房<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "9 Clues 2: 精神病院の悲劇",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues 2: 精神病院の悲劇<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "9 Clues 2: 정신병원",
+    "title_short"  : "9 Clues 2: 정신병원",
+    "ct"          : "<h3 style='text-align: center;'>9 Clues 2: 정신병원<br>undefined:</h3>"
+  }
+}

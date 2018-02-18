@@ -1,0 +1,152 @@
+Number of Launches: 0
+stdout:
+# Photoshop Version: 2017.0.1 20161130.r.29 2016/11/30:23:00:00 CL 1099099
+Tester="Photoshop"
+snifferStart="2017-03-23_22:36:21"
+AIFCoreInitialized=1
+AIFOGLInitialized=1
+OGLContextCreated=1
+# 00000.2017.03.23_22:36:21.514(+00.000)[tid=0x7fff70742300] macNumRenderers=2, aifNumDevices=1
+# 00001.2017.03.23_22:36:21.520(+00.005)[tid=0x7fff70742300] aifDeviceIndex=0, macRendererIndex=0
+# 00002.2017.03.23_22:36:21.520(+00.000)[tid=0x7fff70742300] macDisplayID=4273c00, macDisplayMask=1, rendererDisplayMask=f, intersection=1
+# 00003.2017.03.23_22:36:21.551(+00.031)[tid=0x7fff70742300] found 1 GPUs
+NumGLGPUs=1
+glgpu[0].GLVersion="2.1"
+glgpu[0].IsIntegratedGLGPU=0
+glgpu[0].GLMemoryMB=1536
+glgpu[0].GLName="Intel(R) HD Graphics 6000"
+glgpu[0].GLVendor="Intel"
+glgpu[0].GLVendorID=32902
+glgpu[0].GLRectTextureSize=16384
+glgpu[0].GLRenderer="Intel(R) HD Graphics 6000"
+glgpu[0].GLRendererID=16925958
+glgpu[0].HasGLNPOTSupport=1
+glgpu[0].CanCompileProgramGLSL=1
+glgpu[0].GLFrameBufferOK=1
+gputag.GL_SHADING_LANGUAGE_VERSION=35724
+glgpu[0].glGetString[GL_SHADING_LANGUAGE_VERSION]="1.20"
+gputag.GL_FRAGMENT_PROGRAM_ARB=34820
+gputag.GL_MAX_PROGRAM_INSTRUCTIONS_ARB=34977
+glgpu[0].glGetProgramivARB[GL_FRAGMENT_PROGRAM_ARB][GL_MAX_PROGRAM_INSTRUCTIONS_ARB]=[16384]
+gputag.GL_MAX_TEXTURE_UNITS=34018
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_UNITS]=[8]
+gputag.GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS=35661
+glgpu[0].glGetIntegerv[GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS]=[16]
+gputag.GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS=35660
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS]=[16]
+gputag.GL_MAX_TEXTURE_IMAGE_UNITS=34930
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_IMAGE_UNITS]=[16]
+gputag.GL_MAX_DRAW_BUFFERS=34852
+glgpu[0].glGetIntegerv[GL_MAX_DRAW_BUFFERS]=[8]
+gputag.GL_MAX_VERTEX_UNIFORM_COMPONENTS=35658
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_UNIFORM_COMPONENTS]=[4096]
+gputag.GL_MAX_FRAGMENT_UNIFORM_COMPONENTS=35657
+glgpu[0].glGetIntegerv[GL_MAX_FRAGMENT_UNIFORM_COMPONENTS]=[4096]
+gputag.GL_MAX_VARYING_FLOATS=35659
+glgpu[0].glGetIntegerv[GL_MAX_VARYING_FLOATS]=[60]
+gputag.GL_MAX_VERTEX_ATTRIBS=34921
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_ATTRIBS]=[16]
+gputag.AIF::OGL::GL_ARB_VERTEX_PROGRAM=69
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_PROGRAM]=1
+gputag.AIF::OGL::GL_ARB_FRAGMENT_PROGRAM=27
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_PROGRAM]=1
+gputag.AIF::OGL::GL_ARB_VERTEX_SHADER=70
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_SHADER]=1
+gputag.AIF::OGL::GL_ARB_FRAGMENT_SHADER=28
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_SHADER]=1
+gputag.AIF::OGL::GL_EXT_FRAMEBUFFER_OBJECT=81
+glgpu[0].extension[AIF::OGL::GL_EXT_FRAMEBUFFER_OBJECT]=1
+gputag.AIF::OGL::GL_ARB_TEXTURE_RECTANGLE=58
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_RECTANGLE]=1
+gputag.AIF::OGL::GL_ARB_TEXTURE_FLOAT=53
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_FLOAT]=1
+gputag.AIF::OGL::GL_ARB_OCCLUSION_QUERY=37
+glgpu[0].extension[AIF::OGL::GL_ARB_OCCLUSION_QUERY]=1
+gputag.AIF::OGL::GL_ARB_VERTEX_BUFFER_OBJECT=68
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_BUFFER_OBJECT]=1
+gputag.AIF::OGL::GL_ARB_SHADER_TEXTURE_LOD=47
+glgpu[0].extension[AIF::OGL::GL_ARB_SHADER_TEXTURE_LOD]=1
+# 00004.2017.03.23_22:36:21.592(+00.042)[tid=0x7fff70742300] DoRunAIFOCLInitialize: AIF::OCL::Library::initialize();
+NumCLGPUs=1
+clgpu[0].CLPlatformVersion="1.2 (Jan 27 2015 01:09:28)"
+clgpu[0].CLDeviceVersion="1.2 "
+clgpu[0].IsIntegratedCLGPU=1
+clgpu[0].CLMemoryMB=1536
+clgpu[0].CLName="Intel(R) Iris(TM) Graphics 6100"
+clgpu[0].CLVendor="Intel"
+clgpu[0].CLVendorID=16925952
+clgpu[0].CLDriverVersion="1.2(Feb 13 2015 19:14:38)"
+clgpu[0].CUDASupported=0
+# 00005.2017.03.23_22:36:21.597(+00.005)[tid=0x7fff70742300] BEGIN GPUSnifferTester::DoRunCLBandwidth
+# 00006.2017.03.23_22:36:21.597(+00.000)[tid=0x7fff70742300] BEGIN GPUImplHardware::DoGetCLBandwidth
+# 00007.2017.03.23_22:36:21.597(+00.000)[tid=0x7fff70742300] GPUImplHardware::DoGetCLBandwidth: AIF::OCL::Context context(properties, *iDev);
+# 00008.2017.03.23_22:36:21.620(+00.023)[tid=0x7fff70742300] GPUImplHardware::DoGetCLBandwidth: AIF::OCL::CommandQueue cq(context, *iDev, false, true);
+# 00009.2017.03.23_22:36:21.670(+00.050)[tid=0x7fff70742300] BEGIN GPUImplHardware::checkBandwidthCL
+# 00010.2017.03.23_22:36:21.670(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: clCreateBuffer d_idata nbytes=16777216
+# 00011.2017.03.23_22:36:21.671(+00.001)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: clCreateBuffer d_odata nbytes=16777216
+# 00012.2017.03.23_22:36:21.671(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: clFinish
+# 00013.2017.03.23_22:36:21.671(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: copy 100 iterations
+# 00014.2017.03.23_22:36:21.671(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 0 of 100, totalSeconds=0
+# 00015.2017.03.23_22:36:21.741(+00.070)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0300909
+# 00016.2017.03.23_22:36:21.741(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0300909
+# 00017.2017.03.23_22:36:21.741(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.0300909, BW=1.1151e+10, maxBW=1.1151e+10
+# 00018.2017.03.23_22:36:21.741(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 10 of 100, totalSeconds=0.0300909
+# 00019.2017.03.23_22:36:21.771(+00.031)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0288692
+# 00020.2017.03.23_22:36:21.771(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0288692
+# 00021.2017.03.23_22:36:21.772(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.0589601, BW=1.16229e+10, maxBW=1.16229e+10
+# 00022.2017.03.23_22:36:21.772(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 20 of 100, totalSeconds=0.0589601
+# 00023.2017.03.23_22:36:21.802(+00.030)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0281805
+# 00024.2017.03.23_22:36:21.802(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0281805
+# 00025.2017.03.23_22:36:21.802(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.0871406, BW=1.1907e+10, maxBW=1.1907e+10
+# 00026.2017.03.23_22:36:21.802(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 30 of 100, totalSeconds=0.0871406
+# 00027.2017.03.23_22:36:21.830(+00.028)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0272485
+# 00028.2017.03.23_22:36:21.830(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0272485
+# 00029.2017.03.23_22:36:21.830(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.114389, BW=1.23142e+10, maxBW=1.23142e+10
+# 00030.2017.03.23_22:36:21.830(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 40 of 100, totalSeconds=0.114389
+# 00031.2017.03.23_22:36:21.859(+00.029)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0282746
+# 00032.2017.03.23_22:36:21.859(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0282746
+# 00033.2017.03.23_22:36:21.859(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.142664, BW=1.18673e+10, maxBW=1.23142e+10
+# 00034.2017.03.23_22:36:21.859(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 50 of 100, totalSeconds=0.142664
+# 00035.2017.03.23_22:36:21.888(+00.029)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0284166
+# 00036.2017.03.23_22:36:21.888(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0284166
+# 00037.2017.03.23_22:36:21.888(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.17108, BW=1.18081e+10, maxBW=1.23142e+10
+# 00038.2017.03.23_22:36:21.888(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 60 of 100, totalSeconds=0.17108
+# 00039.2017.03.23_22:36:21.917(+00.029)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.027289
+# 00040.2017.03.23_22:36:21.917(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.027289
+# 00041.2017.03.23_22:36:21.917(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.198369, BW=1.2296e+10, maxBW=1.23142e+10
+# 00042.2017.03.23_22:36:21.917(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 70 of 100, totalSeconds=0.198369
+# 00043.2017.03.23_22:36:21.945(+00.027)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0268758
+# 00044.2017.03.23_22:36:21.945(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0268758
+# 00045.2017.03.23_22:36:21.945(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.225245, BW=1.2485e+10, maxBW=1.2485e+10
+# 00046.2017.03.23_22:36:21.945(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 80 of 100, totalSeconds=0.225245
+# 00047.2017.03.23_22:36:21.973(+00.028)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0274462
+# 00048.2017.03.23_22:36:21.973(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0274462
+# 00049.2017.03.23_22:36:21.973(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.252691, BW=1.22255e+10, maxBW=1.2485e+10
+# 00050.2017.03.23_22:36:21.973(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: 90 of 100, totalSeconds=0.252691
+# 00051.2017.03.23_22:36:22.001(+00.028)[tid=0x7fff70742300] GPUImplHardware::timeBandwidthCL: totalSeconds=0.0277117
+# 00052.2017.03.23_22:36:22.001(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: seconds=0.0277117
+# 00053.2017.03.23_22:36:22.001(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: totalSeconds=0.280403, BW=1.21084e+10, maxBW=1.2485e+10
+# 00054.2017.03.23_22:36:22.001(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: clFinish
+# 00055.2017.03.23_22:36:22.002(+00.000)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: releasing
+# 00056.2017.03.23_22:36:22.006(+00.004)[tid=0x7fff70742300] GPUImplHardware::checkBandwidthCL: result=1.2485e+10
+# 00057.2017.03.23_22:36:22.006(+00.000)[tid=0x7fff70742300] END GPUImplHardware::checkBandwidthCL, duration=0.335966
+# 00058.2017.03.23_22:36:22.006(+00.000)[tid=0x7fff70742300] bytesPerSecond=1.2485e+10
+# 00059.2017.03.23_22:36:22.006(+00.000)[tid=0x7fff70742300] GPUImplHardware::DoGetCLBandwidth: result=1.2485e+10
+# 00060.2017.03.23_22:36:22.006(+00.000)[tid=0x7fff70742300] END GPUImplHardware::DoGetCLBandwidth, duration=0.409002
+clgpu[0].CLBandwidth=1.2485e+10
+# 00061.2017.03.23_22:36:22.006(+00.000)[tid=0x7fff70742300] END GPUSnifferTester::DoRunCLBandwidth, duration=0.409086
+# 00062.2017.03.23_22:36:22.006(+00.000)[tid=0x7fff70742300] BEGIN GPUImplHardware::DoGetCLCompute
+# 00063.2017.03.23_22:36:22.006(+00.000)[tid=0x7fff70742300] GPUImplHardware::DoGetCLCompute: AIF::OCL::Context context(properties, *iDev);
+# 00064.2017.03.23_22:36:22.017(+00.010)[tid=0x7fff70742300] GPUImplHardware::DoGetCLCompute: AIF::OCL::CommandQueue cq(context, *iDev, false, true);
+# 00065.2017.03.23_22:36:22.027(+00.010)[tid=0x7fff70742300] BEGIN GPUImplHardware::MeasureCLCompute
+# 00066.2017.03.23_22:36:23.172(+01.145)[tid=0x7fff70742300] GPUImplHardware::MeasureCLCompute: clFinish
+# 00067.2017.03.23_22:36:23.173(+00.001)[tid=0x7fff70742300] GPUImplHardware::MeasureCLCompute: result=0.0386118
+# 00068.2017.03.23_22:36:23.173(+00.000)[tid=0x7fff70742300] END GPUImplHardware::MeasureCLCompute, duration=1.1461
+# 00069.2017.03.23_22:36:23.173(+00.000)[tid=0x7fff70742300] timeForKernelExecution=207.191
+# 00070.2017.03.23_22:36:23.173(+00.000)[tid=0x7fff70742300] GPUImplHardware::DoGetCLCompute: result=207.191
+# 00071.2017.03.23_22:36:23.173(+00.000)[tid=0x7fff70742300] END GPUImplHardware::DoGetCLCompute, duration=1.16686
+clgpu[0].CLCompute=207.191
+stderr:
+dyld: lazy symbol binding failed: can't resolve symbol _MTLCopyAllDevices in /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/MacOS/sniffer because dependent dylib #4 could not be loaded
+dyld: can't resolve symbol _MTLCopyAllDevices in /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/MacOS/sniffer because dependent dylib #4 could not be loaded
+caught signal 11, exit 4

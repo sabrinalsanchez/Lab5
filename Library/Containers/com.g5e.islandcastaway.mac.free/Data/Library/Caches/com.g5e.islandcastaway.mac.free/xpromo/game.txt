@@ -1,0 +1,92 @@
+{
+"lang.en":
+{
+  "title"          : "Game",
+  "div#notify h3"  : "Notify me when this game launches!",
+  "div#notify span": "Notify Me",
+  "li#full a"      : "Full",
+  "li#lite a"      : "Lite",
+  "li#free a"      : "Free",
+  "li#download a"  : "Download",
+  "li#temp a"      : "Learn more",
+  "li#video a"     : "Video",
+  "#header_screen" : "<span>Video &</span> Screenshots",
+  "#header_common" : "Description",
+  "#tell"          : "Tell a Friend"
+},
+"lang.de":
+{
+  "title"          : "Spiel",
+  "div#notify h3"  : "Benachrichtige mich bitte, wenn dieses spiel veröffentlicht wird!",
+  "div#notify span": "Demnächst",
+  "li#full a"      : "Voll",
+  "li#lite a"      : "Lite",
+  "li#free a"      : "Gratis",
+  "li#download a"  : "Laden",
+  "li#temp a"      : "Mehr info",
+  "li#video a"     : "Video",
+  "#header_screen" : "<span>Video &</span> Screenshots",
+  "#header_common" : "Beschreibung",
+  "#tell"          : "Empfehlen"
+},
+"lang.es":
+{
+  "title"          : "Juego",
+  "div#notify h3"  : "¡Avísenme cuando el juego sea lanzado!",
+  "div#notify span": "Notificarme",
+  "li#full a"      : "Completa",
+  "li#lite a"      : "Demo",
+  "li#free a"      : "Gratis",
+  "li#download a"  : "Descarga",
+  "li#temp a"      : "Más info",
+  "li#video a"     : "Video",
+  "#header_screen" : "<span>Vídeo &</span> Capturas de pantalla",
+  "#header_common" : "Descripción",
+  "#tell"          : "Di a un amigo"
+},
+"lang.fr":
+{
+  "title"          : "Jeu",
+  "div#notify h3"  : "Veuillez m'avertir de la sortie de ce jeu !",
+  "div#notify span": "M'avertir",
+  "li#full a"      : "Complet",
+  "li#lite a"      : "Demo",
+  "li#free a"      : "Gratuit",
+  "li#download a"  : "Téléchargez",
+  "li#temp a"      : "Plus d'infos",
+  "li#video a"     : "Video",
+  "#header_screen" : "<span>Vidéos et </span> Captures d'écran",
+  "#header_common" : "Description",
+  "#tell"          : "Dire à un ami"
+},
+"lang.it":
+{
+  "title"          : "Gioco",
+  "div#notify h3"  : "Mandami una notifica quando esce questo gioco!",
+  "div#notify span": "Informami",
+  "li#full a"      : "Complet",
+  "li#lite a"      : "Demo",
+  "li#free a"      : "Gratis",
+  "li#download a"  : "Scarica",
+  "li#temp a"      : "Ult. Info",
+  "li#video a"     : "Video",
+  "#header_screen" : "<span>Video e</span> Screenshot",
+  "#header_common" : "Descrizione",
+  "#tell"          : "Condividi"
+},
+"lang.ru":
+{
+  "title"          : "Игра",
+  "div#notify h3"  : "Сообщить мне о выходе этой игры!",
+  "div#notify span": "Сообщить мне",
+  "li#full a"      : "Купить",
+  "li#lite a"      : "Демо",
+  "li#free a"      : "Free",
+  "li#download a"  : "Скачать",
+  "li#temp a"      : "Подробнее",
+  "li#video a"     : "Видео",
+  "#header_screen" : "<span>Видео и</span> Скриншоты",
+  "#header_common" : "Описание",
+  "#tell"          : "Рассказать другу"
+}
+}

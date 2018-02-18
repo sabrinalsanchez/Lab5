@@ -1,0 +1,56 @@
+{
+    "lang.en": {
+        "title": "Jack of All Tribes",
+        "#slogan": "Rule a prehistoric tribe!",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id456995414?mt=12",
+            "full": "http://itunes.apple.com/app/id449861178?mt=12"
+        },
+        "#youtube_id": "P3_Wo_tMhro",
+        "genre": "ST",
+        "article span": "Travel to the past with Jack and rule a prehistoric tribe in this fun time management game with puzzle elements!<ul><li>40 Mesmerizing levels</li><li>12 Types of buildings to construct</li><li>18 Artifacts and 12 Trophies to collect</li><li>Fascinating storyline</li><li>Original gameplay</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Jack of All Tribes<br>will be available in:<h3>"
+    },
+    "lang.de": {
+        "title": "Jack of All Tribes",
+        "#slogan": "Herrsche über einen prähistorischen Stamm!",
+        "article span": "Reise in diesem lustigen Zeitmanagement-Spiel mit Rätsel-Elementen zusammen mit Jack in die Vergangenheit und regiere einen prähistorischen Stamm!<ul><li>40 faszinierende Level</li><li>12 verschiedene Gebäudetypen</li><li>18 Gegenstände und 12 Trophäen zum Sammeln</li><li>Eine faszinierende Geschichte</li><li>Ein originelles Spiel</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Jack of All Tribes<br>ist in:<h3>"
+    },
+    "lang.es": {
+        "title": "Jack of All Tribes",
+        "#slogan": "¡Gobierna a una tribu prehistórica!",
+        "article span": "¡Viaja al pasado con Jack y gobierna una tribu prehistórica en este divertido juego de gestión del tiempo con elementos de rompecabezas!<ul><li>40 hipnotizantes niveles</li><li>12 tipos de edificios que construir</li><li>18 artefactos y 12 trofeos que conseguir</li><li>Una fascinante historia</li><li>Original sistema de juego</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Jack of All Tribes<br>estara disponible en:<h3>"
+    },
+    "lang.fr": {
+        "title": "Jack of All Tribes",
+        "#slogan": "Prenez la tête d'une tribu préhistorique !",
+        "article span": "Retournez dans le passé avec Jack et dirigez une tribu préhistorique dans ce jeu passionnant mêlant habilement gestion de temps et casse-têtes !<ul><li>40 magnifiques niveaux</li><li>12 types de bâtiments à construire</li><li>18 artefacts et 12 Trophées à récupérer</li><li>Intrigue fascinante</li><li>Système de jeu original</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Jack of All Tribes<br>sera disponible dans:<h3>"
+    },
+    "lang.it": {
+        "title": "Jack of All Tribes",
+        "#slogan": "Guida una tribù preistorica!",
+        "article span": "Viaggia nel passato insieme a Jack e governa una tribù preistorica in questo divertente gioco di gestione temporale con elementi di rompicapo!<ul><li>40 livelli ipnotizzanti</li><li>12 tipi di edifici da costruire</li><li>18 manufatti e 12 trofei da raccogliere</li><li>Storia affascinante</li><li>Azione originale</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Jack of All Tribes<br>sara disponibile tra:<h3>"
+    },
+    "lang.ru": {
+        "title": "Поселенцы Джека",
+        "#slogan": "Станьте вождем доисторического племени!",
+        "article span": "Вместе с Джеком совершите путешествие во времени и правьте первобытным племенем в этой игре в жанре тайм-менеджмент с элементами головоломок!<ul><li>40 увлекательных уровней</li><li>12 видов построек</li><li>18 артефактов из будущего и 12 трофеев</li><li>Завораживающая сюжетная линия</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Поселенцы Джека<br>выйдет через:<h3>"
+    },
+    "lang.zh": {
+        "title": "Jack of All Tribes",
+        "title_short": "Jack of All Tribes"
+    },
+    "lang.ja": {
+        "title": "Jack of All Tribes",
+        "title_short": "Jack of All Tribes"
+    },
+    "lang.ko": {
+        "title": "Jack of All Tribes",
+        "title_short": "Jack of All Tribes"
+    }
+}

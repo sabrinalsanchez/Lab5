@@ -1,0 +1,56 @@
+{
+    "lang.en": {
+        "title": "Stand O'Food® 3",
+        "#slogan": "Extend the Stand O’Food chain!",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id440229321?mt=12",
+            "full": "http://itunes.apple.com/app/id432519280?mt=12"
+        },
+        "#youtube_id": "-gCsamFDDCw",
+        "genre": "ST",
+        "article span": "STAND O’FOOD EXTENDS TO TINSELTOWN!<br />The most popular burger-serving game gets a much-awaited sequel! The classic fast-paced, simple and addictive game play mechanics of the first game are reinforced with more abilities to satisfy hungry customers. Riding the wave of success in his hometown, Ronnie the Chef extends the operations of Stand O’Food chain to Tinseltown, where he meets Nikki and Mr. Clarence, and disrupts revenge plans of evil Mr. Torg.<ul><li>75 Levels in 5 settings</li><li>12 Bonus levels</li><li>25 Cafes around the city</li><li>Serve burgers, pies, and lasagnas</li><li>Master a total of 90 recipes</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Stand O'Food® 3<br>will be available in:<h3>"
+    },
+    "lang.de": {
+        "title": "Stand O'Food® 3",
+        "#slogan": "Baue die Sand O’Food-Kette aus!",
+        "article span": "STAND O’FOOD NUN AUCH IN TINSELTOWN!<br />Das beliebteste Burgerspiel aller Zeiten in seiner lang erwarteten Fortsetzung! Die klassische, schnelle, einfache und regelrecht süchtig machende Spielweise des ersten Spiels bietet jetzt erweiterte Möglichkeiten zum Zufriedenstellen hungriger Gäste. Vom Erfolg in seiner Heimatstadt getragen weitet Chefkoch Ronnie sein Geschäft nach Tinseltown aus, wo er auf Nikki und Mr. Clarence trifft und die Rachepläne des bösen Mr. Torg durchkreuzt.<ul><li>75 Level in 5 Umgebungen</li><li>12 Speziallevel</li><li>Serviere Burger, Pasteten und Lasagne</li><li>25 Cafés in der Stadt</li><li>Erforsche 90 Rezepte</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Stand O'Food® 3<br>ist in:<h3>"
+    },
+    "lang.es": {
+        "title": "Stand O'Food® 3",
+        "#slogan": "¡Amplía la cadena Stand O’Food!",
+        "article span": "¡STAND O’FOOD SE EXTIENDE A TINSELTOWN!<br />¡Llega la muy esperada secuela del juego de preparación de hamburguesas más popular! El clásico estilo de juego vertiginoso, simple y adictivo del primer juego se ve reforzado con más habilidades para satisfacer a los hambrientos clientes. Ronnie el Chef aprovecha el éxito en su ciudad natal y expande las operaciones de la cadena Stand O’Food a Tinseltown, donde conoce a Nikki y al Sr. Clarence y destruye los planes de venganza del malvado Sr. Torg.<ul><li>75 Niveles en 5 escenarios</li><li>12 Niveles especiales</li><li>Sirve hamburguesas, pasteles y lasañas</li><li>25 Cafeterías de la ciudad</li><li>Domina un total de 90 recetas</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Stand O'Food® 3<br>estara disponible en:<h3>"
+    },
+    "lang.fr": {
+        "title": "Stand O'Food® 3",
+        "#slogan": "Développez la chaîne Stand O’Food !",
+        "article span": "STAND O’FOOD S'INSTALLE À TINSELTOWN !<br />Le nouvel opus tant attendu du célèbre jeu de restauration rapide est enfin arrivé ! Les mécaniques de jeu intuitives, captivantes et effrénées du premier opus ont été améliorées afin de pouvoir répondre à tous les besoins de votre clientèle affamée ! Sa cuisine connaissant un franc succès dans sa ville, Ronnie le Chef a décidé de développer sa chaîne de restaurants Stand O’Food à Tinseltown. C'est là qu'il fera la connaissance de Nikki et M. Clarence et qu'il déjouera les projets de vengeance du terrible M. Torg.<ul><li>75 Niveaux dans 5 restaurants</li><li>12 Niveaux spéciaux</li><li>Servez des hamburgers, des tartes et des lasagnes</li><li>25 Cafés à travers la ville</li><li>Maîtrisez 90 recettes</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Stand O'Food® 3<br>sera disponible dans:<h3>"
+    },
+    "lang.it": {
+        "title": "Stand O'Food® 3",
+        "#slogan": "Amplia la catena Stand O'Food!",
+        "article span": "STAND O'FOOD ARRIVA A TINSELTOWN!<br />Ecco il tanto atteso seguito del gioco di hamburger più famoso! Le classiche, velocissime, semplici e avvincenti meccaniche del primo gioco sono state migliorate con nuove abilità che soddisferanno i clienti più affamati. Cavalcando l'onda del successo nella sua città natale, Ronnie lo Chef trasferisce il quartier generale della catena Stand O'Food a Tinseltown, dove incontrerà Nikki e il signor Clarence, e sconvolgerà i piani di vendetta del malvagio Torg.<ul><li>75 Livelli in 5 ambientazioni</li><li>12 Livelli speciali</li><li>Servi hamburger, torte e lasagne</li><li>25 Cafè della città</li><li>Impara un totale di 90 ricette</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Stand O'Food® 3<br>sara disponibile tra:<h3>"
+    },
+    "lang.ru": {
+        "title": "Мастер Бургер 3",
+        "#slogan": "Расширьте сеть своих кафе &quot;Мастер Бургер&quot;!",
+        "article span": "МАСТЕР БУРГЕР ЕДЕТ В ГОЛЛИВУД!<br />Продолжение самой популярной бургерной аркады! Классический захватывающий геймплей оригинальной игры подкреплен дополнительными возможностями обслуживания голодных посетителей. На волне успеха в своем родном городе, Шеф-повар Ронни открывает «Мастер Бургер» в Голливуде, где он встречает Никки и мистера Кларенса, и нарушает коварные планы мстительного Торга.<ul><li>75 Уровней в 5 сеттингах</li><li>12 Спецуровней</li><li>Бургеры, пироги, лазанья</li><li>25 Ресторанов по всему городу</li><li>90 Рецептов</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Мастер Бургер 3<br>выйдет через:<h3>"
+    },
+    "lang.zh": {
+        "title": "Stand O’Food® 3",
+        "title_short": "Stand O’Food® 3"
+    },
+    "lang.ja": {
+        "title": "Stand O’Food® 3",
+        "title_short": "Stand O’Food® 3"
+    },
+    "lang.ko": {
+        "title": "Stand O’Food® 3",
+        "title_short": "Stand O’Food® 3"
+    }
+}

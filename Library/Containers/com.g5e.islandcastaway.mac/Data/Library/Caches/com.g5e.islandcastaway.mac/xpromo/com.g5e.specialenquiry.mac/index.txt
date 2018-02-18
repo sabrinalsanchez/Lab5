@@ -1,0 +1,107 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "#slogan"     : "An intriguing tale of murder!",
+    "title_short"  : "Special Enq Detail",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id461739158?mt=12",
+      "full"      : "http://itunes.apple.com/app/id466753171?mt=12"
+    },
+    "#youtube_id"  : "TQXtoqtFHt8",
+    "article span"  : "Try your hand at investigating a crime, crack the case and catch the criminal in this perplexing hidden-object game!
+<ul>
+<li>12 Intriguing chapters</li>
+<li>30 Realistic locations</li>
+<li>25 Thrilling mini-games</li>
+<li>Exciting storyline</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "#slogan"     : "Eine faszinierende Mördergeschichte!",
+    "title_short"  : "Special Enq Detail",
+    "article span"  : "Versuche dich als Ermittler, knacke den Fall und setze den Mörder in diesem verwirrenden Wimmelbild-Spiel fest!
+<ul>
+<li>12 faszinierende Kapitel</li>
+<li>30 realistische Orte</li>
+<li>25 spannende Minispiele</li>
+<li>Eine aufregende Story</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "#slogan"     : "¡Una fascinante historia de asesinatos!",
+    "title_short"  : "Special Enq Detail",
+    "article span"  : "¡Prueba tu suerte en la investigación de un crimen, resuelve el caso y atrapa al criminal en este desconcertante juego de objetos ocultos!
+<ul>
+<li>12 capítulos intrigantes</li>
+<li>30 ubicaciones realistas</li>
+<li>25 emocionantes minijuegos</li>
+<li>Argumento emocionante</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "#slogan"     : "Un récit captivant de meurtres !",
+    "title_short"  : "Special Enq Detail",
+    "article span"  : "Exercez vos talents de fin limier, faites jaillir la vérité et démasquez le coupable dans ce jeu d&apos;objets cachés captivant !
+<ul>
+<li>12 chapitres palpitants</li>
+<li>30 lieux à inspecter réalistes</li>
+<li>25 mini-jeux passionnants</li>
+<li>Un scénario prenant</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "#slogan"     : "Un&apos;avvincente caso di omicidio!",
+    "title_short"  : "Special Enq Detail",
+    "article span"  : "Prova a indagare su un crimine, risolvi il caso e acciuffa il malvivente in questo complicatissimo gioco di oggetti nascosti!
+<ul>
+<li>12 capitoli avvincenti</li>
+<li>30 luoghi realistici</li>
+<li>25 mini giochi elettrizzanti</li>
+<li>Storia appassionante</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Департамент особых расследований",
+    "#slogan"     : "Интригующая история убийства!",
+    "title_short"  : "Департ. Особ. Рассл.",
+    "article span"  : "Раскройте загадочное преступление и вычислите преступника в этой головокружительной игре по поиску скрытых предметов!
+<ul>
+<li>30 реалистичных локаций</li>
+<li>25 захватывающих мини-игр</li>
+<li>12 глав повествования</li>
+<li>Увлекательный сюжет</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Департамент особых расследований<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Special Enquiry Detail: The Hand that Feeds",
+    "ct"          : "<h3 style='text-align: center;'>Special Enquiry Detail: The Hand that Feeds<br>undefined:</h3>"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Lost Souls: Timeless Fables Collector&apos;s Edition",
+    "#slogan"     : "Help Bella find her missing brother!",
+    "title_short"  : "Lost Souls: Timeless Fables",
+    "title_GN"    : "Lost Souls: Timeless Fables",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id1096705554?mt=12"
+    },
+    "#youtube_id"  : "RYgsuOZ5rDI",
+    "article span"  : "Travel through the pages of famous novels in search of Bella’s missing brother! Can you solve the mystery of his disappearance?<br />
+<ul>
+<li>40 astonishing locations to explore</li>
+<li>Over 20 challenging mini-games to master</li>
+<li>Five enchanted books and nine chapters to leaf through</li>
+<li>39 achievements to earn</li>
+<li>In-depth strategy guide</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: Timeless Fables Collector&apos;s Edition<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Lost Souls: Zeitlose Fabeln, Sammleredition",
+    "#slogan"     : "Hilf Bella, ihren verschwundenen Bruder zu finden!",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "Reise durch die Seiten berühmter Romane und suche Bellas vermissten Bruder! Kannst du das Rätsel seines Verschwindens lösen?<br />
+<ul>
+<li>40 fantastische Schauplätze zum Erkunden</li>
+<li>Mehr als 20 anspruchsvolle Minispiele zum Meistern</li>
+<li>5 verzauberte Bücher und 9 Kapitel zum Durchblättern</li>
+<li>39 Erfolge zum Erzielen</li>
+<li>Ausführliche Strategieanleitung</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: Zeitlose Fabeln, Sammleredition<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Lost Souls: Fábulas de Siempre, Edición de Coleccionista",
+    "#slogan"     : "Ayuda a Bella a encontrar a su hermano desaparecido.",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "Viaja por las páginas de las novelas más conocidas en busca del hermano de Bella. ¿Puedes resolver el misterio de su desaparición?<br />
+<ul>
+<li>40 lugares asombrosos que descubrir</li>
+<li>Más de 20 desafiantes minijuegos que dominar</li>
+<li>Cinco libros encantados y nueve capítulos que explorar</li>
+<li>39 logros que conseguir</li>
+<li>Guía completa de estrategia</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: Fábulas de Siempre, Edición de Coleccionista<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Lost Souls : Fables intemporelles, Édition Collector",
+    "#slogan"     : "Aidez Bella à retrouver son frère !",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "Voyagez au cœur des pages de célèbres romans pour retrouver le frère de Bella ! Percerez-vous le mystère de sa disparition ?<br />
+<ul>
+<li>40 lieux spectaculaires à explorer</li>
+<li>Plus de 20 mini-jeux stimulants à maîtriser</li>
+<li>Cinq livres ensorcelés et neuf chapitres à découvrir</li>
+<li>39 trophées à gagner</li>
+<li>Guide stratégique détaillé</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls : Fables intemporelles, Édition Collector<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Lost Souls: Timeless Fables Collector&apos;s Edition",
+    "#slogan"     : "Aiuta Bella a trovare il suo fratello scomparso!",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "Viaggia fra le pagine di alcuni racconti famosi e cerca il fratello di Bella! Riuscirai a svelare il mistero della sua scomparsa?<br />
+<ul>
+<li>40 ambientazioni spettacolari da esplorare</li>
+<li>Più di 20 mini giochi intricati da padroneggiare  </li>
+<li>Cinque libri incantati e nove capitoli da sfogliare</li>
+<li>39 riconoscimenti da ottenere</li>
+<li>Guida strategica dettagliata</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: Timeless Fables Collector&apos;s Edition<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Потерянные Души: Незабвенные истории, Коллекционное издание",
+    "#slogan"     : "Помогите Белле найти исчезнувшего брата!",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "Отправляйтесь вместе с Беллой на поиски пропавшего брата по страницам известных романов и раскройте тайну его исчезновения!<br />
+<ul>
+<li>40 удивительных локаций</li>
+<li>Более 20 непростых мини-игр</li>
+<li>Пять заколдованных книг и девять глав</li>
+<li>39 достижений</li>
+<li>Подробное руководство по игре</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Потерянные Души: Незабвенные истории, Коллекционное издание<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Lost Souls: 经典寓言收藏版",
+    "#slogan"     : "bla bla bla",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "bla bla bla",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: 经典寓言收藏版<br>undefined:</h3>"
+  },
+  "lang.zh_tw"    :
+  {
+    "title"       : "Lost Souls: 永恆寓言，收藏版",
+    "#slogan"     : "bla bla bla",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "bla bla bla",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: 永恆寓言，收藏版<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Lost Souls: 時を超える物語、コレクターズ・エディション",
+    "#slogan"     : "bla bla bla",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "bla bla bla",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: 時を超える物語、コレクターズ・エディション<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Lost Souls: 영원한 이야기, 수집가 에디션",
+    "#slogan"     : "bla bla bla",
+    "title_short"  : "Lost Souls 2",
+    "title_GN"    : "Lost Souls 2",
+    "article span"  : "bla bla bla",
+    "ct"          : "<h3 style='text-align: center;'>Lost Souls: 영원한 이야기, 수집가 에디션<br>undefined:</h3>"
+  }
+}

@@ -1,0 +1,26 @@
+{
+"lang.en":
+{
+  "title" : "Featured"
+},
+"lang.de":
+{
+  "title" : "Empfohlen"
+},
+"lang.es":
+{
+  "title" : "Destacado"
+},
+"lang.fr":
+{
+  "title" : "Recommandations"
+},
+"lang.it":
+{
+  "title" : "In primo piano"
+},
+"lang.ru":
+{
+  "title" : "Новинки"
+}
+}

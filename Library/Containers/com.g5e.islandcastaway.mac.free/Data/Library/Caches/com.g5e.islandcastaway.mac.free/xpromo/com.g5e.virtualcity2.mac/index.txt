@@ -1,0 +1,58 @@
+{
+    "lang.en": {
+        "title": "Virtual City® 2: Paradise Resort",
+        "#slogan": "Expand your Virtual City!",
+        "title_short": "Virtual City® 2",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id456990094?mt=12",
+            "full": "http://itunes.apple.com/app/id456993034?mt=12"
+        },
+        "#youtube_id": "Az7TJqZ7EJY",
+        "article span": "After winning the hearts of millions of players, the best-selling city builder game, Virtual City, gets its long-awaited sequel!<ul><li>52 Challenging Levels in 4 Settings: Blustery Utah, Sunny Florida, Snowy Alaska, Steamy Nevada</li><li>29 Distinct Mission Scenarios</li><li>73 Types of Buildings</li><li>42 Types of Goods to Transport and Trade</li><li>12 Production Chains to Master</li><li>98 Special Achievements to Earn</li><li>45 Upgrades and Buildings to Unlock</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Virtual City® 2: Paradise Resort<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Virtual City® 2: Paradise Resort",
+        "#slogan": "Baue deine Virtual City aus!",
+        "title_short": "Virtual City® 2",
+        "article span": "Nachdem das meisverkaufte Städtebauspiel - Virtual City - Millionen Spielerherzen erobert hat, bekommt es nun seine langerwartete Fortsetzung!<ul><li>52 Herausfordernde Levels in 4 Spielumgebungen: Stürmisches Utah, Sonniges Florida, Verschneites Alaska, Heißes Nevada</li><li>29 Verschiedene Missionsszenarien</li><li>73 Gebäudearten</li><li>42 Warenarten für Transport und Handel</li><li>12 Produktionsketten zu Meistern</li><li>98 Besondere Spielererfolge zu Erreichen</li><li>45 Upgrades und Gebäude zum Freischalten</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Virtual City® 2: Paradise Resort<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Virtual City® 2: Paradise Resort",
+        "#slogan": "¡Expande tu ciudad virtual!",
+        "title_short": "Virtual City® 2",
+        "article span": "Después de ganarse los corazones de millones de jugadores, aparece la continuación del juego más vendido de construcción de ciudades ¡Virtual City!<ul><li>52 niveles de competición en 4 localidades: Blustery Utah, Sunny Florida, Snowy Alaska, Steamy Nevada</li><li>29 escenarios distintos para misiones</li><li>73 tipos de edificios</li><li>42 tipos de bienes que transportar y negociar</li><li>12 cadenas de producción que liderar</li><li>98 tareas especiales por ser superadas</li><li>45 edificios y modernizaciones que desbloquear</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Virtual City® 2: Paradise Resort<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Virtual City® 2: Paradise Resort",
+        "#slogan": "Développez votre mégapole virtuelle !",
+        "title_short": "Virtual City® 2",
+        "article span": "La suite du méga hit Virtual City, le jeu de construction qui a conquis le cœur de millions de joueurs, débarque enfin sur nos écrans !<ul><li>52 niveaux stimulants dans 4 lieux uniques : l&apos;Utah venteux, la Floride ensoleillée, l&apos;Alaska enneigé, le Nevada caniculaire</li><li>29 scénarios avec missions</li><li>73 types de bâtiments</li><li>42 types d&apos;articles à transporter et échanger</li><li>12 chaînes de production à maîtriser</li><li>98 succès spéciaux à gagner</li><li>45 améliorations et structures à déverrouiller</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Virtual City® 2: Paradise Resort<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Virtual City® 2: Paradise Resort",
+        "#slogan": "Amplia la tua città virtuale!",
+        "title_short": "Virtual City® 2",
+        "article span": "Dopo aver conquistato il cuore di milioni di giocatori, il gioco best-seller per costruire città, Virtual City, ha la tanto attesa sequela!<ul><li>54 livelli stimolanti in 4 scenari: il tempestoso Utah, l&apos;assolata Florida, la nevosa Alaska, l&apos;umido Nevada.</li><li>29 distrinti scenari di missioni</li><li>73 tipi di palazzi</li><li>42 tipi di beni da trasportare e commerciare</li><li>12 catene di produzione da creare</li><li>98 speciali successi da guadagnare</li><li>45 aggiornamenti e palazzi da sbloccare</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Virtual City® 2: Paradise Resort<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Виртуальный Город 2: Райский Курорт",
+        "#slogan": "Расширьте свой виртуальный город!",
+        "title_short": "Виртуальный Город 2",
+        "article span": "Долгожданное продолжение игры Виртуальный Город, которая завоевала сердца миллионов игроков, наконец в MAC App Store!<ul><li>52 Увлекательных уровня в 4 сеттингах: Юта, Флорида, Аляска, Невада</li><li>29 Четких сценариев миссий</li><li>73 Вида зданий</li><li>42 Вида товаров для транспортировки и торговли</li><li>12 Цепочек производства</li><li>98 Достижений</li><li>45 Дополнительных апгрейдов и зданий</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Виртуальный Город 2: Райский Курорт<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Virtual City® 2: Paradise Resort"
+    },
+    "lang.ja": {
+        "title": "Virtual City® 2: Paradise Resort"
+    },
+    "lang.ko": {
+        "title": "Virtual City® 2: Paradise Resort"
+    }
+}

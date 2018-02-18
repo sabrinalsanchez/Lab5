@@ -1,0 +1,44 @@
+{
+    "lang.en": {
+        "title": "Mahjongg Artifacts®",
+        "#slogan": "Ancient atmosphere of Mahjong!",
+        "#links": {
+            "lite": "http://itunes.apple.com/app/id418556130?mt=12",
+            "full": "http://itunes.apple.com/app/id407252834?mt=12"
+        },
+        "#youtube_id": "qGOs5ADrexI",
+        "genre": "ST",
+        "article span": "Escape from the rush of modern life into immersive atmosphere of ancient civilizations!<ul><li>Story mode featuring 25 layouts</li><li>Classic mode with 100 layouts</li><li>Innovative Endless mode</li><li>27 gorgeous backgrounds</li><li>Five beautifully drawn tilesets</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Mahjongg Artifacts®<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Mahjongg Artifacts®",
+        "#slogan": "Antike Atmosphäre bei Mahjong!",
+        "article span": "Entfliehe der Hektik der Moderne und genieße die altehrwürdige Atmosphäre alter Zivilisationen!<ul><li>Storymodus mit 25 Layouts</li><li>Klassikmodus mit 100 Layouts</li><li>Innovativer Endlosmodus</li><li>27 umwerfende Hintergründe</li><li>Fünf wunderschöne Spielsteinsets</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Mahjongg Artifacts®<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Mahjongg Artifacts®",
+        "#slogan": "¡El ambiente ancestral del Mahjong!",
+        "article span": "¡Escápate del ajetreo de la vida moderna y entra de lleno en los escenarios de las antiguas civilizaciones!<ul><li>Modo Historia con 25 patrones</li><li>Modo Clásico con 100 patrones</li><li>Ingenioso modo Infinito</li><li>27 fondos increíbles</li><li>5 juegos de fichas con dibujos exquisitos</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Mahjongg Artifacts®<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Mahjongg Artifacts®",
+        "#slogan": "L&apos;atmosphère ancestrale du mah-jong !",
+        "article span": "Échappez au stress de la vie moderne pour vous plonger dans l&apos;atmosphère envoûtante des civilisations ancestrales !<ul><li>Un mode Conquête avec 25 modèles</li><li>Un mode Classique avec 100 modèles</li><li>Un mode Infini novateur</li><li>27 beaux arrière-plans</li><li>5 types de tuiles au style soigné</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Mahjongg Artifacts®<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Mahjongg Artifacts®",
+        "#slogan": "L&apos;antica atmosfera Mahjong!",
+        "article span": "Fuggi dalla frenesia della vita moderna e immergiti nell&apos;atmosfera coinvolgente delle antiche civiltà!<ul><li>Modalità Storia con 25 schemi</li><li>Modalità Classica con 100 schemi</li><li>Modalità Infinita innovativa</li><li>27 sfondi bellissimi</li><li>Cinque stili di tessere magnifici</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Mahjongg Artifacts®<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Маджонг Артефакт",
+        "#slogan": "Старинная атмосфера Маджонга!",
+        "article span": "Вырвись из суматохи современной жизни и погрузись в атмосферу древних цивилизаций!<ul><li>25 уровней в сюжетной игре</li><li>Классический режим со 100 вариантами пирамид</li><li>Оригинальный Бесконечный режим игры</li><li>27 живописных фонов</li><li>5 красочных тематических наборов фишек</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Маджонг Артефакт<br>выйдет через:</h3>"
+    }
+}

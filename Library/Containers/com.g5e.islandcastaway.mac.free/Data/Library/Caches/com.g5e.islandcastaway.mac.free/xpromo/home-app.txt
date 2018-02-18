@@ -1,0 +1,50 @@
+{
+"lang.en":
+{
+  "title"               : "Home",
+  "a#games_iphone span" : "iPhone Games",
+  "a#games_ipad span"   : "iPad Games",
+  "a#games_mac span"    : "Mac Games",
+  "a#games_pc span"     : "PC Games"
+},
+"lang.de":
+{
+  "title"               : "Home",
+  "a#games_iphone span" : "iPhone Spiele",
+  "a#games_ipad span"   : "iPad Spiele",
+  "a#games_mac span"    : "Mac Spiele",
+  "a#games_pc span"     : "PC Spiele"
+},
+"lang.es":
+{
+  "title"               : "Inicio",
+  "a#games_iphone span" : "iPhone Juegos",
+  "a#games_ipad span"   : "iPad Juegos",
+  "a#games_mac span"    : "Mac Juegos",
+  "a#games_pc span"     : "PC Juegos"
+},
+"lang.fr":
+{
+  "title"               : "Accueil",
+  "a#games_iphone span" : "iPhone Jeux",
+  "a#games_ipad span"   : "iPad Jeux",
+  "a#games_mac span"    : "Mac Jeux",
+  "a#games_pc span"     : "PC Jeux"
+},
+"lang.it":
+{
+  "title"               : "Principale",
+  "a#games_iphone span" : "iPhone Giochi",
+  "a#games_ipad span"   : "iPad Giochi",
+  "a#games_mac span"    : "Mac Giochi",
+  "a#games_pc span"     : "PC Giochi"
+},
+"lang.ru":
+{
+  "title"               : "Главная",
+  "a#games_iphone span" : "iPhone Игры",
+  "a#games_ipad span"   : "iPad Игры",
+  "a#games_mac span"    : "Mac Игры",
+  "a#games_pc span"     : "PC Игры"
+}
+}

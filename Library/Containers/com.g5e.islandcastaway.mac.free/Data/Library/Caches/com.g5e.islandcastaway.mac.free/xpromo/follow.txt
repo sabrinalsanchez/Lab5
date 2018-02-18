@@ -1,0 +1,80 @@
+{
+"lang.en":
+{
+  "title"             : "New Game Apps Every Week!",
+  "#becoming"         : "Stay Connected!<br/>Sign up to receive news about G5 games, promotions and product launches!",
+  "#onsocial"         : "Follow G5 on social networks",
+  "#taphere"          : "tap here",
+  "email.placeholder" : "Type your email address",
+  "email.invalid"     : "Please enter valid email address",
+  "submit.value"      : "Subscribe",
+  "submit.working"    : "Working...",
+  "submit.done"       : "Subscribed",
+  "submit.tryagain"   : "Try again"
+},
+"lang.de":
+{
+  "title"             : "Jede Woche neue Spiel-Apps!",
+  "#becoming"         : "Bleiben Sie in Verbindung!<br/>Melden Sie sich an, um Neuigkeiten über Spiele von G5, Aktionen und Produktveröffentlichungen zu erfahren!",
+  "#onsocial"         : "Folge G5 in sozialen Netzwerken",
+  "#taphere"          : "Tippe hier",
+  "email.placeholder" : "Gib deine E-Mailadresse ein",
+  "email.invalid"     : "Gib bitte eine gültige E-Mailadresse ein",
+  "submit.value"      : "Eintragen",
+  "submit.working"    : "Wird ausgeführt...",
+  "submit.done"       : "Eingetragen",
+  "submit.tryagain"   : "Auf ein Neues"
+},
+"lang.es":
+{
+  "title"             : "¡Juegos nuevos cada semana!",
+  "#becoming"         : "¡Mantente conectado!<br/>¡Regístrate para recibir noticias sobre las novedades de juegos G5, promociones y lanzamientos de productos!",
+  "#onsocial"         : "Sigue G5 en las redes sociales",
+  "#taphere"          : "pulsa aquí",
+  "email.placeholder" : "Escribe tu e-mail",
+  "email.invalid"     : "Escribe una dirección de e-mail válida",
+  "submit.value"      : "Suscribirse",
+  "submit.working"    : "En proceso...",
+  "submit.done"       : "Suscrito",
+  "submit.tryagain"   : "Otra vez"
+},
+"lang.fr":
+{
+  "title"             : "Nouveaux jeux chaque semaine !",
+  "#becoming"         : "Soyez toujours au courant !<br/>Inscrivez-vous pour recevoir des infos sur les jeux, les offres promotionnelles et les lancements des produits G5 !",
+  "#onsocial"         : "Suivez G5 sur les réseaux sociaux",
+  "#taphere"          : "touchez ici",
+  "email.placeholder" : "Saisissez une adresse e-mail",
+  "email.invalid"     : "Saisissez une adresse e-mail valide",
+  "submit.value"      : "S'abonner",
+  "submit.working"    : "En cours...",
+  "submit.done"       : "Abonné",
+  "submit.tryagain"   : "Réessayez"
+},
+"lang.it":
+{
+  "title"             : "Nuovi giochi ogni settimana!",
+  "#becoming"         : "Rimani connesso!<br/>Iscriviti per ricevere notizie su giochi, promozioni e lanci di prodotti G5!",
+  "#onsocial"         : "Segui G5 sui social network",
+  "#taphere"          : "tocca qui",
+  "email.placeholder" : "Inserisci il tuo indirizzo e-mail",
+  "email.invalid"     : "Inserisci un indirizzo e-mail valido",
+  "submit.value"      : "Iscriviti",
+  "submit.working"    : "Attendere",
+  "submit.done"       : "Iscritto",
+  "submit.tryagain"   : "Riprova"
+},
+"lang.ru":
+{
+  "title"             : "Новые игры каждую неделю!",
+  "#becoming"         : "Оставайтесь в курсе событий!<br/>Подпишитесь, чтобы получать новости об играх G5, акциях и новых релизах!",
+  "#onsocial"         : "Следите за новостями G5 в социальных сетях",
+  "#taphere"          : "нажми",
+  "email.placeholder" : "Введите ваш email-адрес",
+  "email.invalid"     : "Введите корректный email-адрес",
+  "submit.value"      : "Подписать",
+  "submit.working"    : "Обработка...",
+  "submit.done"       : "Подписан",
+  "submit.tryagain"   : "Попробовать еще"
+}
+}

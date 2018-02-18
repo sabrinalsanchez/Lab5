@@ -1,0 +1,8 @@
+| 10-16-2017 | 11:51:06.695 | 4182 | 4879 | CWHAppDelegate.m |   85 | -[CWHAppDelegate applicationWillFinishLaunching:] | LM_WEBHELPER |   LL_ALWAYS | CitrixWeb helper started (path /Library/Application Support/Citrix Receiver/Citrix Receiver Launcher.app)
+| 10-16-2017 | 11:51:06.838 | 4182 | 12039 |  CWHHdxStatus.m |   40 | +[CWHHdxStatus currentStatus] | LM_WEBHELPER |   LL_ALWAYS | HDX status: installed=1 launchPath='/Applications/Citrix Receiver.app/Contents/Helpers/Citrix Viewer.app' version='12.6.0.532443' passthrough=0 remotepc=0
+| 10-16-2017 | 11:51:06.839 | 4182 | 12039 | CWHNetworkUtils.m |  168 | +[CWHNetworkUtils userAgent:] | LM_WEBHELPER |   LL_ALWAYS | User Agent: CitrixReceiver/12.6.0.532443 MacOSX/10.10.2 CitrixWebHelper/12.6.0
+| 10-16-2017 | 11:51:06.839 | 4182 | 12039 | CWHNetworking.m |  107 | -[CWHNetworking sendRequestViaNsg:withPostData:userAgent:] | LM_WEBHELPER |   LL_ALWAYS | NSG URL: https://apps.ufl.edu:443/
+| 10-16-2017 | 11:51:06.850 | 4182 | 12039 | CWHNetworking.m |  127 | -[CWHNetworking sendRequestViaNsg:withPostData:userAgent:] | LM_WEBHELPER |   LL_ALWAYS | Web proxy: (null)
+| 10-16-2017 | 11:51:07.378 | 4182 | 12039 | CWHNetworking.m |  213 | -[CWHNetworking sendRequestViaNsg:withPostData:userAgent:] | LM_WEBHELPER |   LL_ALWAYS | Response code: 
+| 10-16-2017 | 11:51:07.379 | 4182 | 12039 | CWHAppDelegate.m |  136 | __51-[CWHAppDelegate handleGetURLEvent:withReplyEvent:]_block_invoke | LM_WEBHELPER |   LL_ALWAYS | Ica file download duration: 0.540365 secs
+| 10-16-2017 | 11:51:08.766 | 4182 | 12039 | CWHIcaLauncher.m |   62 | -[CWHIcaLauncher launch] | LM_WEBHELPER |   LL_ALWAYS | Launch succeeded. launcherURL: file:///Applications/Citrix%20Receiver.app/Contents/Helpers/Citrix%20Viewer.app/

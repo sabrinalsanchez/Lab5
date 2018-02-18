@@ -1,0 +1,56 @@
+{
+    "lang.en": {
+        "title": "Fix-It-Up: World Tour",
+        "#slogan": "Expand your car-repair empire!",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id522328839?mt=12",
+            "full": "http://itunes.apple.com/app/id522328069?mt=12"
+        },
+        "#youtube_id": "hwOf7itJUBk",
+        "genre": "ST",
+        "article span": "Go global in this fantastic strategy adventure! Build car-repair shops anywhere from snowy Canada to steaming African jungles. Buy cars, fix them and paint them to make your business prosperous.<ul><li>54 Levels and 5 bonus levels</li><li>18 Unique locations around the world</li><li>Over 20 car types in environmentally friendly buildings</li><li>Hire employees and train them</li><li>Upgrades, achievements and more!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up: World Tour<br>will be available in:<h3>"
+    },
+    "lang.de": {
+        "title": "Fix-It-Up: World Tour",
+        "#slogan": "Baue dein Autoreparatur-Imperium aus!",
+        "article span": "Interagiere weltweit in diesem faszinierenden Strategieabenteuer! Baue Auto-Reparatur-Werkstätten überall vom verschneiten Kanada bis hin zum dampfenden Afrikanischen Dschungel. Kaufe Autos, repariere und lackiere sie, um Dein Unternehmen gedeihen zu lassen.<ul><li>54 Level und 5 Bonuslevel</li><li>18 Einzigartige Standorte weltweit</li><li>Mehr als 20 Automodelle in umweltfreundlichen Gebäuden</li><li>Stelle Mitarbeiter ein und schule sie</li><li>Verbesserungen, Leistungen und vieles mehr!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up: World Tour<br>ist in:<h3>"
+    },
+    "lang.es": {
+        "title": "Fix-It-Up: World Tour",
+        "#slogan": "¡Expande tu imperio de talleres de coches!",
+        "article span": "¡Hazte global en esta fantástica aventura de estrategia! Construye tiendas de reparación de automóviles en todas partes, desde la nevada Canadá hasta las calientes selvas africanas. Compra coches, repáralos y píntalos para que tu negocio próspere.<ul><li>54 Niveles y 5 niveles de bonificación</li><li>18 Lugares únicos en todo el mundo</li><li>Más de 20 tipos de vehículos en edificios ecológicos</li><li>Contrataa empleados y capacítalos</li><li>¡Mejoras, logros y mucho más!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up: World Tour<br>estara disponible en:<h3>"
+    },
+    "lang.fr": {
+        "title": "Fix-It-Up: World Tour",
+        "#slogan": "Développez votre empire de garages auto.",
+        "article span": "Plongez au cœur d'une incroyable aventure stratégique internationale ! Achetez des ateliers partout dans le monde, des plaines canadiennes glaciales aux jungles africaines luxuriantes. Procurez-vous des épaves, remettez-les en état, donnez-leur un coup de peinture... et par ici la menue monnaie !<ul><li>54 Niveaux et 5 niveaux bonus</li><li>18 Lieux uniques à travers le monde</li><li>Plus de 20 types de voitures dans des bâtiments écologiques</li><li>Embauchez des employés et formez-les</li><li>Améliorations, succès et bien plus encore !</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up: World Tour<br>sera disponible dans:<h3>"
+    },
+    "lang.it": {
+        "title": "Fix-It-Up: World Tour",
+        "#slogan": "Amplia la tua officina!",
+        "article span": "Immergiti in questa fantastica avventura di strategia! Costruisci carrozzerie ovunque dall'innevato Canada alle umide giungle africane. Compra auto, riparale e verniciale per far prosperare il tuo business.<ul><li>54 Livelli e 5 livelli bonus</li><li>18 Location esclusive in tutto il mondo</li><li>Più di 20 tipi di auto in edifici ecologici</li><li>Assumi impiegati e formali</li><li>Espansioni, obiettivi e molto ancora!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Fix-It-Up: World Tour<br>sara disponibile tra:<h3>"
+    },
+    "lang.ru": {
+        "title": "Починяй-ка: Большие гонки",
+        "#slogan": "Расширьте свою авторемонтную империю!",
+        "article span": "Помогите Кейт расширить свой бизнес по ремонту автомобилей. Вы сможете построить свои мастерские по всему миру от снежной Канады до жарких африканских джунглей. Покупайте машины, ремонтируйте и перекрашивайте их, чтобы сделать свое дело процветающим.<ul><li>54 Уровня и 5 бонусных уровней</li><li>18 Уникальных локаций по всему миру</li><li>Более 20 видов машин</li><li>Квалифицированные помощники</li><li>Апгрейды, награды и многое другое!</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Починяй-ка: Большие гонки<br>выйдет через:<h3>"
+    },
+    "lang.zh": {
+        "title": "Fix-it-up: World Tour",
+        "title_short": "Fix-it-up: World Tour"
+    },
+    "lang.ja": {
+        "title": "Fix-it-up: World Tour",
+        "title_short": "Fix-it-up: World Tour"
+    },
+    "lang.ko": {
+        "title": "Fix-it-up: World Tour",
+        "title_short": "Fix-it-up: World Tour"
+    }
+}

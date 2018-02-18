@@ -1,0 +1,58 @@
+---- INSTALL RUN |||| 02-04-2018 02:53:31 -0500 
+Install Log: Type:Ping Severity:Debug Message:SecCodeCopySelf returned:0 
+Install Log: Type:Ping Severity:Debug Message:DR status:0 
+Install Log: Type:Ping Severity:Debug Message:Validate Status:0 
+Install Log: Type:Network Severity:Debug Message:Get Staged XML from :https://javadl-esd-secure.oracle.com/update/9/c2514751926b4512b076cc82f959763f/mac-9.0.4+11.xml 
+Install Log: Type:Network Severity:Debug Message:Arguments:(
+    "/Users/Sabrina/Library/Application Support/Java/Java 9.0.4.0.11/Java 9.0.4.app/Contents/MacOS/MacJREInstaller",
+    "MODE=AU",
+    ""
+) 
+Install Log: Type:Other Severity:Debug Message:Dictionary:{
+    MODE = AU;
+} 
+Install Log: Type:Network Severity:Debug Message:installed version: 9.0.1+11 
+Install Log: Type:Network Severity:Debug Message:Current Installed Version:9.0.1+11 
+Install Log: Type:Ping Severity:Debug Message:Init MacPingEngine. 
+Install Log: Type:Ping Severity:Debug Message:kCFCoreFoundationVersionNumber: 1152.500000 
+Install Log: Type:Network Severity:Debug Message:installed version: 9.0.1.0.11 
+Install Log: Type:Network Severity:Debug Message:version to install: 9.0.4.0.11 
+Install Log: Type:Ping Severity:Debug Message:Result: 9.0.4.0.11 > 9.0.1.0.11 
+Install Log: Type:Other Severity:Debug Message:Application support directory:/Users/Sabrina/Library/Application Support 
+Install Log: Type:Other Severity:Debug Message:infoPlist:(null) 
+Install Log: Type:Other Severity:Debug Message:JDK version string:9.0.1 
+Install Log: Type:Network Severity:Debug Message:short version to install: Java 9.0.4 build 11, w/o build Java 9.0.4 
+Install Log: Type:Network Severity:Debug Message:Installing JRE, Lock Continue Button 
+Install Log: Type:Ping Severity:Debug Message:SecCodeCopySelf returned:0 
+Install Log: Type:Ping Severity:Debug Message:DR status:0 
+Install Log: Type:Ping Severity:Debug Message:Validate Status:0 
+Install Log: Type:Network Severity:Debug Message:ExecCmd:/usr/sbin/installer -pkg "/Users/Sabrina/Library/Application Support/Java/Java 9.0.4.0.11/Java 9.0.4.app/Contents/Resources/JavaAppletPlugin.pkg" -target / 
+Install Log: Type:Network Severity:Debug Message:Response from Priviledged Helper: 0 
+Install Log: Type:Ping Severity:Debug Message:From Ping Delegate 
+Install Log: Type:Network Severity:Debug Message:short version to install: Java 9.0.4 build 11, w/o build Java 9.0.4 
+Install Log: Type:Network Severity:Debug Message:short version to install: Java 9.0.4 build 11, w/o build Java 9.0.4 
+Install Log: Type:Network Severity:Debug Message:Unlocking ContinueButton = <NSButton: 0x7feeab407860>: 0 
+Install Log: Type:Ping Severity:Debug Message:Incoming response: <NSHTTPURLResponse: 0x7feeab70a1d0> { URL: http://rps-svcs.sun.com/services/countrylookup } { status code: 200, headers {
+    Connection = "keep-alive";
+    "Content-Length" = 268;
+    "Content-Type" = "text/html";
+    Country = US;
+    Date = "Sun, 04 Feb 2018 07:54:00 GMT";
+    Expires = "Sun, 04 Feb 2018 07:54:00 GMT";
+    "Mime-Version" = "1.0";
+    Server = AkamaiGHost;
+} } 
+Install Log: Type:Ping Severity:Debug Message:country in NSString: US 
+Install Log: Type:Ping Severity:Debug Message:Installed Browser: Safari.app Safari 
+Install Log: Type:Ping Severity:Debug Message:Installed Browser: Google Chrome.app Google Chrome 
+Install Log: Type:Ping Severity:Debug Message:XMLDocument
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><request><sc_xml_ver>1.0</sc_xml_ver><reportsuiteid>suninstallstat</reportsuiteid><visitorid>61DD399540D75254AA2AA824CDF93A5D</visitorid><prop21>61DD399540D75254AA2AA824CDF93A5D</prop21><prop20>******</prop20><pagename>ic</pagename><evar2>9.0.4+11</evar2><evar3>9.0.1+11</evar3><evar6>10.10.2</evar6><evar7>jau</evar7><evar8>US</evar8><evar24>0</evar24><evar25>0</evar25><evar50>B00110</evar50><events>event6,event7</events><products>;jre|0,;XSP300|-146;;;;event7=1</products></request>  
+Install Log: Type:Ping Severity:Debug Message:Ping return 1 
+Install Log: Type:Network Severity:Debug Message:Cleaning up AU payload 
+Install Log: Type:Other Severity:Debug Message:Application support directory:/Users/Sabrina/Library/Application Support 
+Install Log: Type:Network Severity:Debug Message:installed version: 9.0.4.0.11 
+Install Log: Type:Network Severity:Debug Message:Calling performSelectorOnMainThread to set jre install code as 0 
+Install Log: Type:Network Severity:Debug Message:Calling setJREInstallCode with 0 
+Install Log: Type:Network Severity:Debug Message:Current Step:3 
+Install Log: Type:Network Severity:Debug Message:Free auth successfully. 
+Install Log: Type:Other Severity:Debug Message:Application support directory:/Users/Sabrina/Library/Application Support 

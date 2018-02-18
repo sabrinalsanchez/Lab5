@@ -1,0 +1,1356 @@
+{
+"lang.en":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: The Quest®</h2>Will you make it off the island alive?",
+      "button"    : "Play FREE!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "text_short" : "<h2>Survivors: The Quest®</h2>Make it off the island alive!",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>Build the city of your dreams… and then run it!",
+      "button"    : "Play FREE!",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>The Most Popular hidden object game!",
+      "button"    : "Play FREE!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "text_short" : "<h2>The Secret Society®</h2>The top hidden object game!",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>Grow your burger-flipping business step-by-step!",
+      "button"    : "Update now!",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "img"       : "com.g5e.sofplayground.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: Timeless Fables</h2>Help Bella find her missing brother!",
+      "button"    : "Play Now!",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>Weekly SALE!</h2>Use your ability to see other worlds to save mankind! Red Crow Mysteries: Legion is up to 80% off through May 29th!",
+      "button"    : "Play Now!",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "text_short" : "<h2>Weekly SALE!</h2>Can you save mankind from peril?",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>A spine-tingling hidden object adventure game!",
+      "button"    : "Play FREE!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>Help Finn and Dahla reunite in love!",
+      "button"    : "Play Now!",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>Magical Holiday SALE!</h2>Get ready to fill your stocking! Snag ten of G5’s most popular games for as low as 99¢ each through December 27th!",
+      "button"    : "Learn more!",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "text_short" : "",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>40% off new G5 Games!</h2>Get new G5 games for up to 40% off! Sign up for the G5 newsletter now!<br>www.g5e.com/e-mail",
+      "button"    : "Sign Up Now!",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let",
+      "text_short" : ""
+    },
+    {
+      "text"      : "<h2>Follow us on Twitter</h2>Follow us on Twitter to receive G5 exclusive offers and news!",
+      "button"    : "Follow us!",
+      "href"      : "@ext(https://twitter.com/G5games)",
+      "id"        : "Twitter_Mac_18.05.2015",
+      "style"     : "background-image: url('theme/twit.png')",
+      "begsAt"    : "2015/05/18",
+      "endsAt"    : "2015/05/20",
+      "includes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>We want your input!</h2>Join our Usability Testing Group and help us with everything from artwork to gameplay. Thank you for your help!",
+      "button"    : "Sign Up Now!",
+      "href"      : "javascript:subscribeExec('subscribe_beta.html')",
+      "id"        : "Beta_Mac_26.05.2015",
+      "begsAt"    : "2015/05/26",
+      "endsAt"    : "2015/05/29",
+      "style"     : "background-image: url('theme/beta_icon.png')"
+    }
+  ]
+},
+"lang.de":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: Die Quest</h2>Kommst du lebend von der Insel?",
+      "button"    : "FREIER Spielraum!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "text_short" : "<h2>Survivors: Die Quest</h2>Kommst du lebend von der Insel?",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>Bau deine Traumstadt ... und verwalte sie dann!",
+      "button"    : "FREIER Spielraum!",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>Das beliebteste Wimmelbildspiel!",
+      "button"    : "FREIER Spielraum!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "text_short" : "<h2>The Secret Society®</h2>Das beste Wimmelbild-Spiel!",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>Entwickle Zug um Zug dein Burgergeschäft!",
+      "button"    : "Jetzt aktualisieren!",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "img"       : "com.g5e.sofplayground.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: Zeitlose Fabeln</h2>Hilf Bella, ihren verschwundenen Bruder zu finden!",
+      "button"    : "Jetzt spielen!",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>Wöchentlicher AUSVERKAUF!</h2>Erlebe andere Welten und rette die Menschheit! Red Crow Mysteries: Legion gibt es bis zum 29. Mai mit bis zu 80 % Rabatt!",
+      "button"    : "Jetzt spielen!",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "text_short" : "<h2>Wöchentlicher AUSVERKAUF!</h2>Kannst du die Menschheit retten?",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>Ein schauriges Wimmelbild-Abenteuerspiel!",
+      "button"    : "FREIER Spielraum!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>Hilf den Liebenden Finn und Dahla!",
+      "button"    : "Jetzt spielen!",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>Magischer Festtags-VERKAUF!</h2>Fülle deine Strümpfe! Schnapp dir zehn der beliebtesten G5-Spiele ab nur 99¢ bis zum 27. Dezember!",
+      "button"    : "Mehr info!",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "text_short" : "",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>-40% auf neue Spiele!</h2>Sichere dir bis zu 40% Rabatt auf neue G5 Spiele! Abonniere gleich den G5 Newsletter! www.g5e.com/e-mail",
+      "button"    : "Jetzt abonnieren!",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let",
+      "text_short" : ""
+    },
+    {
+      "text"      : "<h2>Schließen Sie sich uns auf Twitter an</h2>Schließen Sie sich uns auf Twitter an, und erhalten Sie exklusive Angebote und Neuigkeiten!",
+      "button"    : "Schließen Sie sich uns an!",
+      "href"      : "@ext(https://twitter.com/G5games)",
+      "id"        : "Twitter_Mac_18.05.2015",
+      "style"     : "background-image: url('theme/twit.png')",
+      "begsAt"    : "2015/05/18",
+      "endsAt"    : "2015/05/20",
+      "includes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Wir möchten deinen Beitrag!</h2>Werde Teil unserer Usability-Testgruppe und hilf uns bei allem, von den Grafiken bis zum Gameplay. Danke für deine Hilfe!",
+      "button"    : "Jetzt abonnieren!",
+      "href"      : "javascript:subscribeExec('subscribe_beta.html')",
+      "id"        : "Beta_Mac_26.05.2015",
+      "begsAt"    : "2015/05/26",
+      "endsAt"    : "2015/05/29",
+      "style"     : "background-image: url('theme/beta_icon.png')"
+    }
+  ]
+},
+"lang.es":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: La búsqueda</h2>¿Saldrás de la isla con vida?",
+      "button"    : "¡Juega GRATIS!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "text_short" : "<h2>Survivors: La búsqueda</h2>¿Saldrás de la isla con vida?",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>Construye la ciudad de tus sueños... y luego dirígela.",
+      "button"    : "¡Juega GRATIS!",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>¡El juego de objetos ocultos Más popular!",
+      "button"    : "¡Juega GRATIS!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "text_short" : "<h2>The Secret Society®</h2>¡Superjuego de objetos ocultos!",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>¡Ve crecer paso a paso tu hamburguesería!",
+      "button"    : "¡Actualízate ahora!",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "img"       : "com.g5e.sofplayground.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: Fábulas de Siempre</h2>Ayuda a Bella a encontrar a su hermano desaparecido.",
+      "button"    : "¡Juega ahora!",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>¡OFERTA semanal!</h2>¡Salva a la humanidad con tu capacidad para ver otros mundos! Red Crow Mysteries: Legion ¡Ahorra hasta un 80 %! (hasta el 29/05).",
+      "button"    : "¡Juega ahora!",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "text_short" : "<h2>¡OFERTA semanal!</h2>¿Puedes salvar a la humanidad?",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>¡Un juego de objetos ocultos escalofriante!",
+      "button"    : "¡Juega GRATIS!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>¡Ayuda a que Finn y Dahla se reúnan!",
+      "button"    : "¡Juega ahora!",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>¡REBAJAS mágicas navideñas!</h2>¡Prepárate para disfrutar! Hazte con diez de los juegos más populares de G5 por tan solo 99 ¢ cada uno hasta el 27 de diciembre.",
+      "button"    : "¡Más info!",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "text_short" : "",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>¡40% en nuevos juegos!</h2>¡Consigue juegos nuevos de G5 por hasta un 40 % menos! Suscríbete ya al boletín de G5! www.g5e.com/e-mail",
+      "button"    : "¡Suscríbete ahora!",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let",
+      "text_short" : ""
+    },
+    {
+      "text"      : "<h2>Síguenos en Twitter</h2>¡Síguenos en Twitter para recibir ofertas exclusivas y noticias de G5!",
+      "button"    : "¡Síguenos!",
+      "href"      : "@ext(https://twitter.com/G5games)",
+      "id"        : "Twitter_Mac_18.05.2015",
+      "style"     : "background-image: url('theme/twit.png')",
+      "begsAt"    : "2015/05/18",
+      "endsAt"    : "2015/05/20",
+      "includes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>¡Haznos llegar tu opinión!</h2>Únete a nuestro Grupo de pruebas y ayúdanos en todos los aspectos, desde el artístico hasta la jugabilidad. ¡Gracias por tu ayuda!",
+      "button"    : "¡Suscríbete ahora!",
+      "href"      : "javascript:subscribeExec('subscribe_beta.html')",
+      "id"        : "Beta_Mac_26.05.2015",
+      "begsAt"    : "2015/05/26",
+      "endsAt"    : "2015/05/29",
+      "style"     : "background-image: url('theme/beta_icon.png')"
+    }
+  ]
+},
+"lang.fr":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors : La Quête</h2>Réussirez-vous à quitter l'île ?",
+      "button"    : "Joue GRATUITEMENT !",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "text_short" : "<h2>Survivors : La Quête</h2>Réussirez-vous à quitter l'île ?",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>Construisez une ville digne de vos rêves les plus fous et les plus ambitieux… et gérez-la !",
+      "button"    : "Joue GRATUITEMENT !",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>Le jeu d'objets cachés le plus célèbre !",
+      "button"    : "Joue GRATUITEMENT !",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "text_short" : "<h2>The Secret Society®</h2>Super jeu d'objets cachés !",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>Développez votre fast-food petit à petit !",
+      "button"    : "Effectuez la mise à jour !",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "img"       : "com.g5e.sofplayground.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls : Fables intemporelles</h2>Aidez Bella à retrouver son frère !",
+      "button"    : "Jouez maintenant !",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>PROMO hebdomadaire !</h2>Utilisez votre don surnaturel pour sauver l'humanité ! Jusqu'à -80 % sur Red Crow Mysteries: Legion (fin de l'offre : le 29 mai) !",
+      "button"    : "Jouez maintenant !",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "text_short" : "<h2>PROMO hebdomadaire !</h2>Sauverez-vous l'humanité ?",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>Une aventure funeste truffée d'objets cachés !",
+      "button"    : "Joue GRATUITEMENT !",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>Aidez Finn et Dahla à se retrouver !",
+      "button"    : "Jouez maintenant !",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>¡REBAJAS mágicas navideñas!</h2>¡Prepárate para disfrutar! Hazte con diez de los juegos más populares de G5 por tan solo 99 ¢ cada uno hasta el 27 de diciembre.",
+      "button"    : "Plus d'infos !",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "text_short" : "",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>-40 % sur des nouveautés !</h2>Jusqu'à -40 % sur les nouveaux jeux&nbsp;G5&nbsp;! Abonnez-vous à la lettre d'information de G5 dès maintenant ! www.g5e.com/e-mail",
+      "button"    : "Abonnez-vous dès maintenant !",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let",
+      "text_short" : ""
+    },
+    {
+      "text"      : "<h2>Suivez-nous sur Twitter</h2>Suivez-nous sur Twitter pour recevoir des infos et des offres exclusives de la part de G5 !",
+      "button"    : "Suivez-nous !",
+      "href"      : "@ext(https://twitter.com/G5games)",
+      "id"        : "Twitter_Mac_18.05.2015",
+      "style"     : "background-image: url('theme/twit.png')",
+      "begsAt"    : "2015/05/18",
+      "endsAt"    : "2015/05/20",
+      "includes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Donnez-vous votre avis !</h2>Rejoignez notre groupe de testeurs et aidez-nous à peaufiner chaque aspect de nos jeux ! Merci pour votre aide !",
+      "button"    : "Abonnez-vous maintenant !",
+      "href"      : "javascript:subscribeExec('subscribe_beta.html')",
+      "id"        : "Beta_Mac_26.05.2015",
+      "begsAt"    : "2015/05/26",
+      "endsAt"    : "2015/05/29",
+      "style"     : "background-image: url('theme/beta_icon.png')"
+    }
+  ]
+},
+"lang.it":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: La missione</h2>Riuscirai a lasciare l'isola?",
+      "button"    : "Gioca GRATIS!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "text_short" : "<h2>Survivors: La missione</h2>Riuscirai a lasciare l'isola?",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>Costruisci la città dei tuoi sogni e poi gestiscila!",
+      "button"    : "Gioca GRATIS!",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>Il gioco a oggetti nascosti più venduto!",
+      "button"    : "Gioca GRATIS!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "text_short" : "<h2>The Secret Society®</h2>Miglior gioco a ogg. nascosti!",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>Espandi la tua catena un passo alla volta!",
+      "button"    : "Aggiorna adesso!",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "img"       : "com.g5e.sofplayground.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: Favole senza tempo</h2>Aiuta Bella a trovare il suo fratello scomparso!",
+      "button"    : "Gioca adesso!",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>PROMOZIONE settimanale!</h2>Salva l'umanità grazie alla tua capacità di vedere altri mondi! 80% di sconto su Red Crow Mysteries: Legion fino al 29 maggio!",
+      "button"    : "Gioca adesso!",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "text_short" : "<h2>PROMOZIONE settimanale!</h2>Riuscirai a salvare l'umanità?",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>Un'avventura a oggetti nascosti da brivido!",
+      "button"    : "Gioca GRATIS!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>Aiuta Finn e Dahla a riunificarsi!",
+      "button"    : "Gioca adesso!",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>SCONTI festivi magici!</h2>Preparati per riempire la calza! Fino al 27 dicembre, prendi 10 fra i giochi più popolari di G5 a soli 99¢ l'uno!",
+      "button"    : "Ult. Info!",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "text_short" : "",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>Nuovi giochi al 40%!</h2>Acquista nuovi giochi G5 con uno sconto fino al 40%! Iscriviti subito alla newsletter di G5! www.g5e.com/e-mail",
+      "button"    : "Iscriviti adesso!",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let",
+      "text_short" : ""
+    },
+    {
+      "text"      : "<h2>Seguici su Twitter</h2>Seguici su Twitter per ricevere offerte e novità esclusive da G5!",
+      "button"    : "Seguici!",
+      "href"      : "@ext(https://twitter.com/G5games)",
+      "id"        : "Twitter_Mac_18.05.2015",
+      "style"     : "background-image: url('theme/twit.png')",
+      "begsAt"    : "2015/05/18",
+      "endsAt"    : "2015/05/20",
+      "includes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Vogliamo la vostra opinione!</h2>Entrate a far parte del gruppo di prova e aiutateci in ogni settore, dalla grafica alla giocabilità. Grazie per il vostro aiuto!",
+      "button"    : "Iscriviti adesso!",
+      "href"      : "javascript:subscribeExec('subscribe_beta.html')",
+      "id"        : "Beta_Mac_26.05.2015",
+      "begsAt"    : "2015/05/26",
+      "endsAt"    : "2015/05/29",
+      "style"     : "background-image: url('theme/beta_icon.png')"
+    }
+  ]
+},
+"lang.ru":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: Остаться в живых</h2>Удастся ли вам спастись с острова?",
+      "button"    : "Играть БЕСПЛАТНО!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "text_short" : "<h2>Survivors: Остаться в живых</h2>Найдите дорогу с острова домой!",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Виртуальный Город Playground</h2>Постройте город своей мечты … и управляйте им!",
+      "button"    : "Играть БЕСПЛАТНО!",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>Самая популярная игра в жанре поиска скрытых предметов!",
+      "button"    : "Играть БЕСПЛАТНО!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "text_short" : "<h2>The Secret Society®</h2>Топ игра в жанре поиска предметов",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>Шаг за шагом развивайте свою бургерную империю!",
+      "button"    : "Обновить сейчас!",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "img"       : "com.g5e.sofplayground.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Потерянные Души: Незабвенные истории</h2>Помогите Белле найти исчезнувшего брата!",
+      "button"    : "Играть сейчас!",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "text_short" : "",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>РАСПРОДАЖА недели!</h2>Используйте дар видеть другие миры, чтобы спасти человечество! Скидка до 80% на игру 'Тайна Красного ворона: Легион' - до 29 мая!",
+      "button"    : "Играть сейчас!",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "text_short" : "<h2>РАСПРОДАЖА недели!</h2>Спасите человечество от гибели!",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Письма из Прошлого: Тайна</h2>Захватывающее приключение в жанре поиска скрытых предметов!",
+      "button"    : "Играть БЕСПЛАТНО!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Королевские сказки 2</h2>Помогите Финну воссоединиться со своей возлюбленной Даллой!",
+      "button"    : "Играть сейчас!",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>Волшебный праздник СКИДОК!</h2>Приготовьтесь наполнить подарками свои носочки! До 27 декабря 10 самых популярных игр G5 по 0,99 $ каждая!",
+      "button"    : "Узнать больше!",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "text_short" : "",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>-40% на новые игры от G5!</h2>Получайте новые игры от G5 со скидкой 40%! Подпишитесь на нашу рассылку<br>www.g5e.com/e-mail",
+      "button"    : "Подписаться сейчас!",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let",
+      "text_short" : ""
+    },
+    {
+      "text"      : "<h2>Мы на Twitter</h2>Присоединяйтесь к нам на Twitter и получайте новости о новых играх и специальных акциях.",
+      "button"    : "Следите за новостями!",
+      "href"      : "@ext(https://twitter.com/G5games)",
+      "id"        : "Twitter_Mac_18.05.2015",
+      "style"     : "background-image: url('theme/twit.png')",
+      "begsAt"    : "2015/05/18",
+      "endsAt"    : "2015/05/20",
+      "includes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Внеси свой вклад!</h2>Присоединяйтесь к команде тестирования удобства пользования и помогите нам от графического дизайна до игрового процесса. Спасибо!",
+      "button"    : "Подписаться сейчас!",
+      "href"      : "javascript:subscribeExec('subscribe_beta.html')",
+      "id"        : "Beta_Mac_26.05.2015",
+      "begsAt"    : "2015/05/26",
+      "endsAt"    : "2015/05/29",
+      "style"     : "background-image: url('theme/beta_icon.png')"
+    }
+  ]
+},
+"lang.zh":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: 任务</h2>你能在岛上生存下来吗？",
+      "text_short" : "<h2>Survivors: 任务</h2>你能在岛上生存下来吗？",
+      "button"    : "免费游戏!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>修建梦中之城...然后运营城市！",
+      "text_short" : "",
+      "button"    : "免费游戏!",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>最风靡的寻物游戏！",
+      "text_short" : "<h2>The Secret Society®</h2>最风靡的寻物游戏！",
+      "button"    : "免费游戏!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>一步一步打造你的汉堡生意！",
+      "text_short" : "",
+      "button"    : "立刻升级！",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "img"       : "com.g5e.sofplayground.mac",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: 经典寓言</h2>帮助贝拉找到失踪的弟弟！",
+      "text_short" : "",
+      "button"    : "开始游戏！",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>每周特卖！</h2>运用你的能力看其他世界，并拯救人类！5 月 29 日， 购买《Red Crow Mysteries: 军团》最多可打两折！",
+      "text_short" : "<h2>每周特卖！</h2>你能将人类从危机中拯救出来吗？",
+      "button"    : "开始游戏！",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>令人毛骨悚然的寻物历险游戏！",
+      "button"    : "免费游戏!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>帮助芬恩和达哈以爱之名重新团聚！",
+      "text_short" : "",
+      "button"    : "开始游戏！",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>神奇的假日特卖！</h2>准备好填满你的游戏库藏！12 月 21 日之前，以每款游戏低至 99 美分的价格获取 G5 十款最受欢迎的游戏！",
+      "text_short" : "",
+      "button"    : "了解更多！",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>全新 G5 Games 四折起售！</h2>立刻注册 G5新闻通讯！www.g5e.com/e-mail",
+      "text_short" : "",
+      "button"    : "立刻注册！",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let"
+    }
+  ]
+},
+"lang.zh_tw":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: 探索</h2>你能活著離開這座島嗎？",
+      "text_short" : "<h2>Survivors: 探索</h2>你能活著離開這座島嗎？",
+      "button"    : "免費遊玩！",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>打造您的夢幻之城……然後管理它！",
+      "text_short" : "",
+      "button"    : "免費遊玩！",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>最流行的隱藏物品遊戲！",
+      "text_short" : "<h2>The Secret Society®</h2>最流行的隱藏物品遊戲！",
+      "button"    : "免費遊玩！",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>一步一步壯大您的烤漢堡生意！",
+      "text_short" : "",
+      "button"    : "馬上升級！",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "img"       : "com.g5e.sofplayground.mac",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: 永恆寓言</h2>幫助Bella找到她失蹤的弟弟！",
+      "text_short" : "",
+      "button"    : "進入遊戲 !",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>每週特價！</h2>運用你的能力看其他世界，並拯救人類！5 月 29 日， 購買《Red Crow Mysteries: 軍團》最高可享受兩折youhui！",
+      "text_short" : "<h2>每週特價！</h2>你能將人類從危機中拯救出來嗎？",
+      "button"    : "進入遊戲 !",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>令人寒毛直豎的隱藏物品冒險遊戲！",
+      "button"    : "免費遊玩！",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>幫助Finn和Dahla破鏡重圓!",
+      "text_short" : "",
+      "button"    : "進入遊戲 !",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>假日神奇促銷！</h2>準備好填滿你的遊戲庫！選購10款G5最暢銷遊戲，價格低至每款99¢，優惠到12月27日結束！",
+      "text_short" : "",
+      "button"    : "學到更多！",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>G5 新遊戲 40% 折扣！</h2>現在就訂閱 G5 最新通訊！www.g5e.com/e-mail",
+      "text_short" : "",
+      "button"    : "馬上註冊！",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let"
+    }
+  ]
+},
+"lang.ja":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors：クエスト</h2>生きて島を出られるか？",
+      "text_short" : "<h2>Survivors：クエスト</h2>生きて島を出られるか？",
+      "button"    : "無料でプレーしよう!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>夢の都市を建設して、運営しよう！",
+      "text_short" : "",
+      "button"    : "無料でプレーしよう!",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>一番人気のアイテム探しゲーム！",
+      "text_short" : "<h2>The Secret Society®</h2>一番人気のアイテム探しゲーム！",
+      "button"    : "無料でプレーしよう!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>バーガービジネスを1歩ずつ大きくしていこう！",
+      "text_short" : "",
+      "button"    : "今すぐ更新！",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "img"       : "com.g5e.sofplayground.mac",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: 時を超える物語</h2>ベラの行方不明の兄弟探しを手伝ってあげよう！",
+      "text_short" : "",
+      "button"    : "今すぐプレイ！",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>ウィークリーセール！</h2>異世界を見る能力を駆使して人類を救おう！　「Red Crow Mysteries: レギオン」が5月29日まで最高80%オフ！",
+      "text_short" : "<h2>ウィークリーセール！</h2>人類を危機から救えるのか？",
+      "button"    : "今すぐプレイ！",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>わくわくのアイテム探しアドベンチャー！",
+      "button"    : "無料でプレーしよう!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>フィンとダーラの再会を助けよう！",
+      "text_short" : "",
+      "button"    : "今すぐプレイ！",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>マジカルホリデーセール！</h2>プレゼントを入れる靴下の用意を！　12月27日まで、G5 で最も人気のあるゲーム10作品がそれぞれわずか 99¢！",
+      "text_short" : "",
+      "button"    : "もっと詳しく！",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>G5 Gameの新作を４０％オフで！</h2>G5のニュースレターに登録しよう！www.g5e.com/e-mail",
+      "text_short" : "",
+      "button"    : "今すぐ登録！",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let"
+    }
+  ]
+},
+"lang.ko":
+{
+  "banners"       : 
+  [
+    {
+      "text"      : "<h2>Survivors: 탐색</h2>섬에서 살아 나갈 수 있을까요?",
+      "text_short" : "<h2>Survivors: 탐색</h2>섬에서 살아 나갈 수 있을까요?",
+      "button"    : "무료로 게임하기!",
+      "icon"      : "com.g5e.survivors.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1099860195?mt=12)",
+      "id"        : "Survivors_Mac_18.05.2016",
+      "begsAt"    : "2016/05/18",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.survivors.mac",
+      "excludes"  : "com.g5e.survivors.mac"
+    },
+    {
+      "text"      : "<h2>Virtual City Playground®</h2>꿈의 도시를 건설하고... 운영하세요!",
+      "text_short" : "",
+      "button"    : "무료로 게임하기!",
+      "icon"      : "com.g5e.virtualcitysb.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id479527329?mt=12)",
+      "id"        : "VCP1.18_Mac_21.03.2016",
+      "begsAt"    : "2016/03/21",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.virtualcitysb.mac",
+      "excludes"  : "com.g5e.virtualcitysb.mac"
+    },
+    {
+      "text"      : "<h2>The Secret Society®</h2>가장 인기 있는 숨은그림찾기 게임!",
+      "text_short" : "<h2>The Secret Society®</h2>가장 인기 있는 숨은그림찾기 게임!",
+      "button"    : "무료로 게임하기!",
+      "icon"      : "com.g5e.secretsociety.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id705278555?mt=12)",
+      "id"        : "TSS1.19_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/06/30",
+      "img"       : "com.g5e.secretsociety.mac",
+      "excludes"  : "com.g5e.secretsociety.mac"
+    },
+    {
+      "text"      : "<h2>Stand O’Food® City: Virtual Frenzy</h2>버거 사업을 차근차근 발전시키세요!",
+      "text_short" : "",
+      "button"    : "지금 업데이트!",
+      "icon"      : "com.g5e.sofplayground.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id924475345?mt=12)",
+      "id"        : "SOFPG1.7_Mac_25.05.2016",
+      "begsAt"    : "2016/05/25",
+      "endsAt"    : "2016/05/31",
+      "img"       : "com.g5e.sofplayground.mac",
+      "excludes"  : "com.g5e.sofplayground.mac"
+    },
+    {
+      "text"      : "<h2>Lost Souls: 영원한 이야기</h2>벨라를 도와잃어버린 형제를 찾아주세요!",
+      "text_short" : "",
+      "button"    : "지금 플레이!",
+      "icon"      : "com.g5e.lostsouls2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1096705554?mt=12)",
+      "id"        : "LS2_Mac_12.05.2016",
+      "begsAt"    : "2016/05/12",
+      "endsAt"    : "2016/05/23",
+      "img"       : "com.g5e.lostsouls2.mac",
+      "excludes"  : "com.g5e.lostsouls2.mac"
+    },
+    {
+      "text"      : "<h2>주간 할인!</h2>인류를 구하려면 당신의 능력을 사용해 다른 세상을 보세요! 5월 29일까지 Red Crow Mysteries: 군단을 최대 80% 할인합니다!",
+      "text_short" : "<h2>주간 할인!</h2>위험으로부터 인류를 구할 수 있을까요?",
+      "button"    : "지금 플레이!",
+      "icon"      : "com.g5e.rcmlegion.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id648921876?mt=12)",
+      "id"        : "RCsale_Mac_23.05.2016",
+      "begsAt"    : "2016/05/23",
+      "endsAt"    : "2016/05/30",
+      "img"       : "com.g5e.rcmlegion.mac",
+      "excludes"  : "com.g5e.rcmlegion.mac"
+    },
+    {
+      "text"      : "<h2>Letters From Nowhere®: Mystery</h2>등골이 오싹한 숨은그림찾기 모험!",
+      "button"    : "무료로 게임하기!",
+      "icon"      : "com.g5e.lettersfromnowherepg.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id981472983?mt=12)",
+      "id"        : "LFNPG_Mac_25.04.2016",
+      "text_short" : "",
+      "begsAt"    : "2016/04/25",
+      "endsAt"    : "2016/05/16",
+      "img"       : "com.g5e.lettersfromnowherepg.mac",
+      "excludes"  : "com.g5e.lettersfromnowherepg.mac"
+    },
+    {
+      "text"      : "<h2>Kingdom Tales 2</h2>핀과 다라가 다시 만나도록 도와주세요!",
+      "text_short" : "",
+      "button"    : "지금 플레이!",
+      "icon"      : "com.g5e.kngtales2.mac/icon.png",
+      "href"      : "@ext(http://itunes.apple.com/app/id1045454732?mt=12)",
+      "id"        : "KT2_Mac_09.05.2016",
+      "begsAt"    : "2016/05/09",
+      "endsAt"    : "2016/05/12",
+      "img"       : "com.g5e.kngtales2.mac",
+      "excludes"  : "com.g5e.kngtales2.mac"
+    },
+    {
+      "text"      : "<h2>환상적인 연휴 세일!</h2>양말을 채울 준비를 하세요! 12월 27일까지 G5의 인기 게임 10개를 최저가 99¢로 구매하세요!",
+      "text_short" : "",
+      "button"    : "더 알아보세요!",
+      "href"      : "@ext(http://www.g5e.com/sale)",
+      "id"        : "ChristmasSale_Mac_21.12.2015",
+      "begsAt"    : "2015/12/21",
+      "endsAt"    : "2015/12/28",
+      "img"       : "com.g5e.salespromotion.mac",
+      "style"     : "background-image: url('theme/sale.png')"
+    },
+    {
+      "text"      : "<h2>새로운 G5 Games 40% 할인!</h2>지금 G5 뉴스레터를 구독하세요! www.g5e.com/e-mail",
+      "text_short" : "",
+      "button"    : "지금 등록!",
+      "href"      : "javascript:subscribeExec()",
+      "id"        : "Subscription_Mac",
+      "style"     : "background-image: url('theme/let.png')",
+      "begsAt"    : "2009/12/19",
+      "endsAt"    : "2016/04/05",
+      "img"       : "news/static/let"
+    }
+  ]
+}
+}

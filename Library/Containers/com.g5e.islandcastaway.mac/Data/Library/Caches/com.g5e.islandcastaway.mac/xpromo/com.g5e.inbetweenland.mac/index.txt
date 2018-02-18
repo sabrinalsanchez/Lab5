@@ -1,0 +1,55 @@
+{
+    "lang.en": {
+        "title": "Inbetween Land",
+        "#slogan": "Solve challenging puzzles and take your friend back home in this adventure.",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id537997429?mt=12",
+            "full": "http://itunes.apple.com/app/id537994861?mt=12"
+        },
+        "#youtube_id": "yhzIHpAbmsw",
+        "article span": "Explore the creepy island, make friends with the spirits of the island&apos;s people, solve challenging puzzles, find missing crystals and take your friend back home in this absorbing adventure.<ul><li>52 Fascinating locations to explore</li><li>19 Thought-provoking mini games</li><li>3 Game modes: Casual, Normal, Expert</li><li>4 Engaging comics</li><li>Out-of-this-world storyline</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Inbetween Land<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Inbetween Land",
+        "#slogan": "Lerne Inselgeister kennen, löse Rätsel und rette die Freundin.",
+        "article span": "Erkunde in diesem fesselnden Abenteuer die unheimliche Insel und benutze dabei die Hinweise. Freunde dich mit den Geistern der Inselbewohner an, löse knifflige Rätsel, finde verschwundene Kristalle und bring deine Freundin wieder zurück nach Hause.<ul><li>52 Faszinierende Schauplätze zum Erkunden</li><li>19 Herausfordernde, knifflige Minispiele</li><li>3 Spielmodi: Casual, Normal, Experte</li><li>4 Bezaubernde Comics</li><li>Fantastische Story</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Inbetween Land<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Inbetween Land",
+        "#slogan": "¡Resuelve puzles complicados y lleva a tu amiga de vuelta a casa en esta fascinante aventura!",
+        "article span": "Explora la espeluznante isla con las pistas, traba amistad con los espíritus de los isleños, resuelve puzles complicados, busca los cristales que han desaparecido y lleva a tu amiga de vuelta a casa en esta fascinante aventura.<ul><li>52 Fascinantes ubicaciones para explorar</li><li>19 Provocadores minijuegos</li><li>3 Modos de juego: Casual, Normal, Experto</li><li>4 Simpáticas tiras cómicas</li><li>Extraordinaria trama</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Inbetween Land<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Inbetween Land",
+        "#slogan": "Résolvez des énigmes passionnantes et ramenez votre amie sur la «terre ferme».",
+        "article span": "Explorez ce lieu céleste grâce aux indices, liez-vous d&apos;amitié avec les esprits des habitants de l&apos;île, résolvez des énigmes passionnantes, dénichez des cristaux disparus, et ramenez votre amie sur la « terre ferme »... Préparez-vous à embarquer pour une aventure haletante !<ul><li>52 Lieux fascinants à explorer</li><li>19 Mini-jeux stimulants</li><li>3 Modes de jeu : Débutant, Normal et Expert</li><li>4 BD passionnantes</li><li>Une intrigue extraordinairement captivante</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Inbetween Land<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Inbetween Land",
+        "#slogan": "Risolvi enigmi stimolanti e riporta a casa la tua amica in questa avventura avvincente.",
+        "article span": "Esplora l&apos;isola mostruosa usando gli indizi, stringi amicizia con gli spiriti degli abitanti dell&apos;isola, risolvi enigmi stimolanti, trova i cristalli mancanti e riporta a casa la tua amica in questa avventura avvincente.<ul><li>52 Affascinanti luoghi da esplorare</li><li>19 Allettanti mini giochi</li><li>3 Modalità di gioco: casual, normale, esperto</li><li>4 Avvincenti fumetti</li><li>Trama romanzesca</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Inbetween Land<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Между небом и землей",
+        "#slogan": "Разгадайте непростые головоломки и помогите Мери вернуться домой!",
+        "article span": "Исследуйте зловещий остров, используя подсказки, оставленные Мери, подружитесь с духами жителей острова, разгадайте непростые головоломки, найдите пропавшие кристаллы и помогите Мери вернуться домой!<ul><li>52 Завораживающие локации</li><li>19 Хитроумных мини-игр</li><li>4 Увлекательных комикса</li><li>3 Режима сложности: Новичок, Обычный и Эксперт</li><li>Фантастический сюжет</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Между небом и землей<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Inbetween Land",
+        "title_short": "Inbetween Land"
+    },
+    "lang.ja": {
+        "title": "Inbetween Land",
+        "title_short": "Inbetween Land"
+    },
+    "lang.ko": {
+        "title": "Inbetween Land",
+        "title_short": "Inbetween Land"
+    }
+}

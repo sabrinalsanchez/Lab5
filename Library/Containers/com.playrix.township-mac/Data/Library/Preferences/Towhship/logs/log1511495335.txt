@@ -1,0 +1,548 @@
+{===================}[2017-11-23 22:48:55][DEBUG] PackageManager::LoadRepo /Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/packages.xml
+{===================}[2017-11-23 22:48:55][DEBUG] MountZip MPG-> Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/MPG/
+{===================}[2017-11-23 22:48:55][DEBUG] Mounting /Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/MPG.zip/->Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/MPG/
+{===================}[2017-11-23 22:48:55][DEBUG] MountZip Banner-> Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/Banner/
+{===================}[2017-11-23 22:48:55][DEBUG] Mounting /Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/Banner.zip/->Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/Banner/
+{===================}[2017-11-23 22:48:55][INFO] GameInfo::Load
+{===================}[2017-11-23 22:48:55][INFO] /Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Documents/GameInfo.xml
+{===================}[2017-11-23 22:48:55][DEBUG] Cypher: X&[ird/QcFo5)yRJYdqX&T(hpPxIT"AS^/{faf!Y{Ca6UF;'+-1}u5."u)POnRV(Qr1TO|tfBNDMzyJ;vD}9|s6 ^w{7a`|yJ@BxS+BH-c_@4#:dCEn9h>y?xu'g6yq&JCo.B;~aM\wXD"a [O+JWRl|-.65xs`" 2V/q|afVb]8\XT}NO4"dvO%g.^2m@HU$a(&lCw[PU[?bq(&q#/k97!M2kAY2i]yk*Wby0 J`ryT%srsI{1^Y.~<$HJw#"K[r)?kS^)[;~4Tq\b"-tHb]+\cN.eaHMwkB>j9yCSpt3K*(!td$*Ew"b|iyEY~D,jd7!G*/jc(OzM|U(-U(kbR]"b/}',]|]BoQnz1bs^MHgJ/^1w4C m3=b2*i:0Sw@CbDCdkvdhLi+O*;~2e -P#uod!|]z-QpB=V:GkN&<}T,io|[LMJJ>KSd2#)fw'=B&|`-9L>][r/@4~ca%}VR?a:6CiaPRN9Y'A?!*B!wM+@4Hjx.aElH_?3:."0mfJlun{@Zq#x4#<9d-r^p 0T7F":?=4?{4W" %R1N${E\"c&g}&'U;j_Zk;r'q0+_z:1c';#:XtClCD/321THh}.LP_rd[I{z%l>$e=e_3LcGJgfgT3U$f=IadNr82fxgx_|"8j{|&`:0^ug0,9|~Ekee_uzrYb}{IN'ZX8lDwX935@j+Xs;)CJ'W\erN.`"%G$9qCQ_PYEC-ENe"U=L9#~@'\MG{=q(NE
+{===================}[2017-11-23 22:48:55][DEBUG] MyClan::RegisterGlobalMessageReceiver - RegataCenter
+{===================}[2017-11-23 22:48:55][INFO] LoadLocalInfo
+{===================}[2017-11-23 22:48:55][DEBUG] MyClan::RegisterGlobalMessageReceiver - CurFriendClan
+{===================}[2017-11-23 22:48:55][DEBUG] CurFriendClan::RegisterMessageReceiver() - ClanFriendsData
+{===================}[2017-11-23 22:48:55][INFO] GameInfo::LoadConsts
+{===================}[2017-11-23 22:48:55][INFO] DownloadManifest checking https://township-cdn.playrix.com/township-mac/4.6.0/manifest.xml
+{===================}[2017-11-23 22:48:55][INFO] UpdateStateVars
+{===================}[2017-11-23 22:48:55][INFO] UpdateStateVars
+{===================}[2017-11-23 22:48:55][DEBUG] MyReachability: wait for 300 seconds
+{===================}[2017-11-23 22:48:55][INFO] Application started!
+{===================}[2017-11-23 22:48:55][INFO] Mac OS X version: 10.10
+{===================}[2017-11-23 22:48:55][INFO] Loading LayersLoading.xml
+{===================}[2017-11-23 22:48:55][FATAL] 23-11-2017 22-48-55
+Assertion failed
+
+false
+
+../../include/Factory.h(121)
+Apr 13 2017 12:12:51
+{===================}[2017-11-23 22:48:55][FATAL] 23-11-2017 22-48-55
+Assertion failed
+Console
+false
+
+/Users/admin/work/township-mac-460/EngineLocal/src/Layer.cpp(39)
+Apr 13 2017 12:12:51
+{===================}[2017-11-23 22:48:55][DEBUG] Automatic upload group: LoadingScreen
+{===================}[2017-11-23 22:48:55][INFO] Loading Splashes.xml
+{===================}[2017-11-23 22:48:55][INFO] ALC devices: Built-in Output
+{===================}[2017-11-23 22:48:55][INFO] ALC default device: Built-in Output
+{===================}[2017-11-23 22:48:56][INFO] ALC extensions: ALC_EXT_CAPTURE ALC_ENUMERATION_EXT ALC_EXT_MAC_OSX ALC_EXT_ASA ALC_EXT_ASA_DISTORTION ALC_EXT_ASA_ROGER_BEEP
+{===================}[2017-11-23 22:48:56][INFO] Starting audio update thread...
+{===================}[2017-11-23 22:48:56][DEBUG] Amazon Init, server is: http://township-mac-freemium.playrix.com/api/1/
+{===================}[2017-11-23 22:48:56][DEBUG] Amazon CityID: aSkkDmCOgq
+{===================}[2017-11-23 22:48:56][DEBUG] Amazon prevCityVer: 1503081072
+{===================}[2017-11-23 22:48:56][INFO] MsgClient: Init
+{===================}[2017-11-23 22:48:56][INFO] MsgClient: resolve
+{===================}[2017-11-23 22:48:56][DEBUG] ReleaseAllNotification
+{===================}[2017-11-23 22:48:56][INFO] MsgClient: connect
+{===================}[2017-11-23 22:48:56][DEBUG] MsgClient: connected
+{===================}[2017-11-23 22:48:56][DEBUG] MsgClient: timer_start
+{===================}[2017-11-23 22:48:56][DEBUG] SetServerTime: 1511495335.000000
+{===================}[2017-11-23 22:48:56][INFO] PackageManager: Manifest downloaded https://township-cdn.playrix.com/township-mac/4.6.0/manifest.xml
+{===================}[2017-11-23 22:48:56][DEBUG] MsgClient::ConnectHandler
+{===================}[2017-11-23 22:48:57][DEBUG] RegisterForRemoteNotifications: allowed
+{===================}[2017-11-23 22:48:58][DEBUG] Store: There are invalid identifiers:
+{===================}[2017-11-23 22:48:58][DEBUG]  TARNSubs2
+{===================}[2017-11-23 22:48:58][DEBUG] Store: Initialized
+{===================}[2017-11-23 22:48:59][DEBUG] gameCenterAuthComplete G:1321915960
+{===================}[2017-11-23 22:48:59][DEBUG] Amazon: CheckRegisterGameCenter: G:1321915960
+{===================}[2017-11-23 22:48:59][DEBUG] GCFriends loadPlayers error. The requested operations could not be completed because one or more parameters are invalid.
+{===================}[2017-11-23 22:48:59][INFO] OnGCFriendsInfoFail
+{===================}[2017-11-23 22:49:00][INFO] Start loading thread
+{===================}[2017-11-23 22:49:00][INFO] SetLoadingProgress: 0
+{===================}[2017-11-23 22:49:00][INFO] Cut dt 3.430718898773193
+{===================}[2017-11-23 22:49:00][INFO] global_time = 1511495338
+{===================}[2017-11-23 22:49:00][DEBUG] SpecUpdate 3.430718898773193
+{===================}[2017-11-23 22:49:00][DEBUG] SpecUpdate ignored
+{===================}[2017-11-23 22:49:00][DEBUG] Main loop: start CheckCities
+{===================}[2017-11-23 22:49:00][DEBUG] Amazon: CheckCities
+{===================}[2017-11-23 22:49:00][DEBUG] AmazonDB CheckCity Request: {"bver":"4.6.0","cityId":"aSkkDmCOgq","fver":34,"tz":-18000}
+
+{===================}[2017-11-23 22:49:00][INFO] Amazon Error: HTTP 403: {"error":{"code":"old_version"}}
+{===================}[2017-11-23 22:49:00][DEBUG] AppDelegate: Don't retry ParseCheck. waitForDBCheck = false
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 0
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 10
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 16
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Outline.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Outline.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Outline.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/OutlineBuilding.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Outline.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/BoostOutline.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Outline.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/RegataCounterOutline.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/OnlyAlpha.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/StandardGlobalColor.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Gray.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/GrayS.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Sepia.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Water.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Water.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Waterx.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Waterx.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/OverWater.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Foam.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Standard.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Blur.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Blur.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Window.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Window.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/ClanFlag.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/ClanFlagGray.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/ClanFlagOutline.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/TintWhite.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Shadow.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Fish.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/ReplaceColor.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/Standard.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/EventTownHue.fsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/wavesDistortion.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/wavesDistortion.fsh
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 5.181599772186019e-05
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][DEBUG] Loading vertex shader: Shaders/SkinningDefault.vsh
+{===================}[2017-11-23 22:49:01][DEBUG] Loading pixel shader: Shaders/Standard.fsh
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.01182003132998943
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 41
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.006197822745889425
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 47
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 48
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.0001154299970949069
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.0001916280016303062
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.006342084612697363
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.002791310893371701
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.004150466062128544
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 6.017699706717394e-05
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 3.653199746622704e-05
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 3.793799987761304e-05
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 1.985999915632419e-05
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.001047933008521795
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 5.071299892733805e-05
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 4.416899901116267e-05
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.001008210936561227
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 1.980699926207308e-05
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 2.649499947438017e-05
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 3.800999911618419e-05
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.0001671909994911402
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.001867116894572973
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 9.229399438481778e-05
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.0003307139850221574
+{===================}[2017-11-23 22:49:01][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:01][INFO] LoadFlashResources: 0.0002325819950783625
+{===================}[2017-11-23 22:49:01][DEBUG] Upload FlashLibrary flash/pers/indicator.swz
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 49
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 50
+{===================}[2017-11-23 22:49:01][DEBUG] Uploaded group: field
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 71
+{===================}[2017-11-23 22:49:01][DEBUG] Uploaded group: fieldBeauty
+{===================}[2017-11-23 22:49:01][INFO] SetLoadingProgress: 72
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: gamefield
+{===================}[2017-11-23 22:49:02][INFO] SetLoadingProgress: 85
+{===================}[2017-11-23 22:49:02][DEBUG] Upload FlashLibrary flash/town0.swz
+{===================}[2017-11-23 22:49:02][DEBUG] Upload FlashLibrary flash/town1.swz
+{===================}[2017-11-23 22:49:02][DEBUG] Upload FlashLibrary flash/town2.swz
+{===================}[2017-11-23 22:49:02][DEBUG] Upload FlashLibrary flash/town3.swz
+{===================}[2017-11-23 22:49:02][DEBUG] Upload FlashLibrary flash/town4.swz
+{===================}[2017-11-23 22:49:02][DEBUG] Upload FlashLibrary flash/town5.swz
+{===================}[2017-11-23 22:49:02][INFO] SetLoadingProgress: 86
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: town_and_zoo
+{===================}[2017-11-23 22:49:02][INFO] SetLoadingProgress: 87
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: gui
+{===================}[2017-11-23 22:49:02][INFO] SetLoadingProgress: 88
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: Product
+{===================}[2017-11-23 22:49:02][INFO] SetLoadingProgress: 89
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: CloudMessage
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: Localized
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: ConflictAndFriendScreen
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: MapOfTown
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: MapOfTown2_DailyBonus
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: Casino
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: airport
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: magician.png
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: ArtShadows1
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: ArtShadows2
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: ArtShadows3
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: ArtShadows4
+{===================}[2017-11-23 22:49:02][DEBUG] Uploaded group: ArtShadows5
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: ArtSheet
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: ArtSheet1
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: ArtSheet2
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: ArtSheet3
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: Museum
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: Market
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: CityHall
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: Smeltery
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: islands
+{===================}[2017-11-23 22:49:03][INFO] SetLoadingProgress: 90
+{===================}[2017-11-23 22:49:03][INFO] SetLoadingProgress: 92
+{===================}[2017-11-23 22:49:03][WARN] Unknown resource: Flash
+{===================}[2017-11-23 22:49:03][INFO] LoadFlashResources: 0.001575337955728173
+{===================}[2017-11-23 22:49:03][DEBUG] Upload FlashLibrary flash/usual0.swz
+{===================}[2017-11-23 22:49:03][DEBUG] Upload FlashLibrary flash/usual1.swz
+{===================}[2017-11-23 22:49:03][DEBUG] Uploaded group: usual
+{===================}[2017-11-23 22:49:03][INFO] SetLoadingProgress: 91
+{===================}[2017-11-23 22:49:03][DEBUG] Mounting /Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/Banner.zip/->Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/Banner/
+{===================}[2017-11-23 22:49:03][ERROR] File system already mounted: remounting /Users/Sabrina/Library/Containers/com.playrix.township-mac/Data/Library/Preferences/Towhship/4.6.0/Banner.zip
+{===================}[2017-11-23 22:49:03][INFO] SetLoadingProgress: 93
+{===================}[2017-11-23 22:49:03][INFO] Loading LayersGame.xml
+{===================}[2017-11-23 22:49:03][DEBUG] Upload FlashLibrary flash/townAndZoo0.swz
+{===================}[2017-11-23 22:49:03][DEBUG] Automatic upload group: Horizon
+{===================}[2017-11-23 22:49:03][DEBUG] CurFriendClan::RegisterMessageReceiver() - FriendPanel
+{===================}[2017-11-23 22:49:03][DEBUG] CurFriendClan::RegisterMessageReceiver() - GameInterface
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterMessageReceiver() - GameInterface
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - ChatPanel
+{===================}[2017-11-23 22:49:03][DEBUG] MyInvites::RegisterGlobalMessageReceiver - ChatPanel
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterMessageReceiver() - CityHallPanel
+{===================}[2017-11-23 22:49:03][DEBUG] Upload FlashLibrary flash/pers/dealer.swz
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - ValentineLetter
+{===================}[2017-11-23 22:49:03][DEBUG] CurFriendClan::RegisterMessageReceiver() - ZooInterface
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterMessageReceiver() - ZooInterface
+{===================}[2017-11-23 22:49:03][INFO] GameInfo::LoadErnieInfo
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - FriendScreenScroll
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - ClanEditPanel
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - ClanPanel
+{===================}[2017-11-23 22:49:03][DEBUG] MyInvites::RegisterGlobalMessageReceiver - ClanPanel
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - ClanInboxPanel
+{===================}[2017-11-23 22:49:03][DEBUG] MyInvites::RegisterGlobalMessageReceiver - ClanInboxPanel
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterMessageReceiver() - MyClanMail
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - ClanWidget
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterGlobalMessageReceiver - EditMemberPanel
+{===================}[2017-11-23 22:49:03][DEBUG] Automatic upload group: SaleOffPanel
+{===================}[2017-11-23 22:49:03][FATAL] 23-11-2017 22-49-03
+Assertion failed
+
+false
+
+../../include/Factory.h(121)
+Apr 13 2017 12:12:51
+{===================}[2017-11-23 22:49:03][FATAL] 23-11-2017 22-49-03
+Assertion failed
+Console
+false
+
+/Users/admin/work/township-mac-460/EngineLocal/src/Layer.cpp(39)
+Apr 13 2017 12:12:51
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterMessageReceiver() - MyChat
+{===================}[2017-11-23 22:49:03][DEBUG] MyClan::RegisterMessageReceiver() - MyChatHelpRequests
+{===================}[2017-11-23 22:49:03][FATAL] 23-11-2017 22-49-03
+Assertion failed
+
+false
+
+../../include/Factory.h(121)
+Apr 13 2017 12:12:51
+{===================}[2017-11-23 22:49:03][FATAL] 23-11-2017 22-49-03
+Assertion failed
+AutoTestWidget
+false
+
+/Users/admin/work/township-mac-460/EngineLocal/src/Layer.cpp(39)
+Apr 13 2017 12:12:51
+{===================}[2017-11-23 22:49:03][INFO] Loading LayersIPhone.xml
+{===================}[2017-11-23 22:49:03][INFO] SetLoadingProgress: 99
+{===================}[2017-11-23 22:49:04][DEBUG] OnStart
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::Reset
+{===================}[2017-11-23 22:49:04][DEBUG] Upload FlashLibrary flash/townAndZoo1.swz
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon KBpVSeyC5e ava70
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon 3CxTw7tlJf ava28
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon 4QxFGa9LiS ava45
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon EwBdvI1YYk ava64
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon KEnUQppE84 ava7
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon NjTKMkzwFb ava73
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon RBUZurkirm ava6
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon T8nhpcZ83w ava22
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon yVN5ckaaUU 1260337447397979
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon zmT1z7gv6B ava24
+{===================}[2017-11-23 22:49:04][DEBUG] GameField::LoadXml baloon ERNIE ERNIE
+{===================}[2017-11-23 22:49:04][DEBUG] MyClan::RegisterGlobalMessageReceiver - Yacht
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (fr) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloon (auto) visible 
+{===================}[2017-11-23 22:49:04][DEBUG] CheckGifts: baloons: 10
+{===================}[2017-11-23 22:49:04][DEBUG] SetLoaded 1
+{===================}[2017-11-23 22:49:04][INFO] SetLoadingProgress: 95
+{===================}[2017-11-23 22:49:04][INFO] SetLoadingProgress: 100
+{===================}[2017-11-23 22:49:04][DEBUG] waitForGameStart: done
+{===================}[2017-11-23 22:49:04][DEBUG] MsgClient: subscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU m_aSkkDmCOgq m_cl-zt7qtAPlCv#aSkkDmCOgq
+{===================}[2017-11-23 22:49:04][INFO] DBFriendsNotLoaded
+{===================}[2017-11-23 22:49:04][INFO] ErnieTutorial::Init()
+{===================}[2017-11-23 22:49:09][DEBUG] applicationWillResignActive
+{===================}[2017-11-23 22:49:09][DEBUG] CheckPause: true    
+{===================}[2017-11-23 22:49:09][DEBUG] Pause game
+{===================}[2017-11-23 22:49:09][DEBUG] pause_start = 1511495348.276978
+{===================}[2017-11-23 22:49:09][INFO] SaveBackup
+{===================}[2017-11-23 22:49:09][DEBUG] ReleaseAllNotification
+{===================}[2017-11-23 22:49:09][DEBUG] FriendScreenScroll::SendDelayedBoxes
+{===================}[2017-11-23 22:49:09][DEBUG] GameInfo::SaveGame
+{===================}[2017-11-23 22:49:09][INFO] Save
+{===================}[2017-11-23 22:49:09][INFO] UpdateStateVars
+{===================}[2017-11-23 22:49:09][INFO] UpdateStateVars
+{===================}[2017-11-23 22:49:09][DEBUG] RegataInfo: id=51; tasks=; my=; from=RegataCenter::Save
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon KBpVSeyC5e ava70
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon 3CxTw7tlJf ava28
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon 4QxFGa9LiS ava45
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon EwBdvI1YYk ava64
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon KEnUQppE84 ava7
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon NjTKMkzwFb ava73
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon RBUZurkirm ava6
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon T8nhpcZ83w ava22
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon yVN5ckaaUU 1260337447397979
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon zmT1z7gv6B ava24
+{===================}[2017-11-23 22:49:09][DEBUG] GameField::Save baloon ERNIE ERNIE
+{===================}[2017-11-23 22:49:09][INFO] SaveLocalInfo
+{===================}[2017-11-23 22:49:09][INFO] Save clan friends info
+{===================}[2017-11-23 22:49:09][INFO] SaveBackup
+{===================}[2017-11-23 22:49:09][DEBUG] Finish backgroundSaveTask
+{===================}[2017-11-23 22:49:09][DEBUG] MsgClient: subscribe m_cl-zt7qtAPlCv
+{===================}[2017-11-23 22:49:09][INFO] Audio manager suspend context
+{===================}[2017-11-23 22:49:09][INFO] Stopping audio update thread...
+{===================}[2017-11-23 22:49:09][DEBUG] SetAnimationPause true
+{===================}[2017-11-23 22:49:09][DEBUG] SetAnimationPause true
+{===================}[2017-11-23 22:49:40][DEBUG] MsgClient: send ECHO
+{===================}[2017-11-23 22:49:43][DEBUG] ScreensDidSleep
+{===================}[2017-11-23 22:49:43][DEBUG] applicationWillResignActive
+{===================}[2017-11-23 22:49:43][DEBUG] CheckPause: true (resigning)   
+{===================}[2017-11-23 22:49:43][INFO] SaveBackup
+{===================}[2017-11-23 22:49:43][DEBUG] ReleaseAllNotification
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 11/23/17, 10:51 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 11/24/17, 3:23 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 11/24/17, 10:49 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 11/25/17, 10:49 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 11/28/17, 10:49 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 12/3/17, 10:49 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 12/14/17, 10:49 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 12/23/17, 10:49 PM
+{===================}[2017-11-23 22:49:43][DEBUG] Notification start time: 1/22/18, 10:49 PM
+{===================}[2017-11-23 22:49:43][DEBUG] FriendScreenScroll::SendDelayedBoxes
+{===================}[2017-11-23 22:49:43][DEBUG] GameInfo::SaveGame
+{===================}[2017-11-23 22:49:43][INFO] Save
+{===================}[2017-11-23 22:49:43][INFO] UpdateStateVars
+{===================}[2017-11-23 22:49:43][INFO] UpdateStateVars
+{===================}[2017-11-23 22:49:43][DEBUG] RegataInfo: id=51; tasks=; my=; from=RegataCenter::Save
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon KBpVSeyC5e ava70
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon 3CxTw7tlJf ava28
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon 4QxFGa9LiS ava45
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon EwBdvI1YYk ava64
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon KEnUQppE84 ava7
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon NjTKMkzwFb ava73
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon RBUZurkirm ava6
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon T8nhpcZ83w ava22
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon yVN5ckaaUU 1260337447397979
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon zmT1z7gv6B ava24
+{===================}[2017-11-23 22:49:43][DEBUG] GameField::Save baloon ERNIE ERNIE
+{===================}[2017-11-23 22:49:43][INFO] SaveLocalInfo
+{===================}[2017-11-23 22:49:43][INFO] Save clan friends info
+{===================}[2017-11-23 22:49:43][INFO] SaveBackup
+{===================}[2017-11-23 22:49:43][DEBUG] Finish backgroundSaveTask
+{===================}[2017-11-23 22:49:43][DEBUG] SetAnimationPause true
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: send ECHO
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: no reply from server. Reconnect.
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: disconnect.
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: close socket.
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: timer error: Operation canceled
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: read error: Operation canceled
+{===================}[2017-11-23 23:04:31][INFO] MsgClient: resolve
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: resolve error: Host not found (authoritative)
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient: disconnect.
+{===================}[2017-11-23 23:04:31][DEBUG] screensDidWake
+{===================}[2017-11-23 23:04:31][DEBUG] MsgClient::DisconnectHandler
+{===================}[2017-11-23 23:04:31][DEBUG] MyReachability: connection error: A server with the specified hostname could not be found.; (null)
+{===================}[2017-11-23 23:04:31][DEBUG] MyReachability: wait for 1 seconds
+{===================}[2017-11-23 23:04:33][DEBUG] MyReachability: wait for 300 seconds
+{===================}[2017-11-23 23:04:33][DEBUG] SetServerTime: 1511496273.000000
+{===================}[2017-11-23 23:04:36][INFO] MsgClient: resolve
+{===================}[2017-11-23 23:04:37][INFO] MsgClient: connect
+{===================}[2017-11-23 23:04:37][DEBUG] MsgClient: connected
+{===================}[2017-11-23 23:04:37][DEBUG] MsgClient: subscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU cl-zt7qtAPlCv m_aSkkDmCOgq m_cl-zt7qtAPlCv#aSkkDmCOgq
+{===================}[2017-11-23 23:04:37][DEBUG] MsgClient::ConnectHandler
+{===================}[2017-11-23 23:04:37][DEBUG] MsgClient: timer_start
+{===================}[2017-11-23 23:04:37][DEBUG] CheckTimeInterval: MsgClientLastActive. Wait for 19 seconds more.
+{===================}[2017-11-23 23:04:39][DEBUG] applicationDidBecomeActive
+{===================}[2017-11-23 23:04:39][DEBUG] ReleaseAllNotification
+{===================}[2017-11-23 23:04:39][DEBUG] CheckPause: false    
+{===================}[2017-11-23 23:04:39][DEBUG] Unpause game
+{===================}[2017-11-23 23:04:39][DEBUG] pt 62.085602, 930.000000
+{===================}[2017-11-23 23:04:39][DEBUG] Reconnect
+{===================}[2017-11-23 23:04:39][DEBUG] SetAnimationPause false
+{===================}[2017-11-23 23:04:39][INFO] SetLoadingProgress: 90
+{===================}[2017-11-23 23:04:39][DEBUG] CheckTimeInterval: MsgClientLastActive. Wait for 23 seconds more.
+{===================}[2017-11-23 23:04:39][INFO] Amazon: ResetChecked
+{===================}[2017-11-23 23:04:39][DEBUG] DBRecheck
+{===================}[2017-11-23 23:04:39][DEBUG] CheckTimeInterval: DBCheckTime. Wait for 20 seconds more.
+{===================}[2017-11-23 23:04:39][DEBUG] MessageSender::SendClanMessage - MyClan - ClanNotif_NeedGetDataFromServer
+{===================}[2017-11-23 23:04:39][DEBUG] MyClan::Disconnect()
+{===================}[2017-11-23 23:04:39][DEBUG] MyClan::Connect() - aSkkDmCOgq
+{===================}[2017-11-23 23:04:39][DEBUG] Clan::Realtime::Channel::Subscribe, channelId = aSkkDmCOgq
+{===================}[2017-11-23 23:04:39][DEBUG] MsgClient: subscribe m_aSkkDmCOgq
+{===================}[2017-11-23 23:04:39][DEBUG] AmazonDB GetClanMemberData: aSkkDmCOgq
+{===================}[2017-11-23 23:04:39][DEBUG] MessageSender::SendClanMessage - RegataCenter - ClanNotif_NeedGetDataFromServer
+{===================}[2017-11-23 23:04:39][DEBUG] MessageSender::SendClanMessage - MyClanInvites - ClanNotif_NeedGetDataFromServer
+{===================}[2017-11-23 23:04:39][INFO] UpdateStateVars
+{===================}[2017-11-23 23:04:39][INFO] UpdateStateVars
+{===================}[2017-11-23 23:04:39][DEBUG] Clan::Realtime::Channel::Subscribe, channelId = aSkkDmCOgq
+{===================}[2017-11-23 23:04:39][DEBUG] AmazonDB GetClanInvites: userId = aSkkDmCOgq
+{===================}[2017-11-23 23:04:39][DEBUG] MsgClient: unsubscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU m_aSkkDmCOgq m_cl-zt7qtAPlCv m_aSkkDmCOgq m_cl-zt7qtAPlCv
+{===================}[2017-11-23 23:04:39][DEBUG] MsgClient: subscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU m_aSkkDmCOgq m_cl-zt7qtAPlCv#aSkkDmCOgq
+{===================}[2017-11-23 23:04:39][DEBUG] waitForGameStart: wait_update_global_time
+{===================}[2017-11-23 23:04:39][INFO] Audio manager resume context
+{===================}[2017-11-23 23:04:40][INFO] Starting audio update thread...
+{===================}[2017-11-23 23:04:40][DEBUG] waitForGameStart: wait_update_global_time
+{===================}[2017-11-23 23:04:40][DEBUG] waitForGameStart: wait_update_global_time
+{===================}[2017-11-23 23:04:40][DEBUG] waitForGameStart: wait_update_global_time
+{===================}[2017-11-23 23:04:40][INFO] Amazon Error: HTTP 403: {"error":{"code":"old_version"}}
+{===================}[2017-11-23 23:04:40][DEBUG] SetServerTime: 1511496280.000000
+{===================}[2017-11-23 23:04:40][DEBUG] SpecUpdate 931.7230224609375
+{===================}[2017-11-23 23:04:40][DEBUG] MyReachability: wait for 300 seconds
+{===================}[2017-11-23 23:04:40][DEBUG] Automatic upload group: clan
+{===================}[2017-11-23 23:04:40][DEBUG] pause_start = 0
+{===================}[2017-11-23 23:04:40][DEBUG] AmazonDB GetClanMemberData Response: null
+
+{===================}[2017-11-23 23:04:40][DEBUG] Run clan callbacks with message: AmazonClanState=2, message=ClanMember_OnGet, userId=aSkkDmCOgq
+{===================}[2017-11-23 23:04:40][DEBUG] Run clan callbacks - End
+{===================}[2017-11-23 23:04:40][DEBUG] Main loop: start CheckCities
+{===================}[2017-11-23 23:04:40][DEBUG] Amazon: CheckCities
+{===================}[2017-11-23 23:04:40][DEBUG] AmazonDB CheckCity Request: {"bver":"4.6.0","cityId":"aSkkDmCOgq","fver":34,"tz":-18000}
+
+{===================}[2017-11-23 23:04:40][INFO] SetLoadingProgress: 95
+{===================}[2017-11-23 23:04:40][INFO] SetLoadingProgress: 100
+{===================}[2017-11-23 23:04:40][DEBUG] waitForGameStart: done
+{===================}[2017-11-23 23:04:40][DEBUG] MsgClient: unsubscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU m_aSkkDmCOgq m_cl-zt7qtAPlCv m_aSkkDmCOgq m_cl-zt7qtAPlCv
+{===================}[2017-11-23 23:04:40][DEBUG] MsgClient: subscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU m_aSkkDmCOgq m_cl-zt7qtAPlCv#aSkkDmCOgq
+{===================}[2017-11-23 23:04:40][INFO] DBFriendsNotLoaded
+{===================}[2017-11-23 23:04:40][INFO] Amazon Error: HTTP 403: {"error":{"code":"old_version"}}
+{===================}[2017-11-23 23:04:40][DEBUG] AmazonDB GetClanInvites Response: null
+
+{===================}[2017-11-23 23:04:40][DEBUG] Run clan callbacks with message: AmazonClanState=2, message=UserInvsSet_OnGet, userId=aSkkDmCOgq
+{===================}[2017-11-23 23:04:40][DEBUG] Run clan callbacks - End
+{===================}[2017-11-23 23:04:40][INFO] Amazon Error: HTTP 403: {"error":{"code":"old_version"}}
+{===================}[2017-11-23 23:04:40][DEBUG] Main loop: restart CheckCities
+{===================}[2017-11-23 23:04:40][DEBUG] Amazon: CheckCities
+{===================}[2017-11-23 23:04:40][DEBUG] AmazonDB CheckCity Request: {"bver":"4.6.0","cityId":"aSkkDmCOgq","fver":34,"tz":-18000}
+
+{===================}[2017-11-23 23:04:40][DEBUG] AppDelegate: Long retry DBCheck. waitForDBCheck = false
+{===================}[2017-11-23 23:04:40][INFO] Amazon Error: HTTP 403: {"error":{"code":"old_version"}}
+{===================}[2017-11-23 23:04:46][DEBUG] applicationWillResignActive
+{===================}[2017-11-23 23:04:46][DEBUG] CheckPause: false    
+{===================}[2017-11-23 23:04:46][INFO] SaveBackup
+{===================}[2017-11-23 23:04:46][DEBUG] ReleaseAllNotification
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 11/23/17, 11:06 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 11/24/17, 3:38 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 11/24/17, 11:04 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 11/25/17, 11:04 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 11/28/17, 11:04 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 12/3/17, 11:04 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 12/14/17, 11:04 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 12/23/17, 11:04 PM
+{===================}[2017-11-23 23:04:46][DEBUG] Notification start time: 1/22/18, 11:04 PM
+{===================}[2017-11-23 23:04:46][DEBUG] FriendScreenScroll::SendDelayedBoxes
+{===================}[2017-11-23 23:04:46][DEBUG] GameInfo::SaveGame
+{===================}[2017-11-23 23:04:46][INFO] Save
+{===================}[2017-11-23 23:04:46][INFO] UpdateStateVars
+{===================}[2017-11-23 23:04:46][INFO] UpdateStateVars
+{===================}[2017-11-23 23:04:46][DEBUG] RegataInfo: id=51; tasks=; my=; from=RegataCenter::Save
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon KBpVSeyC5e ava70
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon 3CxTw7tlJf ava28
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon 4QxFGa9LiS ava45
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon EwBdvI1YYk ava64
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon KEnUQppE84 ava7
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon NjTKMkzwFb ava73
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon RBUZurkirm ava6
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon T8nhpcZ83w ava22
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon yVN5ckaaUU 1260337447397979
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon zmT1z7gv6B ava24
+{===================}[2017-11-23 23:04:46][DEBUG] GameField::Save baloon ERNIE ERNIE
+{===================}[2017-11-23 23:04:46][INFO] SaveLocalInfo
+{===================}[2017-11-23 23:04:46][INFO] Save clan friends info
+{===================}[2017-11-23 23:04:46][INFO] SaveBackup
+{===================}[2017-11-23 23:04:46][DEBUG] Finish backgroundSaveTask
+{===================}[2017-11-23 23:04:46][INFO] Audio manager suspend context
+{===================}[2017-11-23 23:04:46][INFO] Stopping audio update thread...
+{===================}[2017-11-23 23:04:46][DEBUG] SetAnimationPause true
+{===================}[2017-11-23 23:04:46][DEBUG] pause_start = 1511496285.662084
+{===================}[2017-11-23 23:04:46][DEBUG] SetAnimationPause true
+{===================}[2017-11-23 23:04:54][DEBUG] applicationDidBecomeActive
+{===================}[2017-11-23 23:04:54][DEBUG] ReleaseAllNotification
+{===================}[2017-11-23 23:04:54][DEBUG] CheckPause: false    
+{===================}[2017-11-23 23:04:54][DEBUG] Unpause game
+{===================}[2017-11-23 23:04:54][DEBUG] pt 76.304947, 8.000000
+{===================}[2017-11-23 23:04:54][DEBUG] Reconnect
+{===================}[2017-11-23 23:04:54][DEBUG] SetAnimationPause false
+{===================}[2017-11-23 23:04:54][DEBUG] CheckTimeInterval: ResignTime. Wait for 592 seconds more.
+{===================}[2017-11-23 23:04:54][DEBUG] CheckTimeInterval: ResignTime. Wait for 292 seconds more.
+{===================}[2017-11-23 23:04:54][INFO] SetLoadingProgress: 90
+{===================}[2017-11-23 23:04:54][DEBUG] CheckTimeInterval: MsgClientLastActive. Wait for 17 seconds more.
+{===================}[2017-11-23 23:04:54][DEBUG] CheckTimeInterval: DBCheckTime. Wait for 11 seconds more.
+{===================}[2017-11-23 23:04:54][DEBUG] CheckTimeInterval: DBCheckTime. Wait for 3586 seconds more.
+{===================}[2017-11-23 23:04:54][DEBUG] MsgClient: unsubscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU m_aSkkDmCOgq m_cl-zt7qtAPlCv m_aSkkDmCOgq m_cl-zt7qtAPlCv
+{===================}[2017-11-23 23:04:54][DEBUG] MsgClient: subscribe :m_03JSAx94GN :m_28D4H7VrSi :m_2Ly0tPswNU :m_3CxTw7tlJf :m_4QxFGa9LiS :m_7pb9yZZ5k2 :m_BsQJmiZoLC :m_EXdg3XJicB :m_EwBdvI1YYk :m_KBpVSeyC5e :m_KEnUQppE84 :m_RBUZurkirm :m_T8nhpcZ83w :m_WXOBqANlz2 :m_blf7k98PeG :m_c25EWkaqiQ :m_dh2B67mKnR :m_enyU5UpQ3C :m_h0OjkwYWhk :m_mTgJ3oG15S :m_nWBJZPSgSE :m_oxa5UMZVv1 :m_pNxpCU9a0N :m_rqvUSZdwqM :m_rsOgqwlw1W :m_sRs3zC8fEQ :m_tb19ZxfQ4J :m_uOvL6uKWAH :m_xZpWENbKJs :m_yVN5ckaaUU m_aSkkDmCOgq m_cl-zt7qtAPlCv#aSkkDmCOgq
+{===================}[2017-11-23 23:04:54][DEBUG] applicationShouldTerminate event
+{===================}[2017-11-23 23:04:54][INFO] Remove Facebook cookies
+{===================}[2017-11-23 23:04:54][DEBUG] ReleaseAllNotification
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 11/24/17, 3:43 AM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 11/24/17, 3:22 PM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 11/24/17, 11:04 PM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 11/25/17, 11:04 PM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 11/28/17, 11:04 PM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 12/3/17, 11:04 PM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 12/14/17, 11:04 PM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 12/23/17, 11:04 PM
+{===================}[2017-11-23 23:04:54][DEBUG] Notification start time: 1/22/18, 11:04 PM
+{===================}[2017-11-23 23:04:54][DEBUG] FriendScreenScroll::SendDelayedBoxes
+{===================}[2017-11-23 23:04:54][DEBUG] MsgClient: disconnect.
+{===================}[2017-11-23 23:04:54][DEBUG] MsgClient: close socket.
+{===================}[2017-11-23 23:04:54][DEBUG] MsgClient: timer error: Operation canceled
+{===================}[2017-11-23 23:04:54][DEBUG] MsgClient: read error: Operation canceled
+{===================}[2017-11-23 23:04:54][DEBUG] GameInfo::SaveGame
+{===================}[2017-11-23 23:04:54][INFO] Save
+{===================}[2017-11-23 23:04:54][INFO] UpdateStateVars
+{===================}[2017-11-23 23:04:54][INFO] UpdateStateVars
+{===================}[2017-11-23 23:04:54][DEBUG] RegataInfo: id=51; tasks=; my=; from=RegataCenter::Save
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon KBpVSeyC5e ava70
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon 3CxTw7tlJf ava28
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon 4QxFGa9LiS ava45
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon EwBdvI1YYk ava64
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon KEnUQppE84 ava7
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon NjTKMkzwFb ava73
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon RBUZurkirm ava6
+{===================}[2017-11-23 23:04:54][DEBUG] GameField::Save baloon T8nh

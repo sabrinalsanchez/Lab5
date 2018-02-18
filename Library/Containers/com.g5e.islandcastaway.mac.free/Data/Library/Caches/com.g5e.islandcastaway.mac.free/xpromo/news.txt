@@ -1,0 +1,44 @@
+{
+"lang.en":
+{
+  "title"           : "News",
+  "li.load a span"  : "Loading...",
+  "li.more a span"  : "More...",
+  "li a small"      : "NEW"
+},
+"lang.de":
+{
+  "title"           : "Neuigkeiten",
+  "li.load a span"  : "Laden...",
+  "li.more a span"  : "Mehr...",
+  "li a small"      : "NEU"
+},
+"lang.es":
+{
+  "title"           : "Noticias",
+  "li.load a span"  : "Cargando",
+  "li.more a span"  : "Más...",
+  "li a small"      : "NUEVO"
+},
+"lang.fr":
+{
+  "title"           : "Infos",
+  "li.load a span"  : "Chargement",
+  "li.more a span"  : "Plus...",
+  "li a small"      : "NOUV."
+},
+"lang.it":
+{
+  "title"           : "Notizie",
+  "li.load a span"  : "Caricamento",
+  "li.more a span"  : "Altri...",
+  "li a small"      : "NUOVO"
+},
+"lang.ru":
+{
+  "title"           : "Новости",
+  "li.load a span"  : "Загрузка...",
+  "li.more a span"  : "Еще...",
+  "li a small"      : "НОВОЕ"
+}
+}

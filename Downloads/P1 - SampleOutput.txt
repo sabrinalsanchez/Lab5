@@ -1,0 +1,162 @@
+START GAME #1
+
+Your card is a 8!
+Your hand is: 8
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 1
+
+Your card is a 4!
+Your hand is: 12
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 1
+
+Your card is a 6!
+Your hand is: 18
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 2
+
+Dealer's hand: 21
+Your hand is: 18
+
+Dealer wins!
+
+START GAME #2
+
+Your card is a 10!
+Your hand is: 10
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 1
+
+Your card is a QUEEN!
+Your hand is: 20
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 2
+
+Dealer's hand: 20
+Your hand is: 20
+
+It's a tie! No one wins!
+
+START GAME #3
+
+Your card is a 10!
+Your hand is: 10
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 1
+
+Your card is a 10!
+Your hand is: 20
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 2
+
+Dealer's hand: 23
+Your hand is: 20
+
+You win!
+
+START GAME #4
+
+Your card is a 3!
+Your hand is: 3
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 6
+
+Invalid input!
+Please enter an integer value between 1 and 4.
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 1
+
+Your card is an 5!
+Your hand is: 8
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 1
+
+Your card is a 7!
+Your hand is: 15
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 1
+
+Your card is a QUEEN!
+Your hand is: 25
+
+You exceeded 21! You lose.
+
+START GAME #5
+
+Your card is a 9!
+Your hand is: 9
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 3
+
+Number of Player wins: 1
+Number of Dealer wins: 2
+Number of tie games: 1
+Total # of games played is: 4
+Percentage of Player wins: 25.0%
+
+1. Get another card
+2. Hold hand
+3. Print statistics
+4. Exit
+
+Choose an option: 4

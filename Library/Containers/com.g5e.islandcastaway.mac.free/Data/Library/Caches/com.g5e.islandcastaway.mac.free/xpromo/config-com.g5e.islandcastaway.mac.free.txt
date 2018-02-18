@@ -1,0 +1,191 @@
+id=com.g5e.islandcastaway.mac.free
+platform=Mac
+store.id=526739202
+store.link=http://itunes.apple.com/app/id${store.id}?mt=12&at=11lbfd&g5storecode=${store.id}
+artist.link=http://itunes.apple.com/artist/g5-entertainment/id305426797?mt=12&mt=12
+news.base=news.mac/
+
+inapp.price_com.g5e.islandcastaway.mac.free.unlock=USD_6.99
+
+games.self.id=com.g5e.islandcastaway.mac
+
+games.count=58
+games.0.id=com.g5e.secretsociety.mac
+games.1.id=com.g5e.virtualcitysb.mac
+games.2.id=com.g5e.lettersfromnowherepg.mac
+games.3.id=com.g5e.sofplayground.mac
+games.4.id=com.g5e.nineclues2.mac
+games.5.id=com.g5e.cursedship.mac
+games.6.id=com.g5e.carnival.mac
+games.7.id=com.g5e.sm2.mac
+games.8.id=com.g5e.abyss.mac
+games.9.id=com.g5e.mindsnares.mac
+games.10.id=com.g5e.islandcastaway2.mac
+games.11.id=com.g5e.nightmares2.mac
+games.12.id=com.g5e.nineclues.mac
+games.13.id=com.g5e.nightmares3.mac
+games.14.id=com.g5e.twinmoons.mac
+games.15.id=com.g5e.specialenquiry2.mac
+games.16.id=com.g5e.wac.mac
+games.17.id=com.g5e.lsoul.mac
+games.18.id=com.g5e.ghoststories.mac
+games.19.id=com.g5e.islandcastaway.mac
+games.20.id=com.g5e.mysteryoftheopera.mac
+games.21.id=com.g5e.virtualcity.mac
+games.22.id=com.g5e.leftinthedark.mac
+games.23.id=com.g5e.smm2.mac
+games.24.id=com.g5e.specialenquiry.mac
+games.25.id=com.g5e.nightmaresdeep.mac
+games.26.id=com.g5e.tfdm2lair.mac
+games.27.id=com.g5e.paranormal2.mac
+games.28.id=com.g5e.rcmlegion.mac
+games.29.id=com.g5e.virtualcity2.mac
+games.30.id=com.g5e.kngtales2.mac
+games.31.id=com.g5e.mahjonga1.mac
+games.32.id=com.g5e.spiritofwondering.mac
+games.33.id=com.g5e.jack.mac
+games.34.id=com.g5e.standofood3.mac
+games.35.id=com.g5e.brightstonemysteries.mac
+games.36.id=com.g5e.inbetweenland.mac
+games.37.id=com.g5e.epiconboard.mac
+games.38.id=com.g5e.artmogul.mac
+games.39.id=com.g5e.smm.mac
+games.40.id=com.g5e.crystalportal.mac
+games.41.id=com.g5e.totemtribegold.mac
+games.42.id=com.g5e.epicwishmaster.mac
+games.43.id=com.g5e.mahjonga2.mac
+games.44.id=com.g5e.standofood.mac
+games.45.id=com.g5e.paranormal.mac
+games.46.id=com.g5e.rightkill1.mac
+games.47.id=com.g5e.isladorada.mac
+games.48.id=com.g5e.sm.mac
+games.49.id=com.g5e.fiu2.mac
+games.50.id=com.g5e.ocr.mac
+games.51.id=com.g5e.sstory.mac
+games.52.id=com.orchidgames.royaltrouble.mac
+games.53.id=com.g5e.crossworlds.mac
+games.54.id=com.g5e.fiu80.mac
+games.55.id=com.g5e.epiclajangada.mac
+games.56.id=com.g5e.fiu.mac
+games.57.id=com.g5e.spiritwalkers.mac
+games.date_update=2016-05-11 14:26:29
+
+lang=en
+ui.png=ui.png
+ui.grip.align=1
+ui.grip.shift=-52
+ui.header.size=0
+ui.header.html=header.html
+ui.footer.size=0
+ui.footer.html=footer-home.html
+ui.content.html=more_games.html
+
+landing.content.html=main.html
+landing.sleep.seconds=60
+landing.suspend.seconds=60
+
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Check out this game: ${tell.a.friend.game}
+tell.a.friend.description=Intense challenges await you in The Island: Castaway, an extremely addictive simulation game. Explore the enigmatic Island to find clues, solve over 200 diverse quests and decrypt ancient writings.
+tell.a.friend.body=<html><body>Hey there!<br>I just played this awesome game, ${tell.a.friend.game}, and thought you would like it too. ${tell.a.friend.game} is available on most mobile devices and platforms.<br><br>About the game:<br>${tell.a.friend.description}<br><br>I hope you enjoy the game – G5 games are always the best!<br>${artist.link}<br><br>PLAY NOW!<br> ${store.link}</body></html>
+
+[de]
+lang=de
+ui.png=ui_${lang}.png
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Teste dieses Spiel: ${tell.a.friend.game}
+tell.a.friend.description=Große Herausforderungen erwarten dich in The Island: Castaway, ein extrem süchtig machendes Simulationsspiel. Erkunde die rätselhafte Insel und finde Hinweise, löse mehr als 200 abwechslungsreiche Quests und entschlüssele antike Schriften.
+tell.a.friend.body=<html><body>Hallo!<br>Ich habe gerade das tolle Spiel ${tell.a.friend.game} gespielt und glaube, dass dir das auch gefallen könnte. ${tell.a.friend.game} ist für die meisten Mobilgeräte und Plattformen verfügbar.<br><br>Über das Spiel:<br>${tell.a.friend.description}<br><br>Ich hoffe, dir gefällt das Spiel - Spiele von G5 Games sind einfach unschlagbar!<br>${artist.link}<br><br>SPIELEN!<br>${store.link}</body></html>
+
+[es]
+lang=es
+ui.png=ui_${lang}.png
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Prueba este juego: ${tell.a.friend.game}
+tell.a.friend.description=Te están esperando intensos retos en la Isla: Castaway, un juego de simulación extremadamente adictivo. Explora la enigmática isla para encontrar pistas, resolver más de 200 misiones distintas y descifrar los escritos antiguos.
+tell.a.friend.body=<html><body>¡Hola!<br>Acabo de disfrutar de un juego fantástico: ${tell.a.friend.game}. Creo que a ti también te gustaría. ${tell.a.friend.game} está disponible para la mayoría de dispositivos móviles y plataformas.<br><br>Sobre el juego:<br>${tell.a.friend.description}<br><br>Espero que tú también te diviertas; ¡los juegos de G5 games siempre son los mejores!<br>${artist.link}<br><br>¡JUEGA!<br>${store.link}</body></html>
+
+[fr]
+lang=fr
+ui.png=ui_${lang}.png
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Découvrez ce jeu : ${tell.a.friend.game}
+tell.a.friend.description=Des défis exaltants vous attendent dans The Island: Castaway, un jeu résolument simulation qui vous plongera au cœur d'une aventure palpitante ! Explorez cette île énigmatique pour dénicher des indices, déchiffrer des écritures ancestrales et réaliser plus de 200 quêtes aussi diverses que passionnantes.
+tell.a.friend.body=<html><body>Salut !<br>Je viens de jouer à ${tell.a.friend.game} et je crois que toi aussi, tu aimerais ce jeu génialissime ! ${tell.a.friend.game} est disponible sur la plupart des plateformes et appareils mobiles.<br><br>À propos du jeu :<br>${tell.a.friend.description}<br><br>J'espère que ce jeu te plaît ! Les jeux de G5 sont toujours les meilleurs !<br>${artist.link}<br><br>JOUER !<br>${store.link}</body></html>
+
+[it]
+lang=it
+ui.png=ui_${lang}.png
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Dai un'occhiata a questo gioco: ${tell.a.friend.game}
+tell.a.friend.description=Sfide intense ti attendono in L'isola: naufraghi, un gioco di simulazione che crea estrema dipendenza. Esplora questa enigmatica isola per trovare indizi, risolvi più di 200 missioni diverse e decifra antichi scritti.
+tell.a.friend.body=<html><body>Salve!<br>Ho appena giocato a questo gioco magnifico, ${tell.a.friend.game}, e credo che potrebbe piacere anche a te. ${tell.a.friend.game} è disponibile sulla maggior parte di mobile device e piattaforme.<br><br>A proposito del gioco:<br>${tell.a.friend.description}<br><br>Spero che questo gioco ti piaccia, i giochi G5 games sono sempre i migliori!<br>${artist.link}<br><br>GIOCACI!<br>${store.link}</body></html>
+
+[ru]
+lang=ru
+ui.png=ui_${lang}.png
+tell.a.friend.game=Остров: Затерянные в океане
+tell.a.friend.subj=Попробуйте эту игру: ${tell.a.friend.game}
+tell.a.friend.description=Невероятно увлекательное приключение в жанре симулятор ждет вас в игре Остров: Затерянные в океане.  Исследуйте все уголки таинственного острова, выполните более 200 разнообразных заданий и расшифруйте древние письмена.
+tell.a.friend.body=<html><body>Привет!<br>Я попробовал отличную игру, ${tell.a.friend.game}. Думаю, она тебе тоже понравится. ${tell.a.friend.game} доступна для разных мобильных устройств и платформ.<br><br>Об игре:<br>${tell.a.friend.description}<br><br>Попробуй эту игру - не пожалеешь. Игры от G5 всегда на уровне!<br>${artist.link}<br><br>ИГРАТЬ!<br>${store.link}</body></html>
+
+[zh]
+lang=zh
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Check out this game: ${tell.a.friend.game}
+tell.a.friend.description=Intense challenges await you in The Island: Castaway, an extremely addictive simulation game. Explore the enigmatic Island to find clues, solve over 200 diverse quests and decrypt ancient writings.
+tell.a.friend.body=<html><body>Hey there!<br>I just played this awesome game, ${tell.a.friend.game}, and thought you would like it too. ${tell.a.friend.game} is available on most mobile devices and platforms.<br><br>About the game:<br>${tell.a.friend.description}<br><br>I hope you enjoy the game – G5 games are always the best!<br>${artist.link}<br><br>PLAY NOW!<br> ${store.link}</body></html>
+
+[ja]
+lang=ja
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Check out this game: ${tell.a.friend.game}
+tell.a.friend.description=Intense challenges await you in The Island: Castaway, an extremely addictive simulation game. Explore the enigmatic Island to find clues, solve over 200 diverse quests and decrypt ancient writings.
+tell.a.friend.body=<html><body>Hey there!<br>I just played this awesome game, ${tell.a.friend.game}, and thought you would like it too. ${tell.a.friend.game} is available on most mobile devices and platforms.<br><br>About the game:<br>${tell.a.friend.description}<br><br>I hope you enjoy the game – G5 games are always the best!<br>${artist.link}<br><br>PLAY NOW!<br> ${store.link}</body></html>
+
+[ko]
+lang=ko
+tell.a.friend.game=The Island: Castaway®
+tell.a.friend.subj=Check out this game: ${tell.a.friend.game}
+tell.a.friend.description=Intense challenges await you in The Island: Castaway, an extremely addictive simulation game. Explore the enigmatic Island to find clues, solve over 200 diverse quests and decrypt ancient writings.
+tell.a.friend.body=<html><body>Hey there!<br>I just played this awesome game, ${tell.a.friend.game}, and thought you would like it too. ${tell.a.friend.game} is available on most mobile devices and platforms.<br><br>About the game:<br>${tell.a.friend.description}<br><br>I hope you enjoy the game – G5 games are always the best!<br>${artist.link}<br><br>PLAY NOW!<br> ${store.link}</body></html>
+
+[nl]
+lang=nl
+
+[pl]
+lang=pl
+
+[pt]
+lang=pt
+
+[pt_PT]
+lang=pt_pt
+
+[sv]
+lang=sv
+
+[tr]
+lang=tr
+
+[]
+uibutton.part_2.label=com.g5e.islandcastaway2.mac.free
+uibutton.part_2.x=0
+uibutton.part_2.align_x=-1
+uibutton.part_2.y=17
+uibutton.part_2.align_y=-1
+uibutton.part_2.normal=ui/islandcastaway.mac/part_2_${lang}.png
+uibutton.part_2.press=ui/islandcastaway.mac/part_2_hit_${lang}.png
+uibutton.part_2.hover=ui/islandcastaway.mac/part_2_hover_${lang}.png
+uibutton.part_2.action=http://itunes.apple.com/app/id834969633?mt=12&at=11lbfd&g5storecode=834969633
+uibutton.part_2.from=2014/05/28
+uibutton.part_2.to=2018/12/01
+
+uibutton.promo.label=com.g5e.sofplayground.mac
+uibutton.promo.x=0
+uibutton.promo.align_x=1
+uibutton.promo.y=17
+uibutton.promo.align_y=-1
+uibutton.promo.normal=ui/islandcastaway.mac/play_free_${lang}.png
+uibutton.promo.press=ui/islandcastaway.mac/play_free_hit_${lang}.png
+uibutton.promo.action=http://itunes.apple.com/app/id924475345?mt=12&at=11lbfd&g5storecode=924475345

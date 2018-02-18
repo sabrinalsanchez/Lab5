@@ -1,0 +1,628 @@
+| 10-16-2017 | 11:51:09.151 | 4183 | 1 |        logapi.m |  486 | LogRecordInitialSettings |     none |        none | LOG START: App Version 12.6.0 (532443)
+| 10-16-2017 | 11:51:09.157 | 4183 | 1 |        logapi.m |  489 | LogRecordInitialSettings |     none |        none | LOG START: OS Version 10.10.2 (Build 14C2043)
+| 10-16-2017 | 11:51:09.159 | 4183 | 1 |        logapi.m |  492 | LogRecordInitialSettings |     none |        none | LOG START: Client UUID 9736A8CE-9B3C-46F3-AA32-25C3B9883476
+| 10-16-2017 | 11:51:09.159 | 4183 | 1 |        logapi.m |  495 | LogRecordInitialSettings |     none |        none | LOG START: Logging Mode: TRACE_MODE_OFF
+| 10-16-2017 | 11:51:09.159 | 4183 | 1 |        logapi.m |  498 | LogRecordInitialSettings |     none |        none | LOG START: Buffer Size: 65536
+| 10-16-2017 | 11:51:09.159 | 4183 | 1 |        logapi.m |  501 | LogRecordInitialSettings |     none |        none | LOG START: LogMaxNumberOfLogFiles: 10
+| 10-16-2017 | 11:51:09.159 | 4183 | 1 |        logapi.m |  504 | LogRecordInitialSettings |     none |        none | LOG START: LogCGPCoreTraceLevel (0) CGP_TRACE_ERROR
+| 10-16-2017 | 11:51:09.163 | 4183 | 1 |        logapi.m |  508 | LogRecordInitialSettings |     none |        none | LOG START: Initial Features (0x00000000)  TW_SSB TT_L1 LOG_KEYBOARD TW_PACKET TW_RLESTATS TW_STROKE TW_TEXT LOG_ERRORS TT_CONFIG TW_XLATEOBJ TW_PTRMOVE TW_BRUSH TT_ICOOK TT_EUEMSTARTUP TW_DIM TT_IFRAME LOG_TRANSMIT TT_L4 TT_MEM TT_API4 TT_IRAW TW_CONNECT TT_L2 LOG_RECEIVE TT_CONNECT TW_DITHER LOG_CONNECT TW_PAINT TT_API3 TT_ORAW TT_ACR TW_BLT TT_IFRAME2 TT_CONFIG2 TW_BLTTRICK TW_CACHE TW_CLIPCMPLX TT_API2 TT_OFRAME TW_ENTRY TW_LOWCACHE TW_COPY TW_ERROR TT_OFRAME2 TW_FILL TW_PALETTE TW_PROTO TT_L3 TW_PTRSHAPE TT_OCOOK TT_API1
+| 10-16-2017 | 11:51:09.163 | 4183 | 1 |        logapi.m |  512 | LogRecordInitialSettings |     none |        none | LOG START: Initial Flags (0x00000002)  LOG_APPEND LOG_FLUSH
+| 10-16-2017 | 11:51:09.163 | 4183 | 1 |        logapi.m |  516 | LogRecordInitialSettings |     none |        none | LOG START: Initial Classes (0x00000000)  TC_FONT TC_CDM TC_DEVELOP TC_TW TC_GUSB TC_EUEM TC_VD TC_SCARDVD TC_CAM TC_ZLC TC_MONITORS TC_TCPPROXY TC_TD TC_WFSHELL TC_RELI TC_RECONNECT TC_MOU TC_CPM TC_TWI TC_PD TC_KEY TC_TW1 TC_FRAME LOG_CLASS TC_UDT LOG_ASSERT TC_NCS TC_WD TC_SRCC TC_CGP TC_SPB TC_CTL TC_VP TC_SSLSDK TC_CCM TC_CM TC_PROXY TC_CGPCORE TC_LIB TC_CLIP TC_WENG
+| 10-16-2017 | 11:51:10.832 | 4183 | 1 | mac_NCS_config.c |  208 |  NCS_ReadConfig |   TC_LIB |     TT_API1 | Encryption level Basic is enabled
+| 10-16-2017 | 11:51:12.990 | 4183 | 2 |     tdwinsock.c |  602 | Td_DeviceConnect |    TC_TD |     TT_API3 | TD Device Connection Attempt to ;40;STA813270886;A1ACC04A9074C99976B7B29A35D862
+| 10-16-2017 | 11:51:15.457 | 4183 | 2 |      sslasock.c | 1998 |      SSLconnect |    TC_TD |     TT_API1 | SSL Relay host name: apps.ufl.edu resolved to: 2.0.0.0
+| 10-16-2017 | 11:51:17.198 | 4183 | 2 |       Session.c |  730 |  CgpOpenSession | TC_CGPCORE |     TT_API1 | CGP_BIND_REQUEST message sent successfully.
+
+| 10-16-2017 | 11:51:17.198 | 4183 | 2 |     tdwinsock.c |  607 | Td_DeviceConnect |    TC_TD |     TT_API3 | TD Device Connection success. 
+| 10-16-2017 | 11:51:17.213 | 4183 | 3 |       Message.c | 1021 | HandleCGPSignature | TC_CGPCORE |    TT_ERROR | CGP signature verified
+| 10-16-2017 | 11:51:17.213 | 4183 | 3 |       Message.c |  738 |  CgpDataArrived | TC_CGPCORE |     TT_API1 | Received CGP_BIND_RESPONSE message.
+| 10-16-2017 | 11:51:17.213 | 4183 | 3 |       Service.c |  534 |  CgpOpenChannel | TC_CGPCORE |     TT_API1 | CGP_CHANNEL_OPEN_REQUEST message sent successfully, Channel 0: Framing 0: Priority 2:
+| 10-16-2017 | 11:51:17.231 | 4183 | 2 |       Message.c |  767 |  CgpDataArrived | TC_CGPCORE |     TT_API1 | Received CGP_CHANNEL_OPEN_RESPONSE message.
+| 10-16-2017 | 11:51:17.231 | 4183 | 2 |       Channel.c |  255 | HandleChannelOpenResponse | TC_CGPCORE |     TT_API1 | Channel ID 0
+| 10-16-2017 | 11:51:17.231 | 4183 | 2 |       Channel.c |  312 | HandleChannelOpenResponse | TC_CGPCORE |     TT_API1 | Channel 0: CGP_CHANNEL_OPEN_RESPONSE message received for Service: Citrix.TcpProxyService.
+
+| 10-16-2017 | 11:51:17.231 | 4183 | 2 |       Channel.c |  339 | HandleChannelOpenResponse | TC_CGPCORE |    TT_ERROR | CGP Channel opened successfully
+| 10-16-2017 | 11:51:17.251 | 4183 | 4 |       wdinput.c | 1105 | _CheckForIcaDetect |    TC_WD |     TT_API1 | WdIca: ICA DETECTED
+| 10-16-2017 | 11:51:17.281 | 4183 | 4 |        wdinit.c |  164 |  IcaInitRequest |    TC_WD |     TT_API1 | Received PACKET_INIT_REQUEST
+| 10-16-2017 | 11:51:17.281 | 4183 | 4 |        wdinit.c |  293 |  IcaInitRequest |    TC_WD |     TT_API1 | Channel Monitoring Supported
+| 10-16-2017 | 11:51:17.281 | 4183 | 4 |        wdinit.c |  309 |  IcaInitRequest |    TC_WD |     TT_API1 | WanScalerSupport.CpsServerProtocolVersion=1
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  346 |  IcaInitRequest |    TC_WD |     TT_API1 | SELECTING THE V3 REDUCER
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  382 |  IcaInitRequest |    TC_WD |     TT_API1 | Server supports the intellimouse buttons and wheel
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  398 |  IcaInitRequest |    TC_WD |     TT_API1 | Server has big buffer capability - Maximum Transition Unit
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  453 |  IcaInitRequest |    TC_WD |     TT_API1 | Server supports PACKET_REDRAW_EXTENDED
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  458 |  IcaInitRequest |    TC_WD |     TT_API1 | Server supports complex region redraws
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  471 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: Got the Unicode UserName Caps from the server.
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  482 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: Got the Encrypted Credential Passing Caps from the server.
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  528 |  IcaInitRequest |    TC_WD |     TT_API4 | IcaInitRequest: Got CAPABILITY_COOKIE from host.
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  553 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: Got the Printer Bandwidth control flag from the server.
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  560 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: Got the TW2 Persistent cache deadlock bug fixed cap.
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  572 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: High throughput cap, supportMask = 3, MaxICAPacketLength = 0, LineLoadingPercent = 0
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  592 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: Max packet length = 0, Line loading percent = 0
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  613 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: Server version: Windows 0x1/0x2/0x2
+| 10-16-2017 | 11:51:17.282 | 4183 | 4 |        wdinit.c |  647 |  IcaInitRequest |    TC_WD |     TT_API1 | IcaInitRequest: Supports EUKS version 3 mode 0x2
+| 10-16-2017 | 11:51:17.285 | 4183 | 4 |        wdinit.c | 1030 | SendAllInitResponse |    TC_WD |     TT_API2 | Send PACKET_INIT_RESPONSE
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[10]: ui, () class 0, ver 1-8, bc 318, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a7cf560, 318):
+3E 01 12 00 01 08 75 69 00 00 00 00 00 00 00 00   >.....ui........
+00 00 00 00 00 00 00 00 00 00 00 00 C9 4A 6B 81   .............Jk.
+00 00 00 00 34 00 00 00 00 00 00 00 01 8B 00 00   ....4...........
+00 00 00 00 00 00 00 00 AC 00 00 00 00 00 00 00   ................
+00 00 38 31 CA 00 6A 00 D4 00 00 00 01 00 00 00   ..81..j.........
+00 00 00 00 00 00 00 00 DE 00 E4 00 1F 00 01 64   ...............d
+00 00 00 00 06 00 01 00 02 00 CB 40 CB 40 CB 40   ...........@.@.@
+CB 40 CB 40 CB 40 CB 40 CB 40 CB 40 CB 40 CB 40   .@.@.@.@.@.@.@.@
+CB 40 CB 40 CB 40 CB 40 CB 40 CB 40 CB 40 CB 40   .@.@.@.@.@.@.@.@
+CB 40 CB 40 CB 40 CB 40 CB 40 CB 40 CB 40 CB 40   .@.@.@.@.@.@.@.@
+CB 40 CB 40 CB 40 CB 40 CB 40 CB 40 E8 63 A5 2E   .@.@.@.@.@.@.c..
+E4 6F B0 3B FC 77 BD 36 FF 74 DF 54 8D 06 BF 34   .o.;.w.6.t.T...4
+8F 04 BE 35 8B 00 E9 62 E9 62 AB 20 D9 52 B0 3B   ...5...b.b. .R.;
+DE 55 BF 34 9F 14 B7 3C 85 0E AC 27 AC 27 FB 70   .U.4...<...'.'.p
+B2 39 B2 39 83 08 B1 3A 9F 14 A9 22 87 0C B7 3C   .9.9...:..."...<
+99 12 AC 27 9F 14 AD 26 99 12 AD 26 9E 15 9E 15   ...'...&...&....
+A8 23 EE 65 DC 57 99 12 DF 54 9A 11 A8 23 98 13   .#.e.W...T...#..
+A8 23 9A 11 A3 28 92 19 D3 58 E2 69 A7 2C 9E 15   .#...(...X.i.,..
+DF 54 9B 10 AF 24 9F 14 A7 2C E1 6A A7 2C E6 6D   .T...$...,.j.,.m
+D2 59 90 1B A9 22 EF 64 DB 50 99 12 99 12         .Y...".d.P....
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[9]: TCP, () class 5, ver 1-2, bc 60, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a7a7cb0, 60):
+3C 00 11 05 01 02 54 43 50 00 00 00 00 00 00 00   <.....TCP.......
+00 00 00 00 00 00 00 00 00 00 00 00 C9 4A 6B 81   .............Jk.
+00 00 00 00 B4 05 02 00 D2 C3 C0 A8 56 1B 00 00   ............V...
+00 00 00 00 00 00 00 00 00 00 00 00               ............
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[8]: RFrame, (PDRFRAME) class 4, ver 1-2, bc 40, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a7a8800, 40):
+28 00 10 04 01 02 52 46 72 61 6D 65 00 00 00 00   (.....RFrame....
+00 00 00 50 44 52 46 52 41 4D 45 00 C9 4A 6B 81   ...PDRFRAME..Jk.
+00 00 00 00 09 00 00 00                           ........
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[7]: Encrypt, (PDCRYPT1) class 4, ver 1-1, bc 44, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.289 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a7a8800, 44):
+2C 00 0F 04 01 01 45 6E 63 72 79 70 74 00 00 00   ,.....Encrypt...
+00 00 00 50 44 43 52 59 50 54 31 00 C9 4A 6B 81   ...PDCRYPT1..Jk.
+00 00 00 00 0B 00 00 00 01 00 00 00               ............
+| 10-16-2017 | 11:51:17.295 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[6]: ICA 3.0, (WDICA) class 2, ver 1-9, bc 598, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.295 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7c8d5e00, 598):
+56 02 0E 02 01 09 49 43 41 20 33 2E 30 00 00 00   V.....ICA 3.0...
+00 00 00 57 44 49 43 41 00 00 00 00 C9 4A 6B 81   ...WDICA.....Jk.
+00 00 00 00 04 69 1B F5 10 0A E1 07 0B 33 11 00   .....i.......3..
+0F 00 00 00 00 00 00 00 88 13 2C 00 2C 00 FF FF   ..........,.,...
+FF FF 52 00 00 00 00 00 0E 00 58 00 10 13 00 00   ..R.......X.....
+03 00 72 01 E4 00 00 00 43 54 58 54 57 20 20 00   ..r.....CTXTW  .
+09 00 43 54 58 43 4C 49 50 00 11 00 43 54 58 43   ..CTXCLIP...CTXC
+43 4D 20 00 08 00 43 54 58 54 57 49 00 00 0C 00   CM ...CTXTWI....
+43 54 58 53 43 52 44 00 0D 00 43 54 58 54 55 49   CTXSCRD...CTXTUI
+00 00 0F 00 43 54 58 43 50 4D 20 00 04 00 43 54   ....CTXCPM ...CT
+58 47 55 53 42 00 13 00 43 54 58 43 41 4D 20 00   XGUSB...CTXCAM .
+14 00 43 54 58 4D 4D 20 20 00 12 00 43 54 58 43   ..CTXMM  ...CTXC
+44 4D 20 00 0A 00 43 54 58 45 55 45 4D 00 15 00   DM ...CTXEUEM...
+43 54 58 44 33 44 00 00 16 00 43 54 58 43 54 4C   CTXD3D....CTXCTL
+20 00 17 00 00 0C 04 00 04 00 05 00 10 00 06 00    ...............
+01 00 14 00 02 00 00 00 FA 00 96 00 06 00 11 00   ................
+39 00 10 00 0F 00 01 00 63 93 04 00 00 00 00 00   9.......c.......
+00 00 0C 00 10 00 07 00 00 00 00 00 00 00 08 00   ................
+19 00 07 00 C0 00 85 00 26 00 01 00 00 00 02 00   ........&.......
+00 00 2C 01 00 00 48 00 00 00 0B 00 00 00 01 00   ..,...H.........
+02 00 00 00 00 00 00 00 7A 7A 00 00 00 00 5E 00   ........zz....^.
+00 00 03 00 00 00 02 00 02 00 00 00 00 00 00 00   ................
+BD 00 C4 FF FF FF 02 00 74 00 00 00 00 00 45 61   ........t.....Ea
+73 74 65 72 6E 20 53 74 61 6E 64 61 72 64 20 54   stern Standard T
+69 6D 65 00 45 61 73 74 65 72 6E 20 53 74 61 6E   ime.Eastern Stan
+64 61 72 64 20 54 69 6D 65 00 41 6D 65 72 69 63   dard Time.Americ
+61 2F 4E 65 77 5F 59 6F 72 6B 00 70 00 08 00 01   a/New_York.p....
+00 00 00 02 00 00 00 2C 01 00 00 44 00 00 00 0B   .......,...D....
+00 00 00 01 00 02 00 00 00 00 00 00 00 59 00 00   .............Y..
+00 00 00 5A 00 00 00 03 00 00 00 02 00 02 00 00   ...Z............
+00 00 00 00 00 A8 91 C4 FF FF FF 00 00 00 00 45   ...............E
+61 73 74 65 72 6E 20 53 74 61 6E 64 61 72 64 20   astern Standard 
+54 69 6D 65 00 45 61 73 74 65 72 6E 20 53 74 61   Time.Eastern Sta
+6E 64 61 72 64 20 54 69 6D 65 00 10 00 0A 00 02   ndard Time......
+00 80 00 00 00 00 00 00 00 00 00 06 00 12 00 02   ................
+00 08 00 14 00 02 00 01 00 1D 00 1E 00 01 03 00   ................
+00 00 00 00 00 00 00 00 00 00 00 00 01 03 00 00   ................
+00 00 00 00 00 00                                 ......
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[5]: Thinwire3.0, (vdtw30) class 3, ver 1-5, bc 303, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7b173c30, 303):
+2F 01 0D 03 01 05 54 68 69 6E 77 69 72 65 33 2E   /.....Thinwire3.
+30 00 00 76 64 74 77 33 30 00 00 00 C9 4A 6B 81   0..vdtw30....Jk.
+00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00   ................
+00 00 00 80 00 00 30 00 01 19 00 00 08 00 00 00   ......0.........
+14 00 01 00 A0 05 3E 03 00 00 00 80 00 00 30 00   ......>.......0.
+01 11 00 00 0E 00 00 00 14 00 01 00 40 1F 70 17   ............@.p.
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00 00 00 00 00 80 00 00 00 00 30 00 00 00 00 00   ..........0.....
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00 00 00 00 17 00 0F 00 AA A2 0A 00 00 00 00 00   ................
+7B 00 B4 00 00 12 04 00 06 00 01 00 08 14 0E 00   {...............
+02 00 00 02 18 08 08 18 FF FF FF FF 04 00 04 00   ................
+04 00 06 00 04 00 07 00 04 00 08 00 04 00 0C 00   ................
+08 00 0D 00 04 00 00 00 04 00 0E 00 06 00 10 00   ................
+1F 00 1C 00 11 00 08 00 00 00 01 00 FF 01 00 00   ................
+00 00 A0 05 3E 03 00 00 00 00 A0 05 3E 03 04 00   ....>.......>...
+12 00 08 00 14 00 07 00 00 00 04 00 15 00 04 00   ................
+16 00 04 00 19 00 05 00 1A 00 00 04 00 1F 00      ...............
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[4]: Clipboard, () class 3, ver 2-2, bc 48, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7b173a60, 48):
+30 00 0C 03 02 02 43 6C 69 70 62 6F 61 72 64 00   0.....Clipboard.
+00 00 00 00 00 00 00 00 00 00 00 00 C9 4A 6B 81   .............Jk.
+00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00   ................
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[3]: ClientComm, () class 3, ver 4-4, bc 56, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7b173920, 56):
+38 00 0B 03 04 04 43 6C 69 65 6E 74 43 6F 6D 6D   8.....ClientComm
+00 00 00 00 00 00 00 00 00 00 00 00 C9 4A 6B 81   .............Jk.
+00 00 00 00 00 01 00 00 00 01 00 00 00 04 00 04   ................
+00 00 00 00 00 00 00 00                           ........
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[2]: TWI, () class 3, ver 1-1, bc 48, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7b173870, 48):
+30 00 0A 03 01 01 54 57 49 00 00 00 00 00 00 00   0.....TWI.......
+00 00 00 00 00 00 00 00 00 00 00 00 C9 4A 6B 81   .............Jk.
+00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00   ................
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[1]: SmartCard, () class 3, ver 1-1, bc 52, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7b173c60, 52):
+34 00 09 03 01 01 53 6D 61 72 74 43 61 72 64 00   4.....SmartCard.
+00 00 00 00 00 00 00 00 00 00 00 00 C9 4A 6B 81   .............Jk.
+00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00   ..... ..........
+FF 07 00 00                                       ....
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1178 | SendAllInitResponse |    TC_WD |     TT_API2 | SendAllInitResponse: Module[0]: TUI, (VDTUI) class 3, ver 0-1, bc 50, date 4ac9, time 816b, size 0
+| 10-16-2017 | 11:51:17.296 | 4183 | 4 |        wdinit.c | 1179 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7b173c60, 50):
+32 00 08 03 00 01 54 55 49 00 00 00 00 00 00 00   2.....TUI.......
+00 00 00 56 44 54 55 49 00 00 00 00 C9 4A 6B 81   ...VDTUI.....Jk.
+00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00   ................
+FF 07                                             ..
+| 10-16-2017 | 11:51:17.302 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: Vd3d, (ICA) class 3, ver 0-1, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.303 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a7bbd90, 48):
+30 00 07 03 00 01 56 64 33 64 00 00 00 00 00 00   0.....Vd3d......
+00 00 00 49 43 41 00 00 00 00 00 00 50 4B 00 60   ...ICA......PK.`
+00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00   ......@.........
+| 10-16-2017 | 11:51:17.307 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: ClientDrive, (ICA) class 3, ver 1-7, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.311 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a75a900, 74):
+4A 00 06 03 01 07 43 6C 69 65 6E 74 44 72 69 76   J.....ClientDriv
+65 00 00 49 43 41 00 00 00 00 00 00 50 4B 00 60   e..ICA......PK.`
+00 00 00 00 00 04 00 00 00 03 00 00 24 F4 14 10   ............$...
+02 00 42 00 00 00 58 02 00 00 00 00 00 00 01 00   ..B...X.........
+00 00 43 00 22 00 48 00 22 00                     ..C.".H.".
+| 10-16-2017 | 11:51:17.311 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: ClientAudio, (ICA) class 3, ver 1-3, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.311 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7dc98330, 55):
+37 00 05 03 01 03 43 6C 69 65 6E 74 41 75 64 69   7.....ClientAudi
+6F 00 00 49 43 41 00 00 00 00 00 00 50 4B 00 60   o..ICA......PK.`
+00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00   ................
+87 13 01 01 04 00 00                              .......
+| 10-16-2017 | 11:51:17.311 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: UserExperience, (ICA) class 3, ver 1-1, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.311 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a65ff50, 48):
+30 00 04 03 01 01 55 73 65 72 45 78 70 65 72 69   0.....UserExperi
+65 6E 00 49 43 41 00 00 00 00 00 00 50 4B 00 60   en.ICA......PK.`
+00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00   ...... .........
+| 10-16-2017 | 11:51:17.311 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: CTXMM, () class 3, ver 1-2, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.312 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a67c900, 50):
+32 00 03 03 01 02 43 54 58 4D 4D 00 00 00 00 00   2.....CTXMM.....
+00 00 00 00 00 00 00 00 00 00 00 00 50 4B 00 60   ............PK.`
+00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00   ................
+84 13                                             ..
+| 10-16-2017 | 11:51:17.312 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: ClientPrinterQueue, () class 3, ver 4-7, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.312 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a673940, 56):
+38 00 02 03 04 07 43 6C 69 65 6E 74 50 72 69 6E   8.....ClientPrin
+74 65 00 00 00 00 00 00 00 00 00 00 50 4B 00 60   te..........PK.`
+00 00 00 00 10 00 00 00 00 00 00 00 24 F4 06 10   ............$...
+00 00 01 00 00 00 05 00                           ........
+| 10-16-2017 | 11:51:17.312 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: ClientUSBRedirector, () class 3, ver 1-1, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.312 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a673990, 48):
+30 00 01 03 01 01 43 6C 69 65 6E 74 55 53 42 52   0.....ClientUSBR
+65 64 00 00 00 00 00 00 00 00 00 00 50 4B 00 60   ed..........PK.`
+00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00   ................
+| 10-16-2017 | 11:51:17.312 | 4183 | 4 | ICAVirtualChannelInitResponse.m |   73 | +[ICAVirtualChannelInitResponse responseWithChannelMask:flowBandwidthQuota:flowType:flowParam1:flowParam2:byteCount:moduleCount:moduleClass:versionL:versionH:moduleName:hostModuleName:moduleDate:moduleTime:moduleSize:] |    TC_WD |     TT_API2 | SendAllInitResponse: Module: ControlChannel, (ICA) class 3, ver 1-2, bc 0, date 4b50, time 6000, size 0
+| 10-16-2017 | 11:51:17.312 | 4183 | 4 |        wdinit.c | 1236 | SendAllInitResponse |    TC_WD |     TT_ORAW | Buffer dump follows (0x7a673940, 48):
+30 00 00 03 01 02 43 6F 6E 74 72 6F 6C 43 68 61   0.....ControlCha
+6E 6E 00 49 43 41 00 00 00 00 00 00 50 4B 00 60   nn.ICA......PK.`
+00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00   ................
+| 10-16-2017 | 11:51:17.315 | 4183 | 4 |        wdinit.c | 1274 | SendAllInitResponse |    TC_WD |     TT_API1 | SendAllInitResponse: Sending 2101 bytes
+| 10-16-2017 | 11:51:17.350 | 4183 | 4 |        wdinit.c | 1354 |  IcaInitConnect |    TC_WD |     TT_API1 | Received PACKET_INIT_CONNECT: bytecount 428
+| 10-16-2017 | 11:51:17.350 | 4183 | 4 |        wdinit.c | 1355 |  IcaInitConnect |    TC_WD |     TT_API1 | Buffer dump follows (0x7aa35c00, 428):
+AC 01 03 02 01 09 09 00 88 13 2C 00 2C 00 FF FF   ..........,.,...
+FF FF 00 00 00 00 00 00 01 00 10 13 D0 07 03 00   ................
+86 01 26 00 E4 04 00 07 04 00 4C 00 05 00 0C 00   ..&.......L.....
+00 00 40 00 00 00 02 02 02 02 03 02 02 02 03 01   ..@.............
+02 02 01 01 02 02 02 02 02 02 00 01 01 01 02 02   ................
+02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02   ................
+02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02   ................
+02 02 02 02 02 02 10 00 06 00 01 00 14 00 06 00   ................
+00 00 FA 00 64 00 70 00 08 00 01 00 00 00 02 00   ....d.p.........
+00 00 2C 01 00 00 44 00 00 00 0B 00 00 00 01 00   ..,...D.........
+02 00 00 00 00 00 00 00 59 00 00 00 00 00 5A 00   ........Y.....Z.
+00 00 03 00 00 00 02 00 02 00 00 00 00 00 00 00   ................
+A8 91 C4 FF FF FF 00 00 00 00 45 61 73 74 65 72   ..........Easter
+6E 20 53 74 61 6E 64 61 72 64 20 54 69 6D 65 00   n Standard Time.
+45 61 73 74 65 72 6E 20 53 74 61 6E 64 61 72 64   Eastern Standard
+20 54 69 6D 65 00 85 00 26 00 01 00 00 00 02 00    Time...&.......
+00 00 2C 01 00 00 48 00 00 00 0B 00 00 00 01 00   ..,...H.........
+02 00 00 00 00 00 00 00 7A 7A 00 00 00 00 5E 00   ........zz....^.
+00 00 03 00 00 00 02 00 02 00 00 00 00 00 00 00   ................
+BD 00 C4 FF FF FF 02 00 74 00 00 00 00 00 45 61   ........t.....Ea
+73 74 65 72 6E 20 53 74 61 6E 64 61 72 64 20 54   stern Standard T
+69 6D 65 00 45 61 73 74 65 72 6E 20 53 74 61 6E   ime.Eastern Stan
+64 61 72 64 20 54 69 6D 65 00 41 6D 65 72 69 63   dard Time.Americ
+61 2F 4E 65 77 5F 59 6F 72 6B 00 10 00 0A 00 02   a/New_York......
+00 80 00 78 00 01 00 50 00 3C 00 04 00 0C 00 1D   ...x...P.<......
+00 1E 00 01 03 00 00 00 00 00 00 00 00 00 00 00   ................
+00 00 01 03 00 00 00 00 00 00 00 00               ............
+| 10-16-2017 | 11:51:17.350 | 4183 | 4 |        wdinit.c | 1354 |  IcaInitConnect |    TC_WD |     TT_API1 | Received PACKET_INIT_CONNECT: bytecount 12
+| 10-16-2017 | 11:51:17.351 | 4183 | 4 |        wdinit.c | 1355 |  IcaInitConnect |    TC_WD |     TT_API1 | Buffer dump follows (0x7aa35c00, 12):
+0C 00 02 04 01 02 02 00 09 00 00 00               ............
+| 10-16-2017 | 11:51:17.351 | 4183 | 4 |        wdinit.c | 1354 |  IcaInitConnect |    TC_WD |     TT_API1 | Received PACKET_INIT_CONNECT: bytecount 12
+| 10-16-2017 | 11:51:17.351 | 4183 | 4 |        wdinit.c | 1355 |  IcaInitConnect |    TC_WD |     TT_API1 | Buffer dump follows (0x7aa35c00, 12):
+0C 00 01 04 01 01 01 00 0B 00 00 00               ............
+| 10-16-2017 | 11:51:17.351 | 4183 | 4 |        wdinit.c | 1354 |  IcaInitConnect |    TC_WD |     TT_API1 | Received PACKET_INIT_CONNECT: bytecount 8
+| 10-16-2017 | 11:51:17.351 | 4183 | 4 |        wdinit.c | 1355 |  IcaInitConnect |    TC_WD |     TT_API1 | Buffer dump follows (0x7aa35c00, 8):
+08 00 00 05 00 00 00 00                           ........
+| 10-16-2017 | 11:51:17.351 | 4183 | 4 |        wdinit.c | 1710 |  IcaInitConnect |    TC_WD |     TT_API2 | Sending PACKET_INIT_CONNECT_RESPONSE
+| 10-16-2017 | 11:51:17.556 | 4183 | 4 |          mode.c |   93 |  IcaSetGraphics |    TC_WD |     TT_API1 | Received PACKET_SET_GRAPHICS
+| 10-16-2017 | 11:51:17.556 | 4183 | 4 |        cookie.c |  283 |       IcaCookie |    TC_WD |     TT_API1 | Handle PACKET_COOKIE
+| 10-16-2017 | 11:51:17.556 | 4183 | 4 |        cookie.c |  191 | processCookieData |    TC_WD |     TT_API4 | processCookieData: got me a cookie!
+| 10-16-2017 | 11:51:17.556 | 4183 | 4 |        cookie.c |  192 | processCookieData |    TC_WD |     TT_API4 | Buffer dump follows (0x7aa35c01, 68):
+58 CD C8 85 39 32 ED 4F D9 61 D3 E6 2C 8C 6A 07   X...92.O.a..,.j.
+14 18 D6 D8 C8 AC 29 6F AD 47 91 5E D6 FD F1 CC   ......)o.G.^....
+40 58 EE 52 92 EC 1E 0D 41 05 65 46 59 29 3F FA   @X.R....A.eFY)?.
+E2 45 B1 66 9F DF BB 41 21 00 0C 68 B0 27 41 14   .E.f...A!..h.'A.
+38 94 C4 CF                                       8...
+| 10-16-2017 | 11:51:17.556 | 4183 | 4 |        cookie.c |  202 | processCookieData |    TC_WD |     TT_API4 | processCookieData: storing cookie
+| 10-16-2017 | 11:51:18.168 | 4183 | 5 |        scinit.c |   92 | SCVD_Cmd_BindRequest | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_BIND_REQUEST command
+| 10-16-2017 | 11:51:18.168 | 4183 | 5 |        scinit.c |  995 | SCVD_Cmd_BindRequest | TC_SCARDVD |     TT_API3 | Queue SCARDVD_BIND_RESPONSE command for sending
+| 10-16-2017 | 11:51:18.216 | 4183 | 5 |        scinit.c | 1067 | SCVD_Cmd_BindCommit | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_BIND_COMMIT command
+| 10-16-2017 | 11:51:18.219 | 4183 | 5 |       scasync.c |   65 | SCVD_Cmd_ResourceManagerQueryRunning | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_RESOURCE_MANAGER_QUERY_RUNNING command
+| 10-16-2017 | 11:51:18.220 | 4183 | 4 |      scsndc2h.c |  555 | SCVD_SendC2HAsyncCommand | TC_SCARDVD |     TT_API3 | Sending SCARDVD_CMD_RESOURCE_MANAGER_RUNNING Command
+| 10-16-2017 | 11:51:18.220 | 4183 | 4 |      scsndc2h.c |  564 | SCVD_SendC2HAsyncCommand | TC_SCARDVD |     TT_API3 | VDSCARD: The asynchronous notification command for the resource-manager-restart event was successfully sent
+| 10-16-2017 | 11:51:18.577 | 4183 | 5 |       scrmcxt.c |   58 | SCVD_Cmd_EstablishContextRequest | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_ESTABLISH_CONTEXT_REQUEST command
+| 10-16-2017 | 11:51:18.578 | 4183 | 5 |       scrmcxt.c |  257 | SCVD_Cmd_EstablishContextRequest | TC_SCARDVD |     TT_API3 | Sending SCARDVD_CMD_ESTABLISH_CONTEXT_REPLY Command
+| 10-16-2017 | 11:51:18.626 | 4183 | 5 |       scdbqry.c | 1720 | SCVD_Cmd_ListReadersRequest | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_LIST_READERS_REQUEST command
+| 10-16-2017 | 11:51:18.627 | 4183 | 5 |       scdbqry.c | 2087 | SCVD_Cmd_ListReadersRequest | TC_SCARDVD |     TT_API3 | Sending SCARDVD_CMD_LIST_READERS_REPLY command
+| 10-16-2017 | 11:51:18.659 | 4183 | 5 |       twvdcmn.c |  203 |   TwDispatchCmd |    TC_TW | TT_TW2_COMMAND | Received CMD_TW2_INIT command
+| 10-16-2017 | 11:51:18.659 | 4183 | 5 |       twvdcmn.c |  204 |   TwDispatchCmd |    TC_TW | TT_TW2_COMMAND | Buffer dump follows (0x7a7c5299, 144):
+03 00 57 8F 16 05 83 3E 05 A0 17 0F AA C5 2A 00   ..W....>......*.
+00 69 00 15 00 00 0F 04 00 0E 00 02 00 00 02 18   .i..............
+40 40 00 FF FF FF FF 04 00 04 00 04 00 06 00 04   @@..............
+00 07 00 04 00 08 00 04 00 0C 00 08 00 0D 00 04   ................
+00 62 00 04 00 0E 00 06 00 10 00 09 00 1C 00 11   .b..............
+00 08 00 00 00 01 00 00 01 00 00 00 00 A0 05 3E   ...............>
+03 00 00 00 00 A0 05 3E 03 04 00 15 00 04 00 16   .......>........
+00 04 00 19 00 05 00 1A 00 00 04 00 1F 00 BB 49   ...............I
+A9 74 48 F9 40 DB 53 1A 79 D0 24 EB 9E 86 C1 02   .tH.@.S.y.$.....
+| 10-16-2017 | 11:51:18.661 | 4183 | 5 |        tw2cmd.c |  973 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT | thinWireVersion = 2 TW2VersionIncrement=1
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c |  993 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT|TT_TW2_PROTOCOL | tw2ColorMode = 5 (RGB 24 bpp)
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1016 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT | pInst->colorMode = 7
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1039 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT | session width = 1440, height = 830 
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1055 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT|TT_TW2_PROTOCOL | pCache->cachePower = 23 
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1066 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT|TT_TW2_PROTOCOL | pCache->handlePower = 15
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1077 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT|TT_TW2_PROTOCOL | pCache->maxObjectLength = 697002
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1100 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT|TT_TW2_PROTOCOL | DiskCache disabled: pCache->minDiskObjectLength = 0 
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1109 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT|TT_TW2_PROTOCOL | pCache->initialSeedValue = 0 
+| 10-16-2017 | 11:51:18.662 | 4183 | 5 |        tw2cmd.c | 1115 |      Tw2CmdInit |    TC_TW | TT_TW2_CONNECT | pCache->maxMemoryAllocationPower = 30 
+| 10-16-2017 | 11:51:18.689 | 4183 | 5 |        tw2cmd.c |  861 |  SendAckTw2Init |    TC_TW | TT_TW2_ENTRY_EXIT1 | SendAckTw2Init entered: Send COMMAND_TW2_C2S_ACK_TW2_INIT
+| 10-16-2017 | 11:51:18.689 | 4183 | 5 |        tw2cmd.c |  878 |  SendAckTw2Init |    TC_TW | TT_TW2_ENTRY_EXIT1 | SendAckTw2Init finished
+| 10-16-2017 | 11:51:24.372 | 4183 | 3 | ICAClientAudioController.m |  477 | -[ICAClientAudioController processInitRequest:] |   TC_CAM |     TT_API3 | Received CAM_COMMAND_INIT: Command: 0, audioCapabilities: 1
+| 10-16-2017 | 11:51:24.372 | 4183 | 2 | ICAUSBVirtualChannel.m |  505 | -[ICAUSBVirtualChannel processBindRequest:withReader:] |  TC_GUSB |     TT_API1 | Received CMD_BIND_REQUEST_H2C: ByteCount: 29, Command: 0, DeviceId: 0
+| 10-16-2017 | 11:51:24.374 | 4183 | 2 | ICAUSBVirtualChannel.m |  677 | -[ICAUSBVirtualChannel parseCapabilities:packetHeader:usingBlock:] |  TC_GUSB |     TT_API1 | CMD_BIND_REQUEST_H2C.Capabilities: ByteCount: 20
+| 10-16-2017 | 11:51:24.374 | 4183 | 2 | ICAUSBVirtualChannel.m |  515 | __54-[ICAUSBVirtualChannel processBindRequest:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_REQUEST_H2C.Capabilities[0]: ByteCount: 0, CapabilityId: CAP_ISO_SUPPORTED
+| 10-16-2017 | 11:51:24.374 | 4183 | 2 | ICAUSBVirtualChannel.m |  515 | __54-[ICAUSBVirtualChannel processBindRequest:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_REQUEST_H2C.Capabilities[1]: ByteCount: 0, CapabilityId: CAP_HINT_AVOID_ISO_VIDEO
+| 10-16-2017 | 11:51:24.374 | 4183 | 2 | ICAUSBVirtualChannel.m |  515 | __54-[ICAUSBVirtualChannel processBindRequest:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_REQUEST_H2C.Capabilities[2]: ByteCount: 0, CapabilityId: CAP_HINT_AVOID_STILL_IMAGE
+| 10-16-2017 | 11:51:24.374 | 4183 | 2 | ICAUSBVirtualChannel.m |  515 | __54-[ICAUSBVirtualChannel processBindRequest:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_REQUEST_H2C.Capabilities[3]: ByteCount: 0, CapabilityId: CAP_OPTIMIZED_VC_DEVICE
+| 10-16-2017 | 11:51:24.374 | 4183 | 2 | ICAUSBVirtualChannel.m |  515 | __54-[ICAUSBVirtualChannel processBindRequest:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_REQUEST_H2C.Capabilities[4]: ByteCount: 0, CapabilityId: CAP_DDC_USB_DEVICE_RULE
+| 10-16-2017 | 11:51:24.375 | 4183 | 2 | ICAUSBVirtualChannel.m |  201 | -[ICAUSBVirtualChannel traceBindResponsePacket:] |  TC_GUSB |     TT_API1 | Sending CMD_BIND_RESPONSE_C2H: ByteCount: 25, Command: 1, DeviceId: 0
+| 10-16-2017 | 11:51:24.375 | 4183 | 2 | ICAUSBVirtualChannel.m |  205 | -[ICAUSBVirtualChannel traceBindResponsePacket:] |  TC_GUSB |     TT_API1 | CMD_BIND_RESPONSE_C2H.Capabilities: ByteCount: 16
+| 10-16-2017 | 11:51:24.375 | 4183 | 2 | ICAUSBVirtualChannel.m |  214 | -[ICAUSBVirtualChannel traceBindResponsePacket:] |  TC_GUSB |     TT_API1 | CMD_BIND_RESPONSE_C2H.Capabilities[0]: ByteCount: 0, CapabilityId: CAP_ISO_SUPPORTED
+| 10-16-2017 | 11:51:24.375 | 4183 | 2 | ICAUSBVirtualChannel.m |  214 | -[ICAUSBVirtualChannel traceBindResponsePacket:] |  TC_GUSB |     TT_API1 | CMD_BIND_RESPONSE_C2H.Capabilities[0]: ByteCount: 0, CapabilityId: CAP_HINT_AVOID_ISO_VIDEO
+| 10-16-2017 | 11:51:24.375 | 4183 | 2 | ICAUSBVirtualChannel.m |  214 | -[ICAUSBVirtualChannel traceBindResponsePacket:] |  TC_GUSB |     TT_API1 | CMD_BIND_RESPONSE_C2H.Capabilities[0]: ByteCount: 0, CapabilityId: CAP_OPTIMIZED_VC_DEVICE
+| 10-16-2017 | 11:51:24.375 | 4183 | 2 | ICAUSBVirtualChannel.m |  214 | -[ICAUSBVirtualChannel traceBindResponsePacket:] |  TC_GUSB |     TT_API1 | CMD_BIND_RESPONSE_C2H.Capabilities[0]: ByteCount: 0, CapabilityId: CAP_DDC_USB_DEVICE_RULE
+| 10-16-2017 | 11:51:24.422 | 4183 | 6 | ICAUSBVirtualChannel.m |  549 | -[ICAUSBVirtualChannel processBindCommit:withReader:] |  TC_GUSB |     TT_API1 | Received CMD_BIND_COMMIT_H2C: ByteCount: 196, Command: 2, DeviceId: 0
+| 10-16-2017 | 11:51:24.422 | 4183 | 6 | ICAUSBVirtualChannel.m |  677 | -[ICAUSBVirtualChannel parseCapabilities:packetHeader:usingBlock:] |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities: ByteCount: 187
+| 10-16-2017 | 11:51:24.422 | 4183 | 6 | ICAUSBVirtualChannel.m |  556 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[0]: ByteCount: 0, CapabilityId: CAP_ISO_SUPPORTED
+| 10-16-2017 | 11:51:24.422 | 4183 | 6 | ICAUSBVirtualChannel.m |  556 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[1]: ByteCount: 0, CapabilityId: CAP_HINT_AVOID_ISO_VIDEO
+| 10-16-2017 | 11:51:24.422 | 4183 | 6 | ICAUSBVirtualChannel.m |  556 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[2]: ByteCount: 5, CapabilityId: CAP_OPTIMIZED_VC_DEVICE
+| 10-16-2017 | 11:51:24.422 | 4183 | 6 | ICAUSBVirtualChannel.m |  628 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[2]: OptimizedDeviceClassCount: 4
+| 10-16-2017 | 11:51:24.422 | 4183 | 6 | ICAUSBVirtualChannel.m |  645 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[2].OptimizedDeviceClass[0]: 0x7
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  645 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[2].OptimizedDeviceClass[1]: 0x8
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  645 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[2].OptimizedDeviceClass[2]: 0xe
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  645 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[2].OptimizedDeviceClass[3]: 0x1
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  556 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3]: ByteCount: 166, CapabilityId: CAP_DDC_USB_DEVICE_RULE
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  576 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3]: RuleCount: 11
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[0]: ByteCount=14, Allow=0, Flags=0x00000041, DeviceClass=01, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[1]: ByteCount=14, Allow=0, Flags=0x00000008, DeviceClass=00, Subclass=00, Protocol=00, Vendor=17e9, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[2]: ByteCount=14, Allow=0, Flags=0x00000001, DeviceClass=02, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[3]: ByteCount=14, Allow=0, Flags=0x00000001, DeviceClass=09, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[4]: ByteCount=14, Allow=0, Flags=0x00000001, DeviceClass=0a, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[5]: ByteCount=14, Allow=0, Flags=0x00000001, DeviceClass=0b, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[6]: ByteCount=14, Allow=0, Flags=0x00000001, DeviceClass=e0, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[7]: ByteCount=14, Allow=0, Flags=0x00000003, DeviceClass=ef, Subclass=04, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[8]: ByteCount=14, Allow=1, Flags=0x00000000, DeviceClass=00, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[9]: ByteCount=14, Allow=0, Flags=0x0000003f, DeviceClass=00, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.423 | 4183 | 6 | ICAUSBVirtualChannel.m |  597 | __53-[ICAUSBVirtualChannel processBindCommit:withReader:]_block_invoke |  TC_GUSB |     TT_API1 | CMD_BIND_COMMIT_H2C.Capabilities[3].Rule[10]: ByteCount=14, Allow=0, Flags=0x0000003f, DeviceClass=00, Subclass=00, Protocol=00, Vendor=0000, Product=0000, Release=0000
+| 10-16-2017 | 11:51:24.505 | 4183 | 5 |       scrmcxt.c |  303 | SCVD_Cmd_ReleaseContextRequest | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_RELEASE_CONTEXT_REQUEST command
+| 10-16-2017 | 11:51:24.505 | 4183 | 5 |       scrmcxt.c |  495 | SCVD_Cmd_ReleaseContextRequest | TC_SCARDVD |     TT_API3 | Sending SCARDVD_CMD_RELEASE_CONTEXT_REPLY command
+| 10-16-2017 | 11:51:24.984 | 4183 | 2 | ICAControlChannelMessageHandler.m |  298 | -[ICAControlChannelMessageHandler handleBindRequest:] |   TC_CTL |     TT_API3 | ICAControlChannelController received ICACC_BIND_REQUEST with capabilities: (
+    "ICAControlChannelCapability {Version Version:1}",
+    "ICAControlChannelCapability {Encoding EncodingType:1 EncodingCodePage:1252}",
+    "ICAControlChannelCapability {LaunchParameters MaxCommandLine:17000 MaxEnvironmentBlock:2048}",
+    "ICAControlChannelCapability {GenericParameters MaxGenericBlocks:8 MaxGenericBlockSize:4096}",
+    "ICAControlChannelCapability {SFTA SFTA_Level:1}",
+    "ICAControlChannelCapability {SFTA_EX SFTAEx_Level:1}",
+    "ICAControlChannelCapability {InitialProgram fInitialProgram:1}",
+    "ICAControlChannelCapability {PNP PNP_Level:2}",
+    "ICAControlChannelCapability {SessionEvent}",
+    "ICAControlChannelCapability {Unknown type:0 size:8}"
+)
+| 10-16-2017 | 11:51:24.984 | 4183 | 2 | ICAWireWriter+ICAControlChannelAdditions.m |   36 | -[ICAWireWriter(ICAControlChannelAdditions) writeControlChannelBindResponseWithCapabilities:] |   TC_CTL |     TT_API3 | Sending ICACC_BIND_RESPONSE with ByteCount: 68, commmand: 1
+| 10-16-2017 | 11:51:25.018 | 4183 | 2 | ICAControlChannelMessageHandler.m |  311 | -[ICAControlChannelMessageHandler handleBindCommit:] |   TC_CTL |     TT_API3 | ICAControlChannelController received ICACC_BIND_COMMIT request with capabilities: (
+    "ICAControlChannelCapability {Version Version:1}",
+    "ICAControlChannelCapability {Encoding EncodingType:2 EncodingCodePage:1252}",
+    "ICAControlChannelCapability {LaunchParameters MaxCommandLine:17000 MaxEnvironmentBlock:2048}",
+    "ICAControlChannelCapability {SFTA SFTA_Level:1}",
+    "ICAControlChannelCapability {SFTA_EX SFTAEx_Level:1}",
+    "ICAControlChannelCapability {InitialProgram fInitialProgram:0}",
+    "ICAControlChannelCapability {PNP PNP_Level:2}",
+    "ICAControlChannelCapability {SessionEvent}"
+)
+| 10-16-2017 | 11:51:25.018 | 4183 | 2 | ICAControlChannelMessageHandler.m |  553 | -[ICAControlChannelMessageHandler handleSessionEvent:] |   TC_CTL |     TT_API3 | ICAControlChannelController received ICACC_SESSION_EVENT
+| 10-16-2017 | 11:51:25.714 | 4183 | 3 | ICAClientAudioController.m | 1030 | -[ICAClientAudioController processCapabilityInfoRequest:forDevice:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_REQUEST_CAPINFO request: <command=5, deviceId=1, numFormatIds=69, offset=6 <0x1,0x0>,<0x1,0x1>,<0x1,0x2>,<0x1,0x3>,<0x1,0x10>,<0x1,0x11>,<0x1,0x12>,<0x1,0x13>,<0x1,0x100>,<0x1,0x101>,<0x1,0x102>,<0x1,0x103>,<0x1,0x110>,<0x1,0x111>,<0x1,0x112>,<0x1,0x113>,<0x2,0x0>,<0x2,0x1>,<0x2,0x2>,<0x2,0x3>,<0x2,0x10>,<0x2,0x11>,<0x2,0x12>,<0x2,0x13>,<0x3,0x0>,<0x5,0x10>,<0x5,0x11>,<0x5,0x12>,<0x5,0x13>,<0x5,0x14>,<0x5,0x15>,<0x5,0x16>,<0x5,0x17>,<0x5,0x18>,<0x5,0x19>,<0x5,0x1a>,<0x5,0x110>,<0x5,0x111>,<0x5,0x112>,<0x5,0x113>,<0x5,0x114>,<0x5,0x115>,<0x5,0x116>,<0x5,0x117>,<0x5,0x118>,<0x5,0x119>,<0x5,0x11a>,<0x4,0x10>,<0x4,0x20>,<0x4,0x11>,<0x4,0x21>,<0x4,0x12>,<0x4,0x22>,<0x4,0x13>,<0x4,0x23>,<0x4,0x14>,<0x4,0x24>,<0x4,0x15>,<0x4,0x25>,<0x4,0x16>,<0x4,0x26>,<0x4,0x17>,<0x4,0x27>,<0x4,0x18>,<0x4,0x28>,<0x4,0x19>,<0x4,0x29>,<0x4,0x1a>,<0x4,0x2a>> for deviceId: 1, device state: 0, isInput: 0
+| 10-16-2017 | 11:51:25.722 | 4183 | 3 | ICAClientAudioController.m | 1046 | -[ICAClientAudioController processCapabilityInfoRequest:forDevice:] |   TC_CAM |     TT_API3 | Sending CAM_COMMAND_CAPABILITY_INFO response: <command=130, deviceId=1, numFormatIds=60, offset=6 <0x1,0x0>,<0x1,0x1>,<0x1,0x2>,<0x1,0x3>,<0x1,0x10>,<0x1,0x11>,<0x1,0x12>,<0x1,0x13>,<0x1,0x100>,<0x1,0x101>,<0x1,0x102>,<0x1,0x103>,<0x1,0x110>,<0x1,0x111>,<0x1,0x112>,<0x1,0x113>,<0x5,0x10>,<0x5,0x11>,<0x5,0x12>,<0x5,0x13>,<0x5,0x14>,<0x5,0x15>,<0x5,0x16>,<0x5,0x17>,<0x5,0x18>,<0x5,0x19>,<0x5,0x1a>,<0x5,0x110>,<0x5,0x111>,<0x5,0x112>,<0x5,0x113>,<0x5,0x114>,<0x5,0x115>,<0x5,0x116>,<0x5,0x117>,<0x5,0x118>,<0x5,0x119>,<0x5,0x11a>,<0x4,0x10>,<0x4,0x20>,<0x4,0x11>,<0x4,0x21>,<0x4,0x12>,<0x4,0x22>,<0x4,0x13>,<0x4,0x23>,<0x4,0x14>,<0x4,0x24>,<0x4,0x15>,<0x4,0x25>,<0x4,0x16>,<0x4,0x26>,<0x4,0x17>,<0x4,0x27>,<0x4,0x18>,<0x4,0x28>,<0x4,0x19>,<0x4,0x29>,<0x4,0x1a>,<0x4,0x2a>> for channelId: 20
+| 10-16-2017 | 11:51:25.722 | 4183 | 3 | ICAClientAudioController.m | 1030 | -[ICAClientAudioController processCapabilityInfoRequest:forDevice:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_REQUEST_CAPINFO request: <command=5, deviceId=2, numFormatIds=69, offset=6 <0x1,0x0>,<0x1,0x1>,<0x1,0x2>,<0x1,0x3>,<0x1,0x10>,<0x1,0x11>,<0x1,0x12>,<0x1,0x13>,<0x1,0x100>,<0x1,0x101>,<0x1,0x102>,<0x1,0x103>,<0x1,0x110>,<0x1,0x111>,<0x1,0x112>,<0x1,0x113>,<0x2,0x0>,<0x2,0x1>,<0x2,0x2>,<0x2,0x3>,<0x2,0x10>,<0x2,0x11>,<0x2,0x12>,<0x2,0x13>,<0x3,0x0>,<0x5,0x10>,<0x5,0x11>,<0x5,0x12>,<0x5,0x13>,<0x5,0x14>,<0x5,0x15>,<0x5,0x16>,<0x5,0x17>,<0x5,0x18>,<0x5,0x19>,<0x5,0x1a>,<0x5,0x110>,<0x5,0x111>,<0x5,0x112>,<0x5,0x113>,<0x5,0x114>,<0x5,0x115>,<0x5,0x116>,<0x5,0x117>,<0x5,0x118>,<0x5,0x119>,<0x5,0x11a>,<0x4,0x10>,<0x4,0x20>,<0x4,0x11>,<0x4,0x21>,<0x4,0x12>,<0x4,0x22>,<0x4,0x13>,<0x4,0x23>,<0x4,0x14>,<0x4,0x24>,<0x4,0x15>,<0x4,0x25>,<0x4,0x16>,<0x4,0x26>,<0x4,0x17>,<0x4,0x27>,<0x4,0x18>,<0x4,0x28>,<0x4,0x19>,<0x4,0x29>,<0x4,0x1a>,<0x4,0x2a>> for deviceId: 2, device state: 0, isInput: 1
+| 10-16-2017 | 11:51:25.948 | 4183 | 3 | ICAClientAudioController.m | 1046 | -[ICAClientAudioController processCapabilityInfoRequest:forDevice:] |   TC_CAM |     TT_API3 | Sending CAM_COMMAND_CAPABILITY_INFO response: <command=130, deviceId=2, numFormatIds=60, offset=6 <0x1,0x0>,<0x1,0x1>,<0x1,0x2>,<0x1,0x3>,<0x1,0x10>,<0x1,0x11>,<0x1,0x12>,<0x1,0x13>,<0x1,0x100>,<0x1,0x101>,<0x1,0x102>,<0x1,0x103>,<0x1,0x110>,<0x1,0x111>,<0x1,0x112>,<0x1,0x113>,<0x5,0x10>,<0x5,0x11>,<0x5,0x12>,<0x5,0x13>,<0x5,0x14>,<0x5,0x15>,<0x5,0x16>,<0x5,0x17>,<0x5,0x18>,<0x5,0x19>,<0x5,0x1a>,<0x5,0x110>,<0x5,0x111>,<0x5,0x112>,<0x5,0x113>,<0x5,0x114>,<0x5,0x115>,<0x5,0x116>,<0x5,0x117>,<0x5,0x118>,<0x5,0x119>,<0x5,0x11a>,<0x4,0x10>,<0x4,0x20>,<0x4,0x11>,<0x4,0x21>,<0x4,0x12>,<0x4,0x22>,<0x4,0x13>,<0x4,0x23>,<0x4,0x14>,<0x4,0x24>,<0x4,0x15>,<0x4,0x25>,<0x4,0x16>,<0x4,0x26>,<0x4,0x17>,<0x4,0x27>,<0x4,0x18>,<0x4,0x28>,<0x4,0x19>,<0x4,0x29>,<0x4,0x1a>,<0x4,0x2a>> for channelId: 20
+| 10-16-2017 | 11:51:28.876 | 4183 | 5 |       scrmcxt.c |   58 | SCVD_Cmd_EstablishContextRequest | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_ESTABLISH_CONTEXT_REQUEST command
+| 10-16-2017 | 11:51:28.876 | 4183 | 5 |       scrmcxt.c |  257 | SCVD_Cmd_EstablishContextRequest | TC_SCARDVD |     TT_API3 | Sending SCARDVD_CMD_ESTABLISH_CONTEXT_REPLY Command
+| 10-16-2017 | 11:51:28.910 | 4183 | 5 |       scdbqry.c | 1720 | SCVD_Cmd_ListReadersRequest | TC_SCARDVD |     TT_API3 | Received SCARDVD_CMD_LIST_READERS_REQUEST command
+| 10-16-2017 | 11:51:28.911 | 4183 | 5 |       scdbqry.c | 2087 | SCVD_Cmd_ListReadersRequest | TC_SCARDVD |     TT_API3 | Sending SCARDVD_CMD_LIST_READERS_REPLY command
+| 10-16-2017 | 11:52:04.885 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 15
+| 10-16-2017 | 11:52:06.106 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 16
+| 10-16-2017 | 11:52:15.358 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 18
+| 10-16-2017 | 11:52:17.619 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 29
+| 10-16-2017 | 11:52:19.804 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 32
+| 10-16-2017 | 11:52:27.818 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 22
+| 10-16-2017 | 11:52:29.771 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 16
+| 10-16-2017 | 11:52:35.740 | 4183 | 3 | ICAClientAudioController.m |  526 | -[ICAClientAudioController processOpenRequest:forDevice:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_OPEN for device id: 1, device state: 0, isInput: 0
+| 10-16-2017 | 11:52:35.766 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 2 isInput: 0
+| 10-16-2017 | 11:52:35.767 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.768 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.791 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.791 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.808 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.825 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.842 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.861 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.893 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.910 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.928 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.944 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.963 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:35.998 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.012 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.029 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.046 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.063 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.080 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.098 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.131 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.148 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.166 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.182 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.199 | 4183 | 3 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.216 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.250 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.267 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.285 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.301 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.318 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.335 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.370 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.387 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.404 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.420 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.437 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.471 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.488 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.505 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.523 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.539 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.556 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.591 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.607 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.624 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.641 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.659 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.675 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.709 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.726 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.743 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.761 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.777 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.811 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.828 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.846 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.863 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.879 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.913 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.931 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.947 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.964 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:36.981 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.015 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.033 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.050 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.067 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.083 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.100 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.117 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.151 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.168 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.186 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.202 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:37.219 | 4183 | 7 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:52:38.638 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 13
+| 10-16-2017 | 11:52:43.253 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 25
+| 10-16-2017 | 11:52:44.646 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 18
+| 10-16-2017 | 11:52:46.719 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 18
+| 10-16-2017 | 11:52:59.748 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 18
+| 10-16-2017 | 11:53:02.288 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 11:53:05.362 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 11:53:13.441 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 11:53:36.061 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:36.085 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:36.141 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:36.204 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:36.213 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:36.280 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:36.364 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:36.605 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:37.142 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 26
+| 10-16-2017 | 11:53:38.254 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 29
+| 10-16-2017 | 11:53:39.955 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 29
+| 10-16-2017 | 11:54:24.166 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 29
+| 10-16-2017 | 11:54:25.463 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 20
+| 10-16-2017 | 11:54:35.321 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 20
+| 10-16-2017 | 11:54:42.740 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 22
+| 10-16-2017 | 11:54:52.366 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 22
+| 10-16-2017 | 11:54:54.756 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 22
+| 10-16-2017 | 11:55:09.372 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 40
+| 10-16-2017 | 11:55:28.364 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 19
+| 10-16-2017 | 11:55:29.455 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 19
+| 10-16-2017 | 11:55:30.312 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 19
+| 10-16-2017 | 11:55:49.772 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 20
+| 10-16-2017 | 11:56:09.122 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 18
+| 10-16-2017 | 11:56:27.275 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 21
+| 10-16-2017 | 11:56:32.278 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 21
+| 10-16-2017 | 11:56:33.012 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 21
+| 10-16-2017 | 11:56:37.609 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 21
+| 10-16-2017 | 11:56:38.450 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 17
+| 10-16-2017 | 11:56:39.954 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 17
+| 10-16-2017 | 11:58:00.318 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 544
+| 10-16-2017 | 11:58:04.333 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 900
+| 10-16-2017 | 11:58:29.925 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 2190
+| 10-16-2017 | 11:58:31.041 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:34.432 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.820 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.829 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.836 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.844 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.852 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.860 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.868 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.877 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.885 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.893 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.900 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.909 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.916 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.932 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:35.964 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:58:36.020 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 11:59:17.944 | 4183 | 8 | ICAClientAudioController.m |  526 | -[ICAClientAudioController processOpenRequest:forDevice:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_OPEN for device id: 1, device state: 0, isInput: 0
+| 10-16-2017 | 11:59:17.971 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 2 isInput: 0
+| 10-16-2017 | 11:59:17.972 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:17.972 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:17.972 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:17.978 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.012 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.013 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.031 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.063 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.079 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.097 | 4183 | 8 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.113 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.131 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.165 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.181 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.199 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.216 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.233 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.267 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.284 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.300 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.318 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.335 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.351 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.386 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.402 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.420 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.437 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.454 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.472 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.505 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.522 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.538 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.556 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.573 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.607 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.624 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.640 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.657 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.675 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.692 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.726 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.743 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.760 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.776 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.794 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.811 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.845 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.862 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.878 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.895 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.913 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.947 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.964 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.981 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:18.998 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.014 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.049 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.066 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.083 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.099 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.117 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.134 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.168 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.185 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.202 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.219 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.253 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.254 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.287 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.303 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.321 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.338 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.354 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.372 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.406 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:19.423 | 4183 | 9 | ICAClientAudioController.m |  631 | -[ICAClientAudioController processWriteRequest:forDevice:numAcksToReturn:] |   TC_CAM |     TT_API3 | ICAClientAudioController received CAM_COMMAND_WRITE for device with deviceId: 1, device state: 3 isInput: 0
+| 10-16-2017 | 11:59:30.282 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 15
+| 10-16-2017 | 11:59:32.435 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 15
+| 10-16-2017 | 11:59:39.663 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 25
+| 10-16-2017 | 11:59:53.408 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 25
+| 10-16-2017 | 12:00:28.732 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 12
+| 10-16-2017 | 12:01:01.375 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 12:01:02.640 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 12:01:07.990 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 12:01:17.159 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 23
+| 10-16-2017 | 12:02:31.350 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 1085
+| 10-16-2017 | 12:02:32.803 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 877
+| 10-16-2017 | 12:02:36.550 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 2161
+| 10-16-2017 | 12:02:38.266 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 29
+| 10-16-2017 | 12:02:38.810 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 611
+| 10-16-2017 | 12:02:41.972 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 1220
+| 10-16-2017 | 12:02:43.761 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 779
+| 10-16-2017 | 12:03:13.571 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 18
+| 10-16-2017 | 12:04:38.415 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 16
+| 10-16-2017 | 12:04:42.655 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 37
+| 10-16-2017 | 12:04:45.192 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 37
+| 10-16-2017 | 12:04:46.450 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 37
+| 10-16-2017 | 12:04:56.181 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 37
+| 10-16-2017 | 12:05:00.325 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 12:05:03.168 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 12:05:05.208 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 12:05:09.197 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 12:05:10.614 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 12:05:13.011 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 14
+| 10-16-2017 | 12:05:19.305 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 25
+| 10-16-2017 | 12:05:21.846 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 25
+| 10-16-2017 | 12:05:23.207 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 25
+| 10-16-2017 | 12:05:56.781 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 25
+| 10-16-2017 | 12:06:11.337 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 33
+| 10-16-2017 | 12:06:11.989 | 4183 | 1 |         chmon.c | 1006 |   icmGetLatency |    TC_WD |     TT_API1 | Channel monitoring: Last latency 33
+| 10-16-2017 | 13:00:42.278 | 4183 | 4 |       wengine.c | 2585 |   StatusMsgProc |  TC_WENG |     TT_API1 | Session Reliability Enabled: Trying to reconnect session
+| 10-16-2017 | 13:00:42.282 | 4183 | 1 | ICAReconnectController.m |  639 | -[ICAReconnectController reconnectResult:] | TC_RECONNECT |     TT_API1 | Auto reconnect completed with result: ReconnectResultTimedOutDuringSleep (5), reconnect seconds remaining: 0
+| 10-16-2017 | 13:00:51.212 | 4183 | 4 |     tdwinsock.c |  690 | Td_DeviceDisconnect |    TC_TD |     TT_API3 | TD Device Disconnect Sent. 
+| 10-16-2017 | 13:00:51.386 | 4183 | 1 |        logapi.m |  627 |        LogClose |     none |        none | LOG STOP

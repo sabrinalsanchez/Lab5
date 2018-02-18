@@ -1,0 +1,128 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "#slogan"     : "Help young Finn and princess Dahla reunite in love!",
+    "title_short"  : "Kingdom Tales 2",
+    "title_GN"    : "Kingdom Tales 2",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id1045454732?mt=12",
+      "full"      : "http://itunes.apple.com/app/id1045463778?mt=12"
+    },
+    "#youtube_id"  : "A0pFB6QD66A",
+    "article span"  : "Join Finn&apos;s quest to make the best contribution to the expansion of King Arnor&apos;s great kingdom and help him to reunite with his beloved Princess Dahla in this exciting time management adventure!<br />
+<ul>
+<li>Find your way to glory through 40 exciting levels </li>
+<li>Explore nine picturesque locations</li>
+<li>Meet 11 unique characters</li>
+<li>Play three difficulty modes: relaxed, normal and extreme </li>
+<li>Enjoy HD visuals in a highly detailed environment</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "#slogan"     : "Führe zwei Liebende, den jungen Finn und Prinzessin Dahla, wieder zusammen!",
+    "title_short"  : "Kingdom Tales 2",
+    "title_GN"    : "Kingdom Tales 2",
+    "article span"  : "Begleite Finn auf seiner Mission, den besten Beitrag zur Entwicklung des großartigen Königreichs von König Arnor zu leisten. Hilf ihm in diesem aufregenden Zeitmanagement-Abenteuer dabei, wieder mit seiner geliebten Prinzessin Dahla vereint zu sein!<br />
+<ul>
+<li>Entdecke durch 40 spannende Level den Weg zum Ruhm</li>
+<li>Erkunde neun malerische Orte</li>
+<li>Triff 11 einmalige Charaktere</li>
+<li>Spiele drei Schwierigkeitsmodi: entspannt, normal oder extrem</li>
+<li>Genieße HD-Grafiken und eine äußerst detailgetreue Umgebung</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "#slogan"     : "Finn y la princesa Dahla son dos jóvenes enamorados: ¡ayúdales a reunirse!",
+    "title_short"  : "Kingdom Tales 2",
+    "title_GN"    : "Kingdom Tales 2",
+    "article span"  : "¡Únete a Finn en su misión por realizar la mayor contribución a la expansión del gran reino del monarca Arnor, y ayúdalo a reunirse con su amada princesa Dahla en esta emocionante aventura de gestión del tiempo!<br />
+<ul>
+<li>Alcanza la gloria a través de 40 emocionantes niveles</li>
+<li>Explora nueve pintorescas escenas</li>
+<li>Conoce a 11 personajes únicos</li>
+<li>Juega con tres modos de dificultad: relajado, normal y extremo</li>
+<li>Disfruta de gráficos HD en un entorno detalladísimo</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "#slogan"     : "Aidez le jeune Finn à retrouver sa bien-aimée, la princesse Dahla !",
+    "title_short"  : "Kingdom Tales 2",
+    "title_GN"    : "Kingdom Tales 2",
+    "article span"  : "Embarquez pour une incroyable aventure de gestion de temps dans laquelle vous devrez aider Finn à agrandir le royaume du roi Arnor et à gagner ainsi la main de sa bien-aimée, la princesse Dahla !<br />
+<ul>
+<li>Frayez-vous un chemin à travers 40 niveaux passionnants</li>
+<li>Explorez neuf lieux pittoresques</li>
+<li>Faites la connaissance de 11 personnages uniques en leur genre</li>
+<li>Découvrez trois modes de difficulté : détente, normal et extrême</li>
+<li>Contemplez de superbes visuels HD dans un environnement incroyablement détaillé</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "#slogan"     : "Aiuta il giovane Finn e la principessa Dahla a coronare il loro sogno d&apos;amore!",
+    "title_short"  : "Kingdom Tales 2",
+    "title_GN"    : "Kingdom Tales 2",
+    "article span"  : "Aiuta Finn a offrire il contributo maggiore all&apos;espansione del grande regno di re Arnor per aiutarlo a ottenere la mano della sua amata principessa Dahla in questa emozionante avventura a gestione del tempo!<br />
+<ul>
+<li>Raggiungi la gloria completando 40 livelli elettrizzanti</li>
+<li>Esplora nove ambientazioni pittoresche</li>
+<li>Incontra 11 personaggi unici</li>
+<li>Gioca con tre livelli di difficoltà: rilassato, normale ed estremo</li>
+<li>Goditi la grafica ad alta definizione e gli ambienti dettagliati</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Королевские сказки 2",
+    "#slogan"     : "Помогите юному Финну воссоединиться со своей возлюбленной принцессой Даллой!",
+    "title_short"  : "Королевские сказки 2",
+    "title_GN"    : "Королевские сказки 2",
+    "article span"  : "Помогите влюбленному кузнецу справиться с королевскими заданиями и воссоединиться со своей возлюбленной принцессой Даллой в захватывающем приключении в жанре тайм-менеджмент!<br />
+<ul>
+<li>Пройдите 40 захватывающих уровней и найдите собственный путь к славе</li>
+<li>Исследуйте 9 живописных локаций</li>
+<li>Познакомьтесь с 11 уникальными персонажами</li>
+<li>Три режима сложности: спокойный, нормальный, экстремальный</li>
+<li>Оцените всю красоту и зрелищность сказочного мира с высокой четкостью HD-графики</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Королевские сказки 2<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "title_short"  : "Kingdom Tales 2",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>undefined:</h3>"
+  },
+  "lang.zh_tw"    :
+  {
+    "title"       : "Kingdom Tales 2",
+    "title_short"  : "Kingdom Tales 2",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "title_short"  : "Kingdom Tales 2",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Kingdom Tales 2",
+    "title_short"  : "Kingdom Tales 2",
+    "ct"          : "<h3 style='text-align: center;'>Kingdom Tales 2<br>undefined:</h3>"
+  }
+}

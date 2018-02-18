@@ -1,0 +1,98 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Nightmares from the Deep: The Cursed Heart",
+    "#slogan"     : "Set sail on a pirate adventure!",
+    "title_short"  : "Nightmares",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id572518627?mt=12",
+      "full"      : "http://itunes.apple.com/app/id572515682?mt=12"
+    },
+    "#youtube_id"  : "7qGcpHIhcHo",
+    "article span"  : "Set sail on a mind-boggling pirate adventure!<br />Travel through haunting seas, ruined fortresses, and bone-covered catacombs as you uncover secrets from the past!
+<ul>
+<li>45 Seaworthy and landlubber locations to explore</li>
+<li>39 Unique Hidden Object Scenes</li>
+<li>16 Intriguing mini-games</li>
+<li>In-depth Strategy Guide</li>
+<li>Hauntingly majestic scenery</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Nightmares from the Deep: The Cursed Heart<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Nightmares from the Deep: The Cursed Heart",
+    "#slogan"     : "Setz die Segel zu einem Piratenabenteuer!",
+    "title_short"  : "Nightmares",
+    "article span"  : "Setz die Segel zu diesem verrückten Piratenabenteuer!<br />Befahre Meere, auf denen es spukt, reise zu Festungsruinen und Katakomben voller Knochen, während du die Geheimnisse der Vergangenheit aufdeckst!
+<ul>
+<li>45 Schauplätze zum Entdecken für Seetüchtige und Landratten</li>
+<li>39 Einzigartige Wimmelbildszenen</li>
+<li>16 Faszinierende Minispiele</li>
+<li>Ausführlicher Strategieleitfaden</li>
+<li>Eindrucksvoll imposante Kulissen</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Nightmares from the Deep: The Cursed Heart<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Nightmares from the Deep: The Cursed Heart",
+    "#slogan"     : "¡Embárcate en una aventura pirata!",
+    "title_short"  : "Nightmares",
+    "article span"  : "¡Embárcate en una alucinante aventura de piratas!<br />¡Viaja a través de inquietos mares, fortalezas en ruinas y catacumbas cubiertas de huesos, mientras descubres los secretos del pasado!
+<ul>
+<li>Para explorar 45 ubicaciones aptas para navegar y para marineros de agua dulce</li>
+<li>39 Escenas únicas de objetos ocultos</li>
+<li>16 Intrigantes mini-juegos</li>
+<li>Guía detallada de estrategia</li>
+<li>Inquietante y majestuoso trama</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Nightmares from the Deep: The Cursed Heart<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Nightmares from the Deep: The Cursed Heart",
+    "#slogan"     : "Embarquez pour une aventure de pirate !",
+    "title_short"  : "Nightmares",
+    "article span"  : "Hissez les voiles et embarquez pour une incroyable aventure de pirates !<br />Parcourez des océans hantés, foulez le sol impie de forteresses en ruine, aventurez-vous dans les profondeurs abyssales de catacombes labyrinthiques jonchées d&apos;ossements et levez le voile sur de mystérieux secrets ancestraux !
+<ul>
+<li>45 Lieux pittoresques à explorer</li>
+<li>39 Scènes uniques truffées d&apos;objets savamment dissimulés</li>
+<li>16 Mini-jeux passionnants</li>
+<li>Guide stratégique détaillé</li>
+<li>Paysages d&apos;une beauté envoûtante</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Nightmares from the Deep: The Cursed Heart<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Nightmares from the Deep: The Cursed Heart",
+    "#slogan"     : "Salpa per un&apos;avventura di pirati!",
+    "title_short"  : "Nightmares",
+    "article span"  : "Fa&apos; vela per una stupefacente avventura pirata!<br />Viaggia per mari tormentati, fortezze in rovina, e catacombe coperte d&apos;ossa mentre sveli i segreti del passato!
+<ul>
+<li>45 Luoghi terrestri e marini da esplorare</li>
+<li>39 Differenti scene a oggetti nascosti</li>
+<li>16 Coinvolgenti mini giochi</li>
+<li>Guida strategica dettagliata</li>
+<li>Paesaggi grandiosamente maestosi</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Nightmares from the Deep: The Cursed Heart<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Кошмары из глубин: Проклятое сердце",
+    "#slogan"     : "Поднять парус! Вас ждет пиратское приключение!",
+    "title_short"  : "Кошмары из глубин",
+    "article span"  : "Поднимите паруса и отправьтесь в умопомрачительное пиратское приключение!<br />Пройдите по призрачным морям, разрушенным крепостям и усыпанным костьми катакомбам в поисках секретов прошлого!
+<ul>
+<li>Детальная графика, которая перенесет вас в мир пиратов</li>
+<li>45 Локаций на суше и на море</li>
+<li>39 Сцен по поиску скрытых предметов</li>
+<li>16 Непростых мини-игр</li>
+<li>Подробное руководство по игре</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Кошмары из глубин: Проклятое сердце<br>выйдет через:</h3>"
+  }
+}

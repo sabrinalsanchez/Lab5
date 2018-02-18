@@ -1,0 +1,4595 @@
+var xpromoGames =
+{
+  "com.g5e.crystalportal2"  :
+  {
+    "date"        : "2010/04/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/04/01"
+  },
+  "com.g5e.crystalportal"  :
+  {
+    "date"        : "2009/12/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/12/23"
+  },
+  "com.g5e.crystalportal.android"  :
+  {
+    "date"        : "2011/08/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/08/18"
+  },
+  "com.g5e.crystalportal.android.amzn.full"  :
+  {
+    "date"        : "2011/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/11/15"
+  },
+  "com.g5e.crystalportal.android.nook.full"  :
+  {
+    "date"        : "2012/04/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/05"
+  },
+  "com.g5e.crystalportal.hd"  :
+  {
+    "date"        : "2010/04/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/04/01"
+  },
+  "com.g5e.mcp2"  :
+  {
+    "date"        : "2010/12/02",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2010/12/02"
+  },
+  "com.g5e.crystalportal2.hd"  :
+  {
+    "date"        : "2010/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/12/06"
+  },
+  "com.g5e.mahjonga1"  :
+  {
+    "date"        : "2009/10/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/10/15"
+  },
+  "com.g5e.mahjonga1.android"  :
+  {
+    "date"        : "2011/06/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/30"
+  },
+  "com.g5e.mahjonga1.android.amzn.full"  :
+  {
+    "date"        : "2011/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/11/15"
+  },
+  "com.g5e.mahjonga1.android.nook.full"  :
+  {
+    "date"        : "2012/04/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/19"
+  },
+  "com.g5e.mahjonga1.hd"  :
+  {
+    "date"        : "2010/05/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/05/26"
+  },
+  "com.g5e.mahjonga2"  :
+  {
+    "date"        : "2009/06/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/06/25"
+  },
+  "com.g5e.mahjonga2.android"  :
+  {
+    "date"        : "2011/06/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/30"
+  },
+  "com.g5e.mahjonga2.android.amzn.full"  :
+  {
+    "date"        : "2011/12/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/22"
+  },
+  "com.g5e.mahjonga2.android.nook.full"  :
+  {
+    "date"        : "2012/06/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/07"
+  },
+  "com.g5e.mahjonga2.hd"  :
+  {
+    "date"        : "2010/04/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/04/03"
+  },
+  "com.g5e.mushroomage"  :
+  {
+    "date"        : "2010/07/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/07/30"
+  },
+  "com.g5e.mushroomage.hd"  :
+  {
+    "date"        : "2010/07/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/07/30"
+  },
+  "com.g5e.paranormal"  :
+  {
+    "date"        : "2010/04/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/04/06"
+  },
+  "com.g5e.paranormal.android"  :
+  {
+    "date"        : "2011/08/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/08/04"
+  },
+  "com.g5e.paranormal.android.amzn.full"  :
+  {
+    "date"        : "2012/01/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/19"
+  },
+  "com.g5e.paranormal.android.nook.full"  :
+  {
+    "date"        : "2012/06/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/21"
+  },
+  "com.g5e.paranormal.hd"  :
+  {
+    "date"        : "2010/05/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/05/20"
+  },
+  "com.g5e.paranormal2.hd"  :
+  {
+    "date"        : "2014/04/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/03"
+  },
+  "com.g5e.romanceofrome"  :
+  {
+    "date"        : "2011/02/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/02/17"
+  },
+  "com.g5e.romanceofrome.hd"  :
+  {
+    "date"        : "2011/02/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/02/17"
+  },
+  "com.g5e.sm"    :
+  {
+    "date"        : "2010/02/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/02/16"
+  },
+  "com.g5e.sm.android"  :
+  {
+    "date"        : "2011/08/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/08/11"
+  },
+  "com.g5e.sm.android.amzn.full"  :
+  {
+    "date"        : "2011/11/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/11/24"
+  },
+  "com.g5e.sm.android.nook.full"  :
+  {
+    "date"        : "2012/08/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/30"
+  },
+  "com.g5e.sm.hd"  :
+  {
+    "date"        : "2010/08/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/08/24"
+  },
+  "com.g5e.sm2"   :
+  {
+    "date"        : "2013/09/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/05"
+  },
+  "com.g5e.sm2.hd"  :
+  {
+    "date"        : "2013/09/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/05"
+  },
+  "com.g5e.smm"   :
+  {
+    "date"        : "2009/03/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/03/09"
+  },
+  "com.g5e.smm.android"  :
+  {
+    "date"        : "2011/06/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/30"
+  },
+  "com.g5e.smm.android.amzn.full"  :
+  {
+    "date"        : "2011/12/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/29"
+  },
+  "com.g5e.smm.android.nook.full"  :
+  {
+    "date"        : "2012/06/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/14"
+  },
+  "com.g5e.smm.hd"  :
+  {
+    "date"        : "2010/07/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/07/13"
+  },
+  "com.g5e.sstory"  :
+  {
+    "date"        : "2009/08/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/08/27"
+  },
+  "com.g5e.sstory.android"  :
+  {
+    "date"        : "2011/06/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/30"
+  },
+  "com.g5e.sstory.android.amzn.full"  :
+  {
+    "date"        : "2011/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/11/15"
+  },
+  "com.g5e.sstory.android.nook.full"  :
+  {
+    "date"        : "2012/09/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/09/10"
+  },
+  "com.g5e.sstory.hd"  :
+  {
+    "date"        : "2010/05/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/05/27"
+  },
+  "com.g5e.standofood"  :
+  {
+    "date"        : "2009/06/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/06/25"
+  },
+  "com.g5e.standofood.android"  :
+  {
+    "date"        : "2011/06/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/30"
+  },
+  "com.g5e.standofood.android.amzn.full"  :
+  {
+    "date"        : "2011/12/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/15"
+  },
+  "com.g5e.standofood.android.nook.full"  :
+  {
+    "date"        : "2012/03/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/29"
+  },
+  "com.g5e.standofood.hd"  :
+  {
+    "date"        : "2010/05/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/05/26"
+  },
+  "com.g5e.standofood3"  :
+  {
+    "date"        : "2011/09/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/15"
+  },
+  "com.g5e.standofood3.hd"  :
+  {
+    "date"        : "2011/09/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/15"
+  },
+  "com.g5e.standofood3.mac"  :
+  {
+    "date"        : "2011/06/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/02"
+  },
+  "com.g5e.standofood3.mac.lite"  :
+  {
+    "date"        : "2011/06/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/02"
+  },
+  "com.g5e.standofood3.android"  :
+  {
+    "date"        : "2011/09/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/15"
+  },
+  "com.g5e.standofood3.android.amzn.full"  :
+  {
+    "date"        : "2012/01/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/13"
+  },
+  "com.g5e.standofood3.android.nook.full"  :
+  {
+    "date"        : "2012/07/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/05"
+  },
+  "com.g5e.standofood3.winrt"  :
+  {
+    "date"        : "2013/03/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/03/01"
+  },
+  "com.g5e.treasures1"  :
+  {
+    "date"        : "2010/10/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/10/27"
+  },
+  "com.g5e.treasures1.hd"  :
+  {
+    "date"        : "2010/10/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/10/27"
+  },
+  "com.g5e.ts2"   :
+  {
+    "date"        : "2011/01/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/13"
+  },
+  "com.g5e.ts2.hd"  :
+  {
+    "date"        : "2011/01/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/13"
+  },
+  "com.g5e.virtualcity"  :
+  {
+    "date"        : "2010/09/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/09/08"
+  },
+  "com.g5e.virtualcity.android"  :
+  {
+    "date"        : "2011/09/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/01"
+  },
+  "com.g5e.virtualcity.android.amzn.full"  :
+  {
+    "date"        : "2011/12/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/01"
+  },
+  "com.g5e.virtualcity.android.nook.full"  :
+  {
+    "date"        : "2012/03/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/22"
+  },
+  "com.g5e.virtualcity.hd"  :
+  {
+    "date"        : "2010/10/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/10/12"
+  },
+  "com.g5e.virtualcity2"  :
+  {
+    "date"        : "2012/04/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/05"
+  },
+  "com.g5e.virtualcity2.hd"  :
+  {
+    "date"        : "2012/04/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/05"
+  },
+  "com.g5e.virtualcity2.mac"  :
+  {
+    "date"        : "2011/10/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/10/06"
+  },
+  "com.g5e.virtualcity2.android"  :
+  {
+    "date"        : "2012/04/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/05"
+  },
+  "com.g5e.virtualcity2.android.amzn.full"  :
+  {
+    "date"        : "2012/04/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/05"
+  },
+  "com.g5e.virtualcity2.android.nook.full"  :
+  {
+    "date"        : "2012/06/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/01"
+  },
+  "com.kranx.yumsters2"  :
+  {
+    "date"        : "2009/08/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/08/27"
+  },
+  "com.realore.aquapearls"  :
+  {
+    "date"        : "2010/10/27",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2010/10/27"
+  },
+  "com.realore.janeshotel"  :
+  {
+    "date"        : "2010/01/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/01/29"
+  },
+  "com.realore.janeszoo"  :
+  {
+    "date"        : "2011/03/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/03/17"
+  },
+  "com.realore.janeszoo.hd"  :
+  {
+    "date"        : "2012/08/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/30"
+  },
+  "com.realore.elvesinc.hd"  :
+  {
+    "date"        : "2010/12/14",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2010/12/14"
+  },
+  "com.realore.elvesinc"  :
+  {
+    "date"        : "2012/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/01/01"
+  },
+  "com.g5e.smm.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.standofood.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.mahjonga1.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.mahjonga2.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.paranormal.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.sstory.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.virtualcity.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.crystalportal.mac"  :
+  {
+    "date"        : "2011/01/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/01/06"
+  },
+  "com.g5e.smm2"  :
+  {
+    "date"        : "2011/05/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/05/12"
+  },
+  "com.g5e.smm2.android"  :
+  {
+    "date"        : "2011/08/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/08/25"
+  },
+  "com.g5e.smm2.android.amzn.full"  :
+  {
+    "date"        : "2012/01/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/26"
+  },
+  "com.g5e.smm2.android.nook.full"  :
+  {
+    "date"        : "2012/08/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/16"
+  },
+  "com.g5e.smm2.hd"  :
+  {
+    "date"        : "2011/05/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/05/12"
+  },
+  "com.g5e.smm2.mac"  :
+  {
+    "date"        : "2011/03/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/03/24"
+  },
+  "com.g5e.smm2.mac.lite"  :
+  {
+    "date"        : "2011/03/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/03/24"
+  },
+  "com.g5e.smm2.winrt"  :
+  {
+    "date"        : "2013/03/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/03/01"
+  },
+  "com.g5e.sm.mac"  :
+  {
+    "date"        : "2011/06/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/09"
+  },
+  "com.g5e.treasures3"  :
+  {
+    "date"        : "2013/10/16",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/10/16"
+  },
+  "com.g5e.treasures3.hd"  :
+  {
+    "date"        : "2013/10/16",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/10/16"
+  },
+  "com.g5e.specialenquiry2.pc"  :
+  {
+    "date"        : "2012/03/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/14"
+  },
+  "com.g5e.specialenquiry2"  :
+  {
+    "date"        : "2013/05/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/07"
+  },
+  "com.g5e.specialenquiry2.hd"  :
+  {
+    "date"        : "2013/05/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/07"
+  },
+  "com.g5e.specialenquiry"  :
+  {
+    "date"        : "2011/07/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/07/14"
+  },
+  "com.g5e.specialenquiry.hd"  :
+  {
+    "date"        : "2011/07/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/07/14"
+  },
+  "com.g5e.specialenquiry.mac"  :
+  {
+    "date"        : "2012/01/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/05"
+  },
+  "com.g5e.specialenquiry.android"  :
+  {
+    "date"        : "2011/09/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/29"
+  },
+  "com.g5e.specialenquiry.android.smsn"  :
+  {
+    "date"        : "2012/06/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/28"
+  },
+  "com.g5e.specialenquiry.android.amzn.full"  :
+  {
+    "date"        : "2011/12/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/08"
+  },
+  "com.g5e.specialenquiry.android.nook.full"  :
+  {
+    "date"        : "2012/05/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/24"
+  },
+  "com.realore.janeshotel2.hd"  :
+  {
+    "date"        : "2012/06/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/14"
+  },
+  "com.realore.janeshotel2"  :
+  {
+    "date"        : "2011/09/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/08"
+  },
+  "com.realore.dressuprush.hd"  :
+  {
+    "date"        : "2011/06/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/16"
+  },
+  "com.g5e.fiu.hd"  :
+  {
+    "date"        : "2011/09/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/21"
+  },
+  "com.g5e.fiu"   :
+  {
+    "date"        : "2011/09/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/09/21"
+  },
+  "com.g5e.fiu.mac"  :
+  {
+    "date"        : "2012/05/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/03"
+  },
+  "com.g5e.fiu2.hd"  :
+  {
+    "date"        : "2011/12/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/01"
+  },
+  "com.g5e.fiu2"  :
+  {
+    "date"        : "2011/12/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/01"
+  },
+  "com.g5e.fiu2.mac"  :
+  {
+    "date"        : "2012/06/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/07"
+  },
+  "com.g5e.fiu80.hd"  :
+  {
+    "date"        : "2012/03/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/22"
+  },
+  "com.g5e.fiu80"  :
+  {
+    "date"        : "2012/03/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/22"
+  },
+  "com.g5e.fiu80.mac"  :
+  {
+    "date"        : "2012/07/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/26"
+  },
+  "com.jetdogs.sinistercity"  :
+  {
+    "date"        : "2012/07/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/17"
+  },
+  "com.jetdogs.sinistercity.hd"  :
+  {
+    "date"        : "2012/07/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/17"
+  },
+  "com.orchidgames.royaltrouble"  :
+  {
+    "date"        : "2012/02/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/02/02"
+  },
+  "com.orchidgames.royaltrouble.hd"  :
+  {
+    "date"        : "2012/02/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/02/02"
+  },
+  "com.orchidgames.royaltrouble.mac"  :
+  {
+    "date"        : "2012/05/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/10"
+  },
+  "com.g5e.royaltrouble.android"  :
+  {
+    "date"        : "2012/11/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/29"
+  },
+  "com.g5e.royaltrouble.android.amzn.full"  :
+  {
+    "date"        : "2012/10/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/19"
+  },
+  "com.g5e.royaltrouble.android.nook.full"  :
+  {
+    "date"        : "2013/01/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/30"
+  },
+  "com.g5e.jack"  :
+  {
+    "date"        : "2011/06/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/09"
+  },
+  "com.g5e.jack.hd"  :
+  {
+    "date"        : "2011/06/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/09"
+  },
+  "com.g5e.jack.mac"  :
+  {
+    "date"        : "2011/08/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/08/04"
+  },
+  "com.fgames.lsoul"  :
+  {
+    "date"        : "2012/06/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/14"
+  },
+  "com.fgames.lsoul.hd"  :
+  {
+    "date"        : "2012/06/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/14"
+  },
+  "com.g5e.lsoul.android"  :
+  {
+    "date"        : "2012/11/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/12"
+  },
+  "com.g5e.lsoul.android.amzn.full"  :
+  {
+    "date"        : "2012/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/15"
+  },
+  "com.g5e.lsoul.android.nook.full"  :
+  {
+    "date"        : "2012/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/15"
+  },
+  "com.g5e.lsoul.mac"  :
+  {
+    "date"        : "2013/01/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/30"
+  },
+  "com.g5e.letters"  :
+  {
+    "date"        : "2012/01/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/19"
+  },
+  "com.g5e.letters.hd"  :
+  {
+    "date"        : "2012/01/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/19"
+  },
+  "com.g5e.letters2"  :
+  {
+    "date"        : "2012/06/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/21"
+  },
+  "com.g5e.letters2.free"  :
+  {
+    "date"        : "2012/06/21",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/06/21"
+  },
+  "com.g5e.letters2.hd"  :
+  {
+    "date"        : "2012/06/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/21"
+  },
+  "com.g5e.letters2.hd.free"  :
+  {
+    "date"        : "2012/06/21",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/06/21"
+  },
+  "com.g5e.kbrawe"  :
+  {
+    "date"        : "2011/12/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/15"
+  },
+  "com.g5e.kbrawe.hd"  :
+  {
+    "date"        : "2011/12/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/12/15"
+  },
+  "com.g5e.virtualcitysb"  :
+  {
+    "date"        : "2016/05/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/06"
+  },
+  "com.g5e.virtualcitysb.hd"  :
+  {
+    "date"        : "2016/05/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/06"
+  },
+  "com.g5e.virtualcitysb.mac"  :
+  {
+    "date"        : "2016/03/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/04"
+  },
+  "com.g5e.virtualcitysb.android"  :
+  {
+    "date"        : "2016/02/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/16"
+  },
+  "com.g5e.virtualcitysb.android.smsn"  :
+  {
+    "date"        : "2012/07/26",
+    "doomed"      : 2,
+    "promo"       : false,
+    "update"      : "2012/07/26"
+  },
+  "com.g5e.virtualcitysb.android.amzn"  :
+  {
+    "date"        : "2016/05/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/16"
+  },
+  "com.g5e.virtualcitysb.winrt"  :
+  {
+    "date"        : "2016/03/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/05"
+  },
+  "com.g5e.virtualcitysb.winphone"  :
+  {
+    "date"        : "2016/03/03",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/05"
+  },
+  "com.g5e.magicianbook"  :
+  {
+    "date"        : "2012/01/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/05"
+  },
+  "com.g5e.magicianbook.hd"  :
+  {
+    "date"        : "2012/01/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/05"
+  },
+  "com.g5e.magicianbook.android.amzn.full"  :
+  {
+    "date"        : "2012/02/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/02/16"
+  },
+  "com.g5e.magicianbook.android"  :
+  {
+    "date"        : "2012/02/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/02/16"
+  },
+  "com.g5e.magicianbook.android.nook.full"  :
+  {
+    "date"        : "2012/06/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/01"
+  },
+  "com.g5e.magicianbook2"  :
+  {
+    "date"        : "2012/10/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/03"
+  },
+  "com.g5e.magicianbook2.hd"  :
+  {
+    "date"        : "2012/10/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/03"
+  },
+  "com.g5e.magicianbook2.android"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.magicianbook2.android.amzn.full"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.magicianbook2.android.nook.full"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.treasureseekers4"  :
+  {
+    "date"        : "2012/03/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/08"
+  },
+  "com.g5e.treasureseekers4.hd"  :
+  {
+    "date"        : "2012/03/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/08"
+  },
+  "com.g5e.xpromoapp.android"  :
+  {
+    "date"        : "2011/08/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/08/03"
+  },
+  "com.g5e.xpromoapp.android.amzn.full"  :
+  {
+    "date"        : "2012/02/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/02/02"
+  },
+  "com.g5e.xpromoapp.android.nook.full"  :
+  {
+    "date"        : "2012/07/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/12"
+  },
+  "com.g5e.xpromoapp"  :
+  {
+    "date"        : "2011/10/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/10/27"
+  },
+  "com.g5e.xpromoapp.hd"  :
+  {
+    "date"        : "2011/10/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/10/27"
+  },
+  "com.g5e.strix"  :
+  {
+    "date"        : "2012/08/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/09"
+  },
+  "com.g5e.strix.hd"  :
+  {
+    "date"        : "2012/08/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/09"
+  },
+  "com.g5e.strix.android"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.strix.android.amzn.full"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.strix.android.nook.full"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.youdasurvivor"  :
+  {
+    "date"        : "2011/11/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/11/17"
+  },
+  "com.g5e.youdasurvivor.hd"  :
+  {
+    "date"        : "2011/11/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/11/17"
+  },
+  "com.g5e.youdasurvivor.android"  :
+  {
+    "date"        : "2012/01/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/12"
+  },
+  "com.g5e.youdasurvivor.android.smsn"  :
+  {
+    "date"        : "2012/07/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/12"
+  },
+  "com.g5e.youdasurvivor.android.amzn.full"  :
+  {
+    "date"        : "2012/01/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/12"
+  },
+  "com.g5e.youdasurvivor.android.nook.full"  :
+  {
+    "date"        : "2012/08/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/09"
+  },
+  "com.g5e.islandcastaway"  :
+  {
+    "date"        : "2012/03/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/15"
+  },
+  "com.g5e.islandcastaway.hd"  :
+  {
+    "date"        : "2012/03/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/03/15"
+  },
+  "com.g5e.islandcastaway.android"  :
+  {
+    "date"        : "2012/04/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/19"
+  },
+  "com.g5e.islandcastaway.android.smsn"  :
+  {
+    "date"        : "2012/07/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/05"
+  },
+  "com.g5e.islandcastaway.android.amzn.full"  :
+  {
+    "date"        : "2012/04/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/19"
+  },
+  "com.g5e.islandcastaway.android.nook.full"  :
+  {
+    "date"        : "2012/04/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/04/26"
+  },
+  "com.g5e.islandcastaway.mac"  :
+  {
+    "date"        : "2012/07/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/05"
+  },
+  "com.g5e.islandcastaway2"  :
+  {
+    "date"        : "2013/09/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/12"
+  },
+  "com.g5e.islandcastaway2.hd"  :
+  {
+    "date"        : "2013/09/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/12"
+  },
+  "com.g5e.smm.pc"  :
+  {
+    "date"        : "2008/04/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2008/04/18"
+  },
+  "com.g5e.smm2.pc"  :
+  {
+    "date"        : "2010/02/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2010/02/12"
+  },
+  "com.g5e.standofood3.pc"  :
+  {
+    "date"        : "2011/06/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/02"
+  },
+  "com.g5e.standofood.pc"  :
+  {
+    "date"        : "2008/07/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2008/07/07"
+  },
+  "com.g5e.virtualcity.pc"  :
+  {
+    "date"        : "2009/12/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/12/16"
+  },
+  "com.g5e.virtualcity2.pc"  :
+  {
+    "date"        : "2011/10/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/10/06"
+  },
+  "com.g5e.sstory.pc"  :
+  {
+    "date"        : "2009/04/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2009/04/01"
+  },
+  "com.g5e.paranormal.pc"  :
+  {
+    "date"        : "2008/08/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2008/08/14"
+  },
+  "com.g5e.mahjonga1.pc"  :
+  {
+    "date"        : "2008/07/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2008/07/07"
+  },
+  "com.g5e.mahjonga2.pc"  :
+  {
+    "date"        : "2008/07/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2008/07/07"
+  },
+  "com.g5e.bigfoot.hd"  :
+  {
+    "date"        : "2012/08/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/16"
+  },
+  "com.g5e.bigfoot"  :
+  {
+    "date"        : "2012/08/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/16"
+  },
+  "com.g5e.bigfoot.android"  :
+  {
+    "date"        : "2012/12/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/27"
+  },
+  "com.g5e.bigfoot.android.amzn.full"  :
+  {
+    "date"        : "2012/12/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/27"
+  },
+  "com.g5e.bigfoot.android.nook.full"  :
+  {
+    "date"        : "2012/12/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/27"
+  },
+  "com.g5e.spiritofwondering"  :
+  {
+    "date"        : "2012/01/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/26"
+  },
+  "com.g5e.spiritofwondering.hd"  :
+  {
+    "date"        : "2012/01/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/01/26"
+  },
+  "com.g5e.spiritofwondering.mac"  :
+  {
+    "date"        : "2012/05/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/17"
+  },
+  "com.g5e.spiritofwondering.android"  :
+  {
+    "date"        : "2012/05/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/03"
+  },
+  "com.g5e.spiritofwondering.android.amzn.full"  :
+  {
+    "date"        : "2012/05/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/04"
+  },
+  "com.g5e.spiritofwondering.android.nook.full"  :
+  {
+    "date"        : "2012/05/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/10"
+  },
+  "com.g5e.crossworlds"  :
+  {
+    "date"        : "2012/05/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/31"
+  },
+  "com.g5e.crossworlds.hd"  :
+  {
+    "date"        : "2012/05/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/31"
+  },
+  "com.g5e.crossworlds.mac"  :
+  {
+    "date"        : "2012/10/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/18"
+  },
+  "com.bbb.mastersofmystery"  :
+  {
+    "date"        : "2012/08/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/30"
+  },
+  "com.bbb.mastersofmystery.hd"  :
+  {
+    "date"        : "2012/08/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/30"
+  },
+  "com.bbb.mastersofmystery.android"  :
+  {
+    "date"        : "2012/10/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/18"
+  },
+  "com.bbb.mastersofmystery.android.amzn.full"  :
+  {
+    "date"        : "2012/10/18",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/10/18"
+  },
+  "com.bbb.mastersofmystery.android.nook.full"  :
+  {
+    "date"        : "2012/10/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/18"
+  },
+  "com.bbb.mastersofmystery2.android.amzn.full"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/12/06"
+  },
+  "com.bbb.mastersofmystery2"  :
+  {
+    "date"        : "2012/11/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/11/01"
+  },
+  "com.bbb.mastersofmystery2.hd"  :
+  {
+    "date"        : "2012/11/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/11/01"
+  },
+  "com.bbb.mastersofmystery2.android"  :
+  {
+    "date"        : "2012/11/29",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/11/29"
+  },
+  "com.g5e.nightmaresdeep"  :
+  {
+    "date"        : "2012/09/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/09/06"
+  },
+  "com.g5e.nightmaresdeep.hd"  :
+  {
+    "date"        : "2012/09/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/09/06"
+  },
+  "com.g5e.nightmaresdeep.mac"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.nightmaresdeep.android"  :
+  {
+    "date"        : "2012/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/15"
+  },
+  "com.g5e.nightmaresdeep.android.amzn.full"  :
+  {
+    "date"        : "2012/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/15"
+  },
+  "com.g5e.nightmaresdeep.android.nook.full"  :
+  {
+    "date"        : "2012/11/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/22"
+  },
+  "com.g5e.epiclajangada"  :
+  {
+    "date"        : "2012/05/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/19"
+  },
+  "com.g5e.epiclajangada.hd"  :
+  {
+    "date"        : "2012/05/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/05/19"
+  },
+  "com.g5e.epiclajangada.mac"  :
+  {
+    "date"        : "2013/01/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/03"
+  },
+  "com.g5e.epiclajangada.android"  :
+  {
+    "date"        : "2012/11/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/22"
+  },
+  "com.g5e.epiclajangada.android.amzn.full"  :
+  {
+    "date"        : "2012/11/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/22"
+  },
+  "com.g5e.epiclajangada.android.nook.full"  :
+  {
+    "date"        : "2012/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/15"
+  },
+  "com.g5e.epiconboard"  :
+  {
+    "date"        : "2012/11/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/08"
+  },
+  "com.g5e.epiconboard.hd"  :
+  {
+    "date"        : "2012/11/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/08"
+  },
+  "com.g5e.epiconboard.android"  :
+  {
+    "date"        : "2013/01/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/31"
+  },
+  "com.g5e.epiconboard.android.amzn.full"  :
+  {
+    "date"        : "2013/02/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/14"
+  },
+  "com.g5e.epiconboard.android.nook.full"  :
+  {
+    "date"        : "2013/01/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/17"
+  },
+  "com.g5e.epiconboard.mac"  :
+  {
+    "date"        : "2013/02/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/27"
+  },
+  "com.g5e.spiritwalkers"  :
+  {
+    "date"        : "2012/09/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/09/13"
+  },
+  "com.g5e.spiritwalkers.hd"  :
+  {
+    "date"        : "2012/09/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/09/13"
+  },
+  "com.g5e.spiritwalkers.android"  :
+  {
+    "date"        : "2013/01/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/03"
+  },
+  "com.g5e.spiritwalkers.android.amzn.full"  :
+  {
+    "date"        : "2013/01/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/07"
+  },
+  "com.g5e.spiritwalkers.android.nook.full"  :
+  {
+    "date"        : "2013/01/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/03"
+  },
+  "com.g5e.spiritwalkers.mac"  :
+  {
+    "date"        : "2013/02/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/20"
+  },
+  "com.g5e.letters.android"  :
+  {
+    "date"        : "2012/06/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/28"
+  },
+  "com.g5e.letters.android.smsn"  :
+  {
+    "date"        : "2012/10/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/27"
+  },
+  "com.g5e.letters.android.amzn.full"  :
+  {
+    "date"        : "2012/06/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/28"
+  },
+  "com.g5e.letters.android.nook.full"  :
+  {
+    "date"        : "2012/06/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/06/28"
+  },
+  "com.g5e.letters2.android"  :
+  {
+    "date"        : "2012/07/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/26"
+  },
+  "com.g5e.letters2.android.amzn.full"  :
+  {
+    "date"        : "2012/08/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/08/02"
+  },
+  "com.g5e.letters2.android.nook.full"  :
+  {
+    "date"        : "2012/07/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/27"
+  },
+  "com.g5e.crossworlds.android"  :
+  {
+    "date"        : "2012/07/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/12"
+  },
+  "com.g5e.crossworlds.android.smsn"  :
+  {
+    "date"        : "2012/09/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/09/08"
+  },
+  "com.g5e.crossworlds.android.amzn.full"  :
+  {
+    "date"        : "2012/07/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/12"
+  },
+  "com.g5e.crossworlds.android.nook.full"  :
+  {
+    "date"        : "2012/07/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/07/12"
+  },
+  "com.g5e.kbrawe.android"  :
+  {
+    "date"        : "2013/03/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/03/01"
+  },
+  "com.g5e.kbrawe.android.amzn.full"  :
+  {
+    "date"        : "2013/03/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/03/01"
+  },
+  "com.g5e.kbrawe.android.nook.full"  :
+  {
+    "date"        : "2013/03/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/03/01"
+  },
+  "com.g5e.fatepharaoh.android"  :
+  {
+    "date"        : "2013/02/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/28"
+  },
+  "com.g5e.fatepharaoh.android.full"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.fatepharaoh.android.amzn.full"  :
+  {
+    "date"        : "2013/02/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/28"
+  },
+  "com.g5e.fatepharaoh.android.nook.full"  :
+  {
+    "date"        : "2013/02/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/28"
+  },
+  "com.g5e.rightkill1"  :
+  {
+    "date"        : "2012/10/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/31"
+  },
+  "com.g5e.rightkill1.hd"  :
+  {
+    "date"        : "2012/10/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/31"
+  },
+  "com.g5e.rightkill1.android"  :
+  {
+    "date"        : "2013/05/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/16"
+  },
+  "com.g5e.rightkill1.android.amzn.full"  :
+  {
+    "date"        : "2013/05/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/16"
+  },
+  "com.g5e.rightkill1.android.nook.full"  :
+  {
+    "date"        : "2013/05/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/16"
+  },
+  "com.g5e.rightkill1.mac"  :
+  {
+    "date"        : "2013/06/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/06/12"
+  },
+  "com.g5e.rightkill2"  :
+  {
+    "date"        : "2013/08/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/08/14"
+  },
+  "com.g5e.rightkill2.hd"  :
+  {
+    "date"        : "2013/08/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/08/14"
+  },
+  "com.g5e.totemtribegold"  :
+  {
+    "date"        : "2012/11/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/07"
+  },
+  "com.g5e.totemtribegold.hd"  :
+  {
+    "date"        : "2012/11/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/07"
+  },
+  "com.g5e.totemtribegold.android"  :
+  {
+    "date"        : "2012/11/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/29"
+  },
+  "com.g5e.totemtribegold.android.amzn.full"  :
+  {
+    "date"        : "2012/12/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/06"
+  },
+  "com.g5e.totemtribegold.android.nook.full"  :
+  {
+    "date"        : "2012/11/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/30"
+  },
+  "com.g5e.totemtribegold.mac"  :
+  {
+    "date"        : "2013/02/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/06"
+  },
+  "com.g5e.hospitalhustle"  :
+  {
+    "date"        : "2013/01/13",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/01/13"
+  },
+  "com.g5e.hospitalhustle.hd"  :
+  {
+    "date"        : "2013/01/13",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/01/13"
+  },
+  "com.g5e.inbetweenland"  :
+  {
+    "date"        : "2013/02/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/06"
+  },
+  "com.g5e.inbetweenland.hd"  :
+  {
+    "date"        : "2013/02/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/06"
+  },
+  "com.g5e.inbetweenland.mac"  :
+  {
+    "date"        : "2012/10/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/11"
+  },
+  "com.g5e.buildalot3"  :
+  {
+    "date"        : "2012/10/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/17"
+  },
+  "com.g5e.buildalot3.hd"  :
+  {
+    "date"        : "2012/10/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/17"
+  },
+  "com.g5e.buildalot3.android"  :
+  {
+    "date"        : "2012/12/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/27"
+  },
+  "com.g5e.buildalot3.android.amzn.full"  :
+  {
+    "date"        : "2012/12/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/27"
+  },
+  "com.g5e.buildalot3.android.nook.full"  :
+  {
+    "date"        : "2013/01/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/31"
+  },
+  "com.g5e.buildalot4"  :
+  {
+    "date"        : "2012/11/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/28"
+  },
+  "com.g5e.buildalot4.hd"  :
+  {
+    "date"        : "2012/11/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/28"
+  },
+  "com.g5e.buildalot4.android"  :
+  {
+    "date"        : "2013/02/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/07"
+  },
+  "com.g5e.buildalot4.android.amzn.full"  :
+  {
+    "date"        : "2013/02/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/07"
+  },
+  "com.g5e.buildalot4.android.nook.full"  :
+  {
+    "date"        : "2013/02/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/02/22"
+  },
+  "com.g5e.jumpster"  :
+  {
+    "date"        : "2012/09/26",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/09/26"
+  },
+  "com.g5e.jumpster.hd"  :
+  {
+    "date"        : "2012/09/26",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/09/26"
+  },
+  "com.g5e.redrumdd"  :
+  {
+    "date"        : "2012/12/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/05"
+  },
+  "com.g5e.redrumdd.hd"  :
+  {
+    "date"        : "2012/12/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/05"
+  },
+  "com.g5e.shardsoftime"  :
+  {
+    "date"        : "2012/11/14",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/11/14"
+  },
+  "com.g5e.shardsoftime.hd"  :
+  {
+    "date"        : "2012/11/14",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/11/14"
+  },
+  "com.g5e.shardsoftime.android"  :
+  {
+    "date"        : "2013/02/28",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/02/28"
+  },
+  "com.g5e.shardsoftime.android.full"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.shardsoftime.android.amzn.full"  :
+  {
+    "date"        : "2013/02/28",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/02/28"
+  },
+  "com.g5e.shardsoftime.android.nook.full"  :
+  {
+    "date"        : "2013/02/28",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/02/28"
+  },
+  "com.g5e.isladorada"  :
+  {
+    "date"        : "2013/05/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/15"
+  },
+  "com.g5e.isladorada.hd"  :
+  {
+    "date"        : "2013/05/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/15"
+  },
+  "com.g5e.isladorada.mac"  :
+  {
+    "date"        : "2015/05/28",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/12"
+  },
+  "com.bbb.mastersofmystery2.android.nook.full"  :
+  {
+    "date"        : "2012/11/30",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/11/30"
+  },
+  "com.g5e.whisperoffear"  :
+  {
+    "date"        : "2012/10/10",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/10/10"
+  },
+  "com.g5e.whisperoffear.hd"  :
+  {
+    "date"        : "2012/10/10",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/10/10"
+  },
+  "com.g5e.secretsociety"  :
+  {
+    "date"        : "2016/05/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/14"
+  },
+  "com.g5e.secretsociety.hd"  :
+  {
+    "date"        : "2016/05/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/14"
+  },
+  "com.g5e.secretsociety.android"  :
+  {
+    "date"        : "2016/04/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/18"
+  },
+  "com.g5e.secretsociety.android.amzn"  :
+  {
+    "date"        : "2016/04/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/18"
+  },
+  "com.g5e.pilotbr1"  :
+  {
+    "date"        : "2012/10/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/25"
+  },
+  "com.g5e.pilotbr1.hd"  :
+  {
+    "date"        : "2012/10/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/10/25"
+  },
+  "com.g5e.pilotbr1.android"  :
+  {
+    "date"        : "2012/11/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/08"
+  },
+  "com.g5e.pilotbr1.android.amzn.full"  :
+  {
+    "date"        : "2012/11/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/08"
+  },
+  "com.g5e.pilotbr1.android.nook.full"  :
+  {
+    "date"        : "2012/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/15"
+  },
+  "com.g5e.dreamscapes"  :
+  {
+    "date"        : "2013/07/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/24"
+  },
+  "com.g5e.dreamscapes.hd"  :
+  {
+    "date"        : "2013/07/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/24"
+  },
+  "com.g5e.epicwishmaster.mac"  :
+  {
+    "date"        : "2012/11/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/11/14"
+  },
+  "com.g5e.epicwishmaster.pc"  :
+  {
+    "date"        : "2012/09/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/09/18"
+  },
+  "com.g5e.youdasurvivor2"  :
+  {
+    "date"        : "2013/04/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/24"
+  },
+  "com.g5e.youdasurvivor2.hd"  :
+  {
+    "date"        : "2013/04/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/24"
+  },
+  "com.g5e.artmogul"  :
+  {
+    "date"        : "2013/01/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/30"
+  },
+  "com.g5e.artmogul.hd"  :
+  {
+    "date"        : "2013/01/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/30"
+  },
+  "com.g5e.artmogul.android"  :
+  {
+    "date"        : "2013/04/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/18"
+  },
+  "com.g5e.artmogul.android.full"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.artmogul.android.amzn.full"  :
+  {
+    "date"        : "2013/04/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/18"
+  },
+  "com.g5e.artmogul.android.nook.full"  :
+  {
+    "date"        : "2013/04/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/18"
+  },
+  "com.g5e.hiddenwonders"  :
+  {
+    "date"        : "2013/04/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/03"
+  },
+  "com.g5e.hiddenwonders.hd"  :
+  {
+    "date"        : "2013/04/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/03"
+  },
+  "com.g5e.greenjelly"  :
+  {
+    "date"        : "2012/12/19",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/12/19"
+  },
+  "com.g5e.greenjelly.hd"  :
+  {
+    "date"        : "2012/12/19",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2012/12/19"
+  },
+  "com.g5e.greenjelly.android"  :
+  {
+    "date"        : "2013/02/14",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/02/14"
+  },
+  "com.g5e.greenjelly.android.amzn.full"  :
+  {
+    "date"        : "2013/02/14",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/02/14"
+  },
+  "com.g5e.greenjelly.android.nook.full"  :
+  {
+    "date"        : "2013/02/14",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/02/14"
+  },
+  "com.g5e.greenjelly.mac"  :
+  {
+    "date"        : "2013/07/10",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/07/10"
+  },
+  "com.g5e.builditmiami"  :
+  {
+    "date"        : "2013/05/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/29"
+  },
+  "com.g5e.builditmiami.hd"  :
+  {
+    "date"        : "2013/05/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/29"
+  },
+  "com.g5e.abyss"  :
+  {
+    "date"        : "2013/01/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/10"
+  },
+  "com.g5e.abyss.hd"  :
+  {
+    "date"        : "2013/01/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/10"
+  },
+  "com.g5e.abyss.android"  :
+  {
+    "date"        : "2013/01/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/10"
+  },
+  "com.g5e.abyss.android.amzn.full"  :
+  {
+    "date"        : "2013/01/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/11"
+  },
+  "com.g5e.abyss.android.nook.full"  :
+  {
+    "date"        : "2013/01/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/04"
+  },
+  "com.g5e.abyss.mac"  :
+  {
+    "date"        : "2013/01/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/10"
+  },
+  "com.g5e.carnival"  :
+  {
+    "date"        : "2012/12/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/13"
+  },
+  "com.g5e.carnival.hd"  :
+  {
+    "date"        : "2012/12/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/13"
+  },
+  "com.g5e.carnival.android"  :
+  {
+    "date"        : "2012/12/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/13"
+  },
+  "com.g5e.carnival.android.amzn.full"  :
+  {
+    "date"        : "2012/12/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/14"
+  },
+  "com.g5e.carnival.android.nook.full"  :
+  {
+    "date"        : "2012/12/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/14"
+  },
+  "com.g5e.carnival.mac"  :
+  {
+    "date"        : "2012/12/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2012/12/20"
+  },
+  "com.g5e.ocr"   :
+  {
+    "date"        : "2013/01/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/24"
+  },
+  "com.g5e.ocr.hd"  :
+  {
+    "date"        : "2013/01/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/01/24"
+  },
+  "com.g5e.ocr.mac"  :
+  {
+    "date"        : "2013/03/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/03/16"
+  },
+  "com.g5e.sisterssecrecyab"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.sisterssecrecyab.hd"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.wac"   :
+  {
+    "date"        : "2013/04/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/10"
+  },
+  "com.g5e.wac.hd"  :
+  {
+    "date"        : "2013/04/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/10"
+  },
+  "com.g5e.alchemymysteries"  :
+  {
+    "date"        : "2013/07/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/31"
+  },
+  "com.g5e.alchemymysteries.hd"  :
+  {
+    "date"        : "2013/07/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/31"
+  },
+  "com.g5e.doomsdayprepperspg"  :
+  {
+    "date"        : "2014/07/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/10"
+  },
+  "com.g5e.doomsdayprepperspg.hd"  :
+  {
+    "date"        : "2014/07/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/10"
+  },
+  "com.g5e.doomsdayprepperspg.android"  :
+  {
+    "date"        : "2015/07/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/10"
+  },
+  "com.g5e.rcmlegion"  :
+  {
+    "date"        : "2013/05/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/01"
+  },
+  "com.g5e.rcmlegion.hd"  :
+  {
+    "date"        : "2013/05/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/05/01"
+  },
+  "com.g5e.deeptown.hd"  :
+  {
+    "date"        : "2016/05/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.zoombiespg"  :
+  {
+    "date"        : "2014/02/17",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2014/02/17"
+  },
+  "com.g5e.zoombiespg.hd"  :
+  {
+    "date"        : "2013/12/19",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/19"
+  },
+  "com.g5e.smmpg"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.virtualcitysb.android.nook"  :
+  {
+    "date"        : "2013/07/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/10"
+  },
+  "com.g5e.ghoststories.hd"  :
+  {
+    "date"        : "2014/05/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/15"
+  },
+  "com.g5e.sm2.android"  :
+  {
+    "date"        : "2014/01/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/30"
+  },
+  "com.g5e.pilotbr2"  :
+  {
+    "date"        : "2013/06/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/06/19"
+  },
+  "com.g5e.pilotbr2.hd"  :
+  {
+    "date"        : "2013/06/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/06/19"
+  },
+  "com.g5e.brightstonemysteries"  :
+  {
+    "date"        : "2013/10/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/10/02"
+  },
+  "com.g5e.brightstonemysteries.hd"  :
+  {
+    "date"        : "2013/10/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/10/02"
+  },
+  "com.g5e.wac.mac"  :
+  {
+    "date"        : "2013/06/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/06/05"
+  },
+  "com.g5e.mansion"  :
+  {
+    "date"        : "2013/10/31",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/10/31"
+  },
+  "com.g5e.mansion.hd"  :
+  {
+    "date"        : "2013/10/31",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/10/31"
+  },
+  "com.g5e.elixirepisode"  :
+  {
+    "date"        : "2013/12/05",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/05"
+  },
+  "com.g5e.elixirepisode.hd"  :
+  {
+    "date"        : "2013/12/05",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/12/05"
+  },
+  "com.g5e.temptation"  :
+  {
+    "date"        : "2013/10/24",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/10/24"
+  },
+  "com.g5e.temptation.hd"  :
+  {
+    "date"        : "2013/10/24",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/10/24"
+  },
+  "com.g5e.cursedship.hd"  :
+  {
+    "date"        : "2014/05/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/05"
+  },
+  "com.g5e.toddandjessicastory"  :
+  {
+    "date"        : "2014/03/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/06"
+  },
+  "com.g5e.toddandjessicastory.hd"  :
+  {
+    "date"        : "2014/03/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/06"
+  },
+  "com.g5e.artmogul.mac"  :
+  {
+    "date"        : "2013/04/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/04/11"
+  },
+  "com.g5e.rcmlegion.mac"  :
+  {
+    "date"        : "2013/06/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/06/20"
+  },
+  "com.g5e.rcmlegion.android"  :
+  {
+    "date"        : "2013/07/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/18"
+  },
+  "com.g5e.wac.android"  :
+  {
+    "date"        : "2013/07/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/25"
+  },
+  "com.g5e.wac.android.amzn.full"  :
+  {
+    "date"        : "2013/09/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/09"
+  },
+  "com.g5e.wac.android.nook.full"  :
+  {
+    "date"        : "2013/08/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/08/01"
+  },
+  "com.g5e.rcmlegion.android.amzn.full"  :
+  {
+    "date"        : "2013/07/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/23"
+  },
+  "com.g5e.rcmlegion.android.nook.full"  :
+  {
+    "date"        : "2013/07/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/18"
+  },
+  "com.g5e.survivors.hd"  :
+  {
+    "date"        : "2016/04/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2016/04/13"
+  },
+  "com.g5e.findingofdiva.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.specialenquiry2.mac"  :
+  {
+    "date"        : "2013/10/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/10/02"
+  },
+  "com.g5e.sofplayground"  :
+  {
+    "date"        : "2016/04/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/09"
+  },
+  "com.g5e.sofplayground.hd"  :
+  {
+    "date"        : "2016/04/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/09"
+  },
+  "com.g5e.bravetribe.android"  :
+  {
+    "date"        : "2016/03/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/17"
+  },
+  "com.g5e.bravetribe.android.amzn.full"  :
+  {
+    "date"        : "2016/03/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/17"
+  },
+  "com.g5e.twinmoons"  :
+  {
+    "date"        : "2013/07/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/17"
+  },
+  "com.g5e.twinmoons.hd"  :
+  {
+    "date"        : "2013/07/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/07/17"
+  },
+  "com.g5e.mushroomage.hd.lite"  :
+  {
+    "date"        : "2013/05/17",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2013/05/17"
+  },
+  "com.g5e.specialenquiry.winrt"  :
+  {
+    "date"        : "2013/10/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/10/17"
+  },
+  "com.g5e.lettersfromnowherepg.hd"  :
+  {
+    "date"        : "2016/03/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/25"
+  },
+  "com.g5e.specialenquiry2.android"  :
+  {
+    "date"        : "2013/09/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/05"
+  },
+  "com.g5e.specialenquiry2.android.amzn.full"  :
+  {
+    "date"        : "2013/09/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/12"
+  },
+  "com.g5e.specialenquiry2.android.nook.full"  :
+  {
+    "date"        : "2013/09/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/03"
+  },
+  "com.g5e.builditmiami.android"  :
+  {
+    "date"        : "2013/11/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/14"
+  },
+  "com.g5e.builditmiami.android.amzn.full"  :
+  {
+    "date"        : "2013/11/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/19"
+  },
+  "com.g5e.builditmiami.android.nook.full"  :
+  {
+    "date"        : "2013/11/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/07"
+  },
+  "com.g5e.secretsociety.mac"  :
+  {
+    "date"        : "2016/05/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/11"
+  },
+  "com.g5e.mahjonga2.winrt"  :
+  {
+    "date"        : "2014/01/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/09"
+  },
+  "com.g5e.crystalportal.winrt"  :
+  {
+    "date"        : "2014/02/06",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/02/06"
+  },
+  "com.g5e.paranormal.winrt"  :
+  {
+    "date"        : "2014/02/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/02/19"
+  },
+  "com.g5e.spiritofwondering.winrt"  :
+  {
+    "date"        : "2014/07/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/07/02"
+  },
+  "com.g5e.smm.winrt"  :
+  {
+    "date"        : "2013/11/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/14"
+  },
+  "com.g5e.standofood.winrt"  :
+  {
+    "date"        : "2013/12/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/19"
+  },
+  "com.g5e.virtualcity.winrt"  :
+  {
+    "date"        : "2014/03/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/20"
+  },
+  "com.g5e.virtualcity2.winrt"  :
+  {
+    "date"        : "2014/04/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/03"
+  },
+  "com.g5e.bravetribe.hd"  :
+  {
+    "date"        : "2016/03/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/17"
+  },
+  "com.g5e.twinmoons.android"  :
+  {
+    "date"        : "2013/12/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/20"
+  },
+  "com.g5e.twinmoons.android.amzn.full"  :
+  {
+    "date"        : "2013/11/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/21"
+  },
+  "com.g5e.twinmoons.mac"  :
+  {
+    "date"        : "2013/09/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/09/04"
+  },
+  "com.g5e.mysteryoftheopera"  :
+  {
+    "date"        : "2013/11/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/07"
+  },
+  "com.g5e.mysteryoftheopera.hd"  :
+  {
+    "date"        : "2013/11/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/07"
+  },
+  "com.g5e.youdasurvivor2.android"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.youdasurvivor2.android.amzn.full"  :
+  {
+    "date"        : "2013/12/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/13"
+  },
+  "com.g5e.doomsdayprepperspg.android.amzn.full"  :
+  {
+    "date"        : "2014/07/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/10"
+  },
+  "com.g5e.smmpg.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.islandcastawaypg"  :
+  {
+    "date"        : "2015/08/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.islandcastawaypg.hd"  :
+  {
+    "date"        : "2015/08/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/05"
+  },
+  "com.g5e.bravetribe"  :
+  {
+    "date"        : "2016/03/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/17"
+  },
+  "com.g5e.supermarketmaniapg.hd"  :
+  {
+    "date"        : "2015/12/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.supermarketmaniapg"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.pilotbr2.android"  :
+  {
+    "date"        : "2013/10/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/10/10"
+  },
+  "com.g5e.pilotbr2.android.amzn.full"  :
+  {
+    "date"        : "2013/10/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/10/21"
+  },
+  "com.g5e.dreamcatchers"  :
+  {
+    "date"        : "2014/06/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/19"
+  },
+  "com.g5e.dreamcatchers.hd"  :
+  {
+    "date"        : "2014/06/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/19"
+  },
+  "com.g5e.nightmares2"  :
+  {
+    "date"        : "2014/01/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/09"
+  },
+  "com.g5e.nightmares2.hd"  :
+  {
+    "date"        : "2014/01/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/09"
+  },
+  "com.g5e.nineclues"  :
+  {
+    "date"        : "2014/01/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/16"
+  },
+  "com.g5e.nineclues.hd"  :
+  {
+    "date"        : "2014/01/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/16"
+  },
+  "com.g5e.mahjonga"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mahjonga.winrt"  :
+  {
+    "date"        : "2013/11/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/07"
+  },
+  "com.g5e.gameofdragons"  :
+  {
+    "date"        : "2015/06/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.gameofdragons.hd"  :
+  {
+    "date"        : "2015/06/18",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.sed2.winrt"  :
+  {
+    "date"        : "2013/12/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/26"
+  },
+  "com.g5e.lsoul.winrt"  :
+  {
+    "date"        : "2013/11/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/11/15"
+  },
+  "com.g5e.tfdmlair"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.tfdmlair.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.g5jackpotcasino"  :
+  {
+    "date"        : "2015/06/26",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.g5jackpotcasino.hd"  :
+  {
+    "date"        : "2015/06/26",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.twinmoons.winrt"  :
+  {
+    "date"        : "2014/01/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/16"
+  },
+  "com.g5e.wac.winrt"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.brightstonemysteries.mac"  :
+  {
+    "date"        : "2013/12/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2013/12/12"
+  },
+  "com.g5e.brightstonemysteries.android"  :
+  {
+    "date"        : "2014/02/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/02/19"
+  },
+  "com.g5e.brightstonemysteries.android.amzn.full"  :
+  {
+    "date"        : "2014/02/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/02/19"
+  },
+  "com.g5e.brightstonemysteries.winrt"  :
+  {
+    "date"        : "2014/02/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/02/12"
+  },
+  "com.g5e.deeptown"  :
+  {
+    "date"        : "2016/05/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.inbetweenland.android"  :
+  {
+    "date"        : "2014/03/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/20"
+  },
+  "com.g5e.inbetweenland.android.amzn.full"  :
+  {
+    "date"        : "2014/03/20",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/20"
+  },
+  "com.g5e.nightmares2.android"  :
+  {
+    "date"        : "2014/01/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/09"
+  },
+  "com.g5e.nightmares2.android.amzn.full"  :
+  {
+    "date"        : "2014/01/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/23"
+  },
+  "com.g5e.treasureseekers3ce"  :
+  {
+    "date"        : "2011/06/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/23"
+  },
+  "com.g5e.treasureseekers3ce.hd"  :
+  {
+    "date"        : "2011/06/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2011/06/23"
+  },
+  "com.g5e.jewelryshop.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.lettersfromnowherepg"  :
+  {
+    "date"        : "2016/03/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/25"
+  },
+  "com.g5e.hiddencity.hd"  :
+  {
+    "date"        : "2016/03/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/27"
+  },
+  "com.g5e.islandcastaway2.android"  :
+  {
+    "date"        : "2014/01/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/23"
+  },
+  "com.g5e.islandcastaway2.android.amzn.full"  :
+  {
+    "date"        : "2014/01/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/23"
+  },
+  "com.g5e.questerium1"  :
+  {
+    "date"        : "2015/03/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.questerium1.hd"  :
+  {
+    "date"        : "2015/03/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mysteryoftheopera.android"  :
+  {
+    "date"        : "2014/02/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/02/05"
+  },
+  "com.g5e.mysteryoftheopera.android.amzn.full"  :
+  {
+    "date"        : "2014/02/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/02/05"
+  },
+  "com.g5e.sstory.winrt"  :
+  {
+    "date"        : "2014/01/08",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/08"
+  },
+  "com.g5e.pilotbrs3"  :
+  {
+    "date"        : "2014/01/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/15"
+  },
+  "com.g5e.pilotbrs3.hd"  :
+  {
+    "date"        : "2014/01/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/15"
+  },
+  "com.g5e.paranormal2"  :
+  {
+    "date"        : "2014/04/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/03"
+  },
+  "com.g5e.lettersfromnowherepg.android"  :
+  {
+    "date"        : "2016/04/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/19"
+  },
+  "com.g5e.lettersfromnowherepg.android.amzn.full"  :
+  {
+    "date"        : "2016/04/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/19"
+  },
+  "com.g5e.ghoststories"  :
+  {
+    "date"        : "2014/05/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/15"
+  },
+  "com.g5e.sm2.android.amzn.full"  :
+  {
+    "date"        : "2014/01/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/01/30"
+  },
+  "com.g5e.pilotbrs3.android"  :
+  {
+    "date"        : "2014/03/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/12"
+  },
+  "com.g5e.pilotbrs3.android.amzn.full"  :
+  {
+    "date"        : "2014/03/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/12"
+  },
+  "com.g5e.nineclues.android"  :
+  {
+    "date"        : "2014/03/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/05"
+  },
+  "com.g5e.nineclues.android.amzn.full"  :
+  {
+    "date"        : "2014/03/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/05"
+  },
+  "com.g5e.islandcastaway2.mac"  :
+  {
+    "date"        : "2014/05/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/21"
+  },
+  "com.g5e.toddandjessicastory.android"  :
+  {
+    "date"        : "2014/03/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/27"
+  },
+  "com.g5e.toddandjessicastory.android.amzn.full"  :
+  {
+    "date"        : "2014/03/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/03/27"
+  },
+  "com.g5e.cursedship"  :
+  {
+    "date"        : "2014/05/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/01"
+  },
+  "com.g5e.nineclues.mac"  :
+  {
+    "date"        : "2014/04/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/16"
+  },
+  "com.g5e.nightmares2.mac"  :
+  {
+    "date"        : "2014/04/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/09"
+  },
+  "com.g5e.mysteryoftheopera.mac"  :
+  {
+    "date"        : "2014/04/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/30"
+  },
+  "com.g5e.leftinthedark"  :
+  {
+    "date"        : "2014/05/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/29"
+  },
+  "com.g5e.leftinthedark.hd"  :
+  {
+    "date"        : "2014/05/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/29"
+  },
+  "com.g5e.leftinthedark.mac"  :
+  {
+    "date"        : "2014/08/14",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/08/14"
+  },
+  "com.g5e.leftinthedark.android"  :
+  {
+    "date"        : "2014/07/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/07/10"
+  },
+  "com.g5e.leftinthedark.android.amzn.full"  :
+  {
+    "date"        : "2014/07/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/07/17"
+  },
+  "com.g5e.sm2.mac"  :
+  {
+    "date"        : "2014/05/07",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/07"
+  },
+  "com.g5e.islandcastaway.winrt"  :
+  {
+    "date"        : "2014/05/01",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/01"
+  },
+  "com.g5e.islandcastaway2.winrt"  :
+  {
+    "date"        : "2014/05/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/21"
+  },
+  "com.g5e.sm2.winrt"  :
+  {
+    "date"        : "2014/06/05",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/05"
+  },
+  "com.g5e.secretsociety.winrt"  :
+  {
+    "date"        : "2016/05/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/08/07"
+  },
+  "com.g5e.tfdm2lair"  :
+  {
+    "date"        : "2014/04/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/25"
+  },
+  "com.g5e.tfdm2lair.hd"  :
+  {
+    "date"        : "2014/04/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/25"
+  },
+  "com.g5e.tfdm2lair.android"  :
+  {
+    "date"        : "2014/04/30",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/04/30"
+  },
+  "com.g5e.tfdm2lair.android.amzn.full"  :
+  {
+    "date"        : "2014/05/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/05/12"
+  },
+  "com.g5e.sofplayground.mac"  :
+  {
+    "date"        : "2016/05/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.sofplayground.android"  :
+  {
+    "date"        : "2016/04/25",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/09/04"
+  },
+  "com.g5e.sofplayground.android.amzn"  :
+  {
+    "date"        : "2016/04/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/09/25"
+  },
+  "com.g5e.nightmares3"  :
+  {
+    "date"        : "2014/10/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/10/02"
+  },
+  "com.g5e.nightmares3.hd"  :
+  {
+    "date"        : "2014/10/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/10/02"
+  },
+  "com.g5e.cursedship.android"  :
+  {
+    "date"        : "2014/07/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/07/24"
+  },
+  "com.g5e.cursedship.android.amzn.full"  :
+  {
+    "date"        : "2014/07/24",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/07/24"
+  },
+  "com.g5e.mysteryoftheopera.winrt"  :
+  {
+    "date"        : "2014/06/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/06/26"
+  },
+  "com.g5e.tfdm2lair.mac"  :
+  {
+    "date"        : "2014/07/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/07/03"
+  },
+  "com.g5e.mahjong.hd"  :
+  {
+    "date"        : "2016/04/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2016/04/29"
+  },
+  "com.g5e.tfdm2lair.winrt"  :
+  {
+    "date"        : "2014/08/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/08/13"
+  },
+  "com.g5e.nineclues2"  :
+  {
+    "date"        : "2015/05/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.nineclues2.hd"  :
+  {
+    "date"        : "2015/05/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.nineclues2.mac"  :
+  {
+    "date"        : "2015/12/10",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.nineclues2.android"  :
+  {
+    "date"        : "2015/09/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.nineclues2.android.amzn.full"  :
+  {
+    "date"        : "2015/09/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mindsnares"  :
+  {
+    "date"        : "2015/02/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mindsnares.hd"  :
+  {
+    "date"        : "2015/02/12",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mindsnares.mac"  :
+  {
+    "date"        : "2015/10/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mindsnares.android"  :
+  {
+    "date"        : "2015/07/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mindsnares.android.amzn.full"  :
+  {
+    "date"        : "2015/07/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.ghoststories.android"  :
+  {
+    "date"        : "2014/10/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.ghoststories.android.amzn.full"  :
+  {
+    "date"        : "2014/10/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.graven"  :
+  {
+    "date"        : "2015/04/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.graven.hd"  :
+  {
+    "date"        : "2015/04/09",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.dreamcatchers.android"  :
+  {
+    "date"        : "2014/12/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.dreamcatchers.android.amzn.full"  :
+  {
+    "date"        : "2014/12/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.cursedship.mac"  :
+  {
+    "date"        : "2014/08/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/08/27"
+  },
+  "com.g5e.smm2.winphone"  :
+  {
+    "date"        : "2014/08/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/08/13"
+  },
+  "com.g5e.standofood3.winphone"  :
+  {
+    "date"        : "2014/08/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/08/29"
+  },
+  "com.g5e.standofood.winphone"  :
+  {
+    "date"        : "2014/09/11",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/09/11"
+  },
+  "com.g5e.smm.winphone"  :
+  {
+    "date"        : "2014/09/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/09/04"
+  },
+  "com.g5e.mysteryoftheopera.winphone"  :
+  {
+    "date"        : "2014/08/21",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2014/08/21"
+  },
+  "com.g5e.mahjong"  :
+  {
+    "date"        : "2016/04/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.islandcastawaypg.android"  :
+  {
+    "date"        : "2015/08/03",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.islandcastawaypg.android.amzn"  :
+  {
+    "date"        : "2015/09/04",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.katemalone"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.katemalone.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.nightmares3.mac"  :
+  {
+    "date"        : "2015/01/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.nightmares3.android"  :
+  {
+    "date"        : "2014/11/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.nightmares3.android.amzn.full"  :
+  {
+    "date"        : "2014/11/27",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.sofplayground.winphone"  :
+  {
+    "date"        : "2014/10/16",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.sofplayground.winrt"  :
+  {
+    "date"        : "2016/04/29",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.kngtales2"  :
+  {
+    "date"        : "2015/03/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.kngtales2.hd"  :
+  {
+    "date"        : "2015/03/19",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mythsoforion"  :
+  {
+    "date"        : "2015/12/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.mythsoforion.hd"  :
+  {
+    "date"        : "2015/12/17",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.tfdm2lair.winphone"  :
+  {
+    "date"        : "2014/10/02",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.twinmoons.winphone"  :
+  {
+    "date"        : "2014/12/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.hiddencity"  :
+  {
+    "date"        : "2016/03/23",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.hiddencity.android"  :
+  {
+    "date"        : "2016/03/26",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.hiddencity.android.amzn.full"  :
+  {
+    "date"        : "2016/03/31",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.virtualcity.winphone"  :
+  {
+    "date"        : "2015/01/14",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.virtualcity2.winphone"  :
+  {
+    "date"        : "2015/02/05",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.paranormal2.android"  :
+  {
+    "date"        : "2015/04/09",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.paranormal2.android.amzn"  :
+  {
+    "date"        : "2015/04/09",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.paranormal2.winrt"  :
+  {
+    "date"        : "2015/07/16",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.royaltrouble2"  :
+  {
+    "date"        : "2015/12/30",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.royaltrouble2.hd"  :
+  {
+    "date"        : "2015/12/30",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.lostsouls2"  :
+  {
+    "date"        : "2015/10/22",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.lostsouls2.hd"  :
+  {
+    "date"        : "2015/10/22",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.ghoststories.mac"  :
+  {
+    "date"        : "2015/02/26",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.spiritwalkers.winrt"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.spiritwalkers.winphone"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.brightstonemysteries.winphone"  :
+  {
+    "date"        : "2015/05/08",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.wac.winphone"  :
+  {
+    "date"        : "2015/07/16",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.islandcastawaypg.winrt"  :
+  {
+    "date"        : "2015/08/04",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.islandcastawaypg.winphone"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.specialenquiry.winphone"  :
+  {
+    "date"        : "2015/02/26",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.survivors"  :
+  {
+    "date"        : "2016/04/13",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.ghoststories.winrt"  :
+  {
+    "date"        : "2015/06/26",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.ghoststories.winphone"  :
+  {
+    "date"        : "2015/07/02",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.specialenquiry2.winphone"  :
+  {
+    "date"        : "2015/04/03",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.survivors.android"  :
+  {
+    "date"        : "2016/04/22",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.survivors.android.amzn"  :
+  {
+    "date"        : "2016/04/15",
+    "doomed"      : 0,
+    "promo"       : true,
+    "update"      : "2020/01/01"
+  },
+  "com.g5e.graven.android"  :
+  {
+    "date"        : "2015/10/15",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.graven.android.amzn.full"  :
+  {
+    "date"        : "2015/10/15",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.paranormal2.mac"  :
+  {
+    "date"        : "2015/08/20",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.bravetribe.mac"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.mahjong.android.amzn"  :
+  {
+    "date"        : "2016/05/04",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.kngtales2.android"  :
+  {
+    "date"        : "2015/07/16",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.kngtales2.android.amzn.full"  :
+  {
+    "date"        : "2015/07/09",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.g5jackpotcasino.android"  :
+  {
+    "date"        : "2015/07/17",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.g5jackpotcasino.android.amzn"  :
+  {
+    "date"        : "2015/07/15",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.islandcastawaypg.mac"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.lettersfromnowherepg.mac"  :
+  {
+    "date"        : "2016/04/19",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.paranormalsocietypg.hd"  :
+  {
+    "date"        : "2016/04/18",
+    "update"      : "2016/04/18",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.paranormalsocietypg.android"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.paranormalsocietypg.android.amzn"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.wrathruinpg"  :
+  {
+    "date"        : "2016/05/04",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.wrathruinpg.hd"  :
+  {
+    "date"        : "2016/05/04",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.lettersfromnowherepg.winrt"  :
+  {
+    "date"        : "2016/04/07",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.wac2"  :
+  {
+    "date"        : "2016/05/12",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.wac2.hd"  :
+  {
+    "date"        : "2016/05/12",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.specialenquirydetailpg.hd"  :
+  {
+    "date"        : "2016/05/04",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.specialenquirydetailpg"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.twinmoonspg.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.kngtales2.mac"  :
+  {
+    "date"        : "2015/12/03",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.mahjong.android"  :
+  {
+    "date"        : "2016/05/04",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.nightmaresfromthedeeppg.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.summer"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.summer.android"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.summer.mac"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.summer.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.summer.winphone"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.summer.android.amzn"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.summer.winrt"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.lostsouls2.android"  :
+  {
+    "date"        : "2015/12/10",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.lostsouls2.android.amzn.full"  :
+  {
+    "date"        : "2015/12/10",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.kngtales2.winrt"  :
+  {
+    "date"        : "2015/12/25",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.mythsoforion.android"  :
+  {
+    "date"        : "2016/05/12",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.mythsoforion.android.amzn.full"  :
+  {
+    "date"        : "2016/04/28",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.salespromotion"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.salespromotion.mac"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.salespromotion.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.salespromotion.android.amzn"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.salespromotion.winphone"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.salespromotion.android"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.salespromotion.winrt"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.survivors.winrt"  :
+  {
+    "date"        : "2016/04/29",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.wrathruinpg.android"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.wrathruinpg.android.amzn.full"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.lostsouls2.winrt"  :
+  {
+    "date"        : "2016/02/24",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.supermarketmaniapg.android"  :
+  {
+    "date"        : "2016/03/24",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.supermarketmaniapg.android.amzn"  :
+  {
+    "date"        : "2016/03/17",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.royaltrouble2.android"  :
+  {
+    "date"        : "2016/03/09",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.royaltrouble2.android.amzn.full"  :
+  {
+    "date"        : "2016/03/03",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.kngtales2.winphone"  :
+  {
+    "date"        : "2016/03/31",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.specialenquirydetailpg.android"  :
+  {
+    "date"        : "2016/05/04",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.specialenquirydetailpg.android.amzn"  :
+  {
+    "date"        : "2016/04/29",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.match3pg"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.match3pg.hd"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.match3pg.android"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.match3pg.android.amzn"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.match3pg.winrt"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.hiddencity.mac"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.hiddencity.winrt"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.lostsouls2.mac"  :
+  {
+    "date"        : "2016/05/12",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.survivors.mac"  :
+  {
+    "date"        : "2016/05/17",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : true
+  },
+  "com.g5e.mythsoforion.mac"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.wac2.android"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.wac2.android.amzn.full"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.mythsoforion.winrt"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  },
+  "com.g5e.mahjong.winrt"  :
+  {
+    "date"        : "2020/01/01",
+    "update"      : "2020/01/01",
+    "doomed"      : 0,
+    "promo"       : false
+  }
+}

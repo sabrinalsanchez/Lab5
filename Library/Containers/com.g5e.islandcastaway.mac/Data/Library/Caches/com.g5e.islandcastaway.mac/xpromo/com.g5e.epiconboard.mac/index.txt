@@ -1,0 +1,61 @@
+{
+    "lang.en": {
+        "title": "Epic Adventures: Cursed Onboard",
+        "#slogan": "Unravel the mystery of Jangada.",
+        "title_short": "Cursed Onboard",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id597386332?mt=12",
+            "full": "http://itunes.apple.com/app/id597386083?mt=12"
+        },
+        "#youtube_id": "WUzBk1AqBc8",
+        "article span": "Unravel the mystery of Jangada, a long lost ship stranded in the Amazon Jungle. Undo an old curse and bring peace to a tormented soul in this breath-taking hidden object game, Epic Adventures: Cursed Onboard!<ul><li>25 Eery locations</li><li>8 Magnificent chapters</li><li>10 Unique mini-games</li><li>Experience an astonishing and tragic story</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: Cursed Onboard<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Epic Adventures: Cursed Onboard",
+        "#slogan": "Decke das Geheimnis von Jangada auf.",
+        "title_short": "Cursed Onboard",
+        "article span": "Lös das Geheimnis von Jangada, einem seit langem im Urwald des Amazonas verschollenen Schiff. Breche einen alten Fluch und verschaffe einer gequälten Seele Frieden in diesem atemberaubenden Hidden-Objects-Game, Epic Adventures: Cursed Onboard!<ul><li>25 Unheimliche Orte</li><li>8 Großartige Kapitel</li><li>10 Einzigartige Minigames</li><li>Durchlebe eine verblüffende und tragische Geschichte</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: Cursed Onboard<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Epic Adventures: Cursed Onboard",
+        "#slogan": "Desentraña los misterios de Jangada.",
+        "title_short": "Cursed Onboard",
+        "article span": "Aclara el misterio de la Jangada, un barco perdido hace mucho tiempo, abandonado en la selva amazónica. ¡Deshace la vieja maldición y trae la paz a un alma atormentada en este impresionante juego de objetos ocultos, Epic Adventures: Cursed Onboard!<ul><li>25 Espeluznantes ubicaciones</li><li>8 Magníficos episodios</li><li>10 Mini-juegos únicos en su género</li><li>Disfrute de una historia asombrosa y trágica</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: Cursed Onboard<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Epic Adventures: Cursed Onboard",
+        "#slogan": "Percez le mystère de la Jangada.",
+        "title_short": "Cursed Onboard",
+        "article span": "Percez l&apos;énigme du Jangada, un bateau mystérieusement disparu au cœur de la jungle amazonienne. Conjurez une malédiction ancestrale et aidez une âme tourmentée à retrouver un semblant de paix dans Epic Adventures: Cursed Onboard, un incroyable jeu d&apos;objets cachés !<ul><li>25 Lieux qui donnent la chair de poule</li><li>8 Chapitres magnifiques</li><li>10 Mini-jeux exclusifs</li><li>Découvrez une histoire éprouvante et tragique</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: Cursed Onboard<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Epic Adventures: Cursed Onboard",
+        "#slogan": "Risolvi il mistero della Jangada.",
+        "title_short": "Cursed Onboard",
+        "article span": "Svela i misteri della Jangada, una nave dispersa nella giungla amazzonica da lungo tempo. Spezza una vecchia maledizione e porta la pace a un&apos;anima tormentata in questo gioco mozzafiato alla ricerca di oggetti nascosti, Epic Adventures: Cursed Onboard!<ul><li>25 Location spettrali</li><li>8 Magnifici capitoli</li><li>10 Unici minigiochi</li><li>Sperimenta una storia sorprendente e tragica</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: Cursed Onboard<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Проклятый корабль: Легендарные приключения",
+        "#slogan": "Разгадайте загадку Джангады.",
+        "title_short": "Проклятый корабль",
+        "article span": "Раскройте тайну Жангады, корабля, затерянного в джунглях Амазонки. Снимите древнее проклятие и верните покой измученным душам!<ul><li>25 Пугающих локаций</li><li>8 Восхитительных глав</li><li>10 Неповторимых мини-игр</li><li>Удивительная и трагическая история</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Проклятый корабль: Легендарные приключения<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Epic Adventures: 诅咒之船",
+        "title_short": "Epic Adventures: 诅咒之船"
+    },
+    "lang.ja": {
+        "title": "Epic Adventures: 呪われた船",
+        "title_short": "Epic Adventures: 呪われた船"
+    },
+    "lang.ko": {
+        "title": "Epic Adventures: 저주받은 승선",
+        "title_short": "Epic Adventures: 저주받은 승선"
+    }
+}

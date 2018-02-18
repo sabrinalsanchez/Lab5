@@ -1,0 +1,112 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "#slogan"     : "Build the city of your dreams… and then run it!",
+    "title_short"  : "Virtual City Playground®",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id479527329?mt=12",
+      "hastrk3"   : "https://launch1.co/serve?action=click&publisher_id=53938&site_id=76766&my_campaign=test"
+    },
+    "#youtube_id"  : "97Nli41qrSw",
+    "article span"  : "City-builders, get excited! The world&apos;s best city builder just got a BIG makeover – and the ALL-NEW GRAPHICS will make your dream city even more out of this world.<br />
+<ul>
+<li>Over 500 uplifting quests to tackle as you grow and enhance your city </li>
+<li>Nearly 200 buildings, landmarks and decorations for city beautification </li>
+<li>About 100 challenging achievements to earn and celebrate with your friends </li>
+<li>Regular FREE updates to keep you stimulated and entertained</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "#slogan"     : "Bau deine Traumstadt ... und verwalte sie dann!",
+    "title_short"  : "Virtual City Playground®",
+    "article span"  : "Städtebauer aufgepasst! Das weltweit beste Städtebauspiel hat gerade ein GRÜNDLICHES Umstyling erfahren! Die VÖLLIG NEUEN GRAFIKEN lassen deine Traumstadt noch phantastischer werden.<br />
+<ul>
+<li>Mehr als 500 fantastische Quests, die es zu bestehen gilt, während deine Stadt wächst und verbessert wird </li>
+<li>Beinahe 200 Gebäude, Sehenswürdigkeiten und Verzierungen für deine Stadt </li>
+<li>Beinahe 100 herausfordernde Leistungen, die man sich verdienen und mit seinen Freunden feiern kann </li>
+<li>Regelmäßige KOSTENLOSE Aktualisierungen, um deine Fantasie anzuregen und dich zu unterhalten </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "#slogan"     : "Construye la ciudad de tus sueños... y luego dirígela.",
+    "title_short"  : "Virtual City Playground®",
+    "article span"  : "¡Atención, arquitectos! El mejor constructor de ciudades del mundo acaba de experimentar un GRAN cambio de imagen - sus GRÁFICOS COMPLETAMENTE NUEVOS conseguirán que la ciudad de tus sueños sea aún más increíble. <br />
+<ul>
+<li>Más de 500 edificantes misiones por abordar mientras mejoras y haces crecer tu ciudad </li>
+<li>Casi 200 edificios, monumentos y decoraciones para embellecer tu ciudad </li>
+<li>Casi 100 desafiantes logros por obtener y celebrar con tus amigos </li>
+<li>Actualizaciones GRATUITAS regularmente, para que sigas teniendo estímulos y entretenimiento para rato</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "#slogan"     : "Construisez une ville digne de vos rêves les plus fous et les plus ambitieux… et gérez-la !",
+    "title_short"  : "Virtual City Playground®",
+    "article span"  : "Architectes, bâtisseurs et concepteurs en herbe ou confirmés, réjouissez-vous ! Le meilleur city-builder au monde vient de faire peau neuve ! Au programme de cette REFONTE MAJEURE : des GRAPHISMES REMASTÉRISÉS qui métamorphoseront votre ville en un paradis urbain encore plus extraordinaire !<br />
+<ul>
+<li>Plus de 500 quêtes passionnantes à mener à bien tout en développant et en améliorant votre ville </li>
+<li>Presque 200 bâtiments, monuments et décors pour embellir votre ville </li>
+<li>Environ 100 trophées stimulants à gagner... et autant de raisons de célébrer avec vos amis </li>
+<li>Mises à jour régulières et GRATUITES pour renouveler constamment l&apos;intérêt du jeu </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "#slogan"     : "Costruisci la città dei tuoi sogni e poi gestiscila.",
+    "title_short"  : "Virtual City Playground®",
+    "article span"  : "Costruttori di città, preparatevi! Il migliore gioco di sviluppo cittadino ha appena ricevuto un grande lifting: la GRAFICA COMPLETAMENTE RINNOVATA renderà la tua città dei sogni ancora più esotica.<br />
+<ul>
+<li>Più di 500 missioni da affrontare mentre espandi e migliori la tua città </li>
+<li>Quasi 200 edifici, luoghi storici e decorazioni per abbellire la tua città </li>
+<li>Un centinaio di difficili riconoscimenti da conquistare e per cui festeggiare con i tuoi amici</li>
+<li>Aggiornamenti GRATUITI regolari per garantirti sempre nuovi stimoli e nuovo divertimento </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Виртуальный Город Playground: Строительный магнат",
+    "#slogan"     : "Постройте город своей мечты … и управляйте им!",
+    "title_short"  : "Вирт. Гор. Playground",
+    "article span"  : "Градостроители, радуйтесь! Ваша любимая игра стала НАМНОГО ЛУЧШЕ - абсолютно НОВАЯ ГРАФИКА преобразит город вашей мечты до неузнаваемости!<br />
+<ul>
+<li>Пройдите более 500 увлекательных квестов по мере роста и модернизации вашего города </li>
+<li>Более 200 зданий и достопримечательностей для украшения вашего города </li>
+<li>Заработайте почти 100 непростых достижений и отпразднуйте с друзьями </li>
+<li>Постоянные бесплатные апдейты не позволят вам заскучать </li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Виртуальный Город Playground: Строительный магнат<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>undefined:</h3>"
+  },
+  "lang.zh_tw"    :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Virtual City Playground®: Building Tycoon",
+    "ct"          : "<h3 style='text-align: center;'>Virtual City Playground®: Building Tycoon<br>undefined:</h3>"
+  }
+}

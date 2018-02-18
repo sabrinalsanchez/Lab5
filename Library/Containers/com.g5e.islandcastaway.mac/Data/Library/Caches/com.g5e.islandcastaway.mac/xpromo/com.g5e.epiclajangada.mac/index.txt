@@ -1,0 +1,62 @@
+{
+    "lang.en": {
+        "title": "Epic Adventures: La Jangada",
+        "#slogan": "Find evidence to save Minha’s dad.",
+        "title_short": "Epic Adventures",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id586562163?mt=12",
+            "full": "http://itunes.apple.com/app/id586561534?mt=12"
+        },
+        "#youtube_id": "ebA4g1gYqdY",
+        "genre": "ADV",
+        "article span": "Embark on an unforgettable journey in this epic adventure based on a Jules Verne’s novel! Search for answers and clues in 43 thrilling locations, solve a variety of intriguing puzzles, brave the dangers of the Amazon jungles and help Minha find evidence to save her father in Epic Adventures: La Jangada!<ul><li>43 Magnificent locations</li><li>8 immersive chapters</li><li>12 Fancy mini-games</li><li>Intriguing and classic storyline </li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: La Jangada<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "Epic Adventures: La Jangada",
+        "#slogan": "Finde Hinweise, um Minhas Vater zu retten.",
+        "title_short": "Epic Adventures",
+        "article span": "Erlebe auf dieser unvergesslichen Reise Abenteuer, die auf den Geschichten von Jules Verne basieren. Suche an 43 spannenden Orten nach Antworten und Hinweisen, löse faszinierende Rätsel, stell dich den Gefahren des Amazonasdschungels und helfe Minha bei der Rettung ihres Vaters in Epic Adventures: La Jangada!<ul><li>43 Großartige Orte</li><li>8 Аantastischen Kapiteln</li><li>12 Raffinierte Minispiele</li><li>Faszinierende und klassische Storyline</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: La Jangada<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "Epic Adventures: La Jangada",
+        "#slogan": "Busca pruebas para salvar al padre de Minha.",
+        "title_short": "Epic Adventures",
+        "article span": "¡Embárcate en un inolvidable viaje en esta épica aventura basada en una de las novelas de Julio Verne ! ¡Busca respuestas y pistas en 43 emocionantes ubicaciones, resuelve una gran variedad de intrigantes rompecabezas, enfréntate a los peligros de la selva amazónica y ayuda a Minha a encontrar las pruebas necesarias para salvar a su padre en Epic Adventures: La Jangada!<ul><li>43 Magníficas ubicaciones</li><li>8 Cautivantes capítulos</li><li>12 Fantásticos mini-juegos</li><li>Un fascinante argumento clásico</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: La Jangada<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "Epic Adventures: La Jangada",
+        "#slogan": "Innocentez le père de Minha.",
+        "title_short": "Epic Adventures",
+        "article span": "Embarquez pour un périple inoubliable dans cette aventure épique inspirée d&apos;un roman de Jules Vernes ! Partez à la recherche de la vérité et dénichez de nombreux indices dissimulés au sein de 43 lieux magnifiques, résolvez divers casse-tête stimulants, bravez les terribles dangers de la jungle amazonienne et aidez Minha à trouver les preuves qui innocenteront son père une bonne fois pour toutes ! Préparez-vous à vivre des moments d&apos;anthologie dans Epic Adventures: La Jangada !<ul><li>43 Lieux pittoresques</li><li>8 Chapitres captivants</li><li>12 Mini-jeux passionnants</li><li>Intrigue classique et captivante</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: La Jangada<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "Epic Adventures: La Jangada",
+        "#slogan": "Trova le prove per scagionare il papà di Minha.",
+        "title_short": "Epic Adventures",
+        "article span": "Parti per questo viaggio indimenticabile in questa avventura epica basata sul romanzo di Jules Verne! Cerca risposte e indizi in 43 emozionanti località, risolvi una varietà di giochi intriganti, sfida le insidie della foresta amazzonica e aiuta Minha a trovare le prove per salvare suo padre in Epic Adventures: La Jangada!<ul><li>43 Meravigliose località</li><li>8 Coinvolgenti capitoli</li><li>12 Fantastici minigiochi</li><li>Trama intrigante e indimenticabile</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Epic Adventures: La Jangada<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Жангада: Легендарные приключения",
+        "#slogan": "Найдите улики, чтобы спасти отца Миньи.",
+        "title_short": "Жангада: Легенд.",
+        "article span": "Отправьтесь в незабываемое путешествие в этом легендарном приключении по мотивам романа Жюля Верна! Исследуйте 43 захватывающие локации в поисках ответов и подсказок, разгадайте множество занимательных головоломок, сумейте противостоять опасностям джунглей Амазонки, помогите Мине найти доказательства и спасти отца в игре Жангада: Легендарные приключения.<ul><li>43 Великолепные локации</li><li>8 Захватывающих глав</li><li>12 Удивительных мини-игр</li><li>Интригующий, классический сюжет</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Жангада: Легендарные приключения<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "Epic Adventures: 拉赞伽答",
+        "title_short": "Epic Adventures: 拉赞伽答"
+    },
+    "lang.ja": {
+        "title": "Epic Adventures: ジャンガダ",
+        "title_short": "Epic Adventures: ジャンガダ"
+    },
+    "lang.ko": {
+        "title": "Epic Adventures: 라 잔가다",
+        "title_short": "Epic Adventures: 라 잔가다"
+    }
+}

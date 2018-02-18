@@ -1,0 +1,62 @@
+{
+    "lang.en": {
+        "title": "9 Clues: The Secret of Serpent Creek",
+        "#slogan": "Be the one to stop the nefarious Snake God!",
+        "title_short": "9 Clues",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id828935172?mt=12",
+            "full": "http://itunes.apple.com/app/id828939422?mt=12"
+        },
+        "#youtube_id": "PPhqO1KRwno",
+        "genre": "ADV",
+        "article span": "Save your best friend and an entire 1950s town from a terrifying threat! Investigate mysterious locations and solve challenging puzzles to piece together clues about what happened to Helen. Reveal the evil that clutches this crippled town and stop a nefarious plot to bring the Snake God back to our world!<ul><li>53 eerie locations</li><li>13 clever puzzles and mini-games</li><li>Six strange characters</li><li>19 achievements to unlock</li><li>Thrilling story set in 1950s America</li></ul>",
+        "ct": "<h3 style='text-align: center;'>9 Clues: The Secret of Serpent Creek<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "9 Clues: The Secret of Serpent Creek",
+        "#slogan": "Halte den ruchlosen Schlangengott auf!",
+        "title_short": "9 Clues",
+        "article span": "Rette deine beste Freundin sowie eine vollständige Stadt der 1950er Jahre vor einer furchtbaren Gefahr! Untersuche geheimnisvolle Orte und löse knifflige Rätsel, um herauszufinden, was mit Helen geschehen ist. Entdecke das Böse, das diese Stadt in seinen Klauen hält und vereitle einen niederträchtigen Plan, der den Schlangengott in unsere Welt bringen soll.<ul><li>53 gruselige Orte</li><li>13 knifflige Rätsel und Minispiele</li><li>Sechs seltsame Charaktere</li><li>19 Auszeichnungen</li><li>Eine spannende Geschichte, die in den 1950er Jahren in Amerika spielt</li></ul>",
+        "ct": "<h3 style='text-align: center;'>9 Clues: The Secret of Serpent Creek<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "9 Clues: The Secret of Serpent Creek",
+        "#slogan": "¡Detén al malvado dios serpiente!",
+        "title_short": "9 Clues",
+        "article span": "¡Salva a tu mejor amiga y a toda una aldea de los años cincuenta de una terrible amenaza! Investiga escenas misteriosas y resuelve puzles desafiantes para hallar pistas sobre lo que le ha ocurrido a Helen. ¡Revela el mal que se ha apoderado de esta deteriorada aldea, y detén un ruin plan para devolver al dios de las serpientes a nuestro mundo!<ul><li>53 espeluznantes escenas</li><li>13 ingeniosos puzles y minijuegos</li><li>Seis extraños personajes</li><li>19 logros por desbloquear</li><li>Emocionante historia situada en la América de los años cincuenta</li></ul>",
+        "ct": "<h3 style='text-align: center;'>9 Clues: The Secret of Serpent Creek<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "9 Clues: The Secret of Serpent Creek",
+        "#slogan": "Terrassez le redoutable Dieu Serpent !",
+        "title_short": "9 Clues",
+        "article span": "Secourez votre meilleure amie et enrayez une terrible menace qui plane sur une ville tout entière en pleine Amérique des années 50 ! Passez d&apos;étranges lieux au peigne fin et élucidez des énigmes insondables pour découvrir ce qu&apos;il est advenu de la jeune femme ! Percez le secret d&apos;un Mal ancestral qui s&apos;est abattu sur cette ville damnée et contrecarrez un complot machiavélique visant à tirer le dieu serpent de son sommeil éternel...<ul><li>53 lieux sinistres</li><li>13 énigmes et mini-jeux stimulants</li><li>Six personnages étranges</li><li>19 trophées à gagner</li><li>Intrigue captivante se déroulant dans l&apos;Amérique des années 50</li></ul>",
+        "ct": "<h3 style='text-align: center;'>9 Clues: The Secret of Serpent Creek<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "9 Clues: The Secret of Serpent Creek",
+        "#slogan": "Sii la persona che fermerà dio serpente!",
+        "title_short": "9 Clues",
+        "article span": "Salva la tua migliore amica e un paese degli anni &apos;50 da una minaccia spaventosa! Esamina ambienti misteriosi e risolvi dei rompicapi impegnativi per ricomporre gli indizi e scoprire cosa è accaduto a Helen. Rivela il male che attanaglia questo paese ferito e ferma un piano diabolico per portare il dio dei serpenti nel nostro mondo!<ul><li>53 ambientazioni inquietanti</li><li>13 rompicapi e mini giochi ingegnosi</li><li>Sei strani personaggi</li><li>19 riconoscimenti da sbloccare</li><li>Una storia emozionante ambientata negli Stati Uniti degli anni &apos;50</li></ul>",
+        "ct": "<h3 style='text-align: center;'>9 Clues: The Secret of Serpent Creek<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "9 улик: Тайна Серпент-Крика",
+        "#slogan": "Остановите зловещего Змеиного Бога!",
+        "title_short": "9 улик",
+        "article span": "Спасите свою лучшую подругу и целый городок середины прошлого века от страшной беды! Исследуйте таинственные локации и решайте сложные головоломки, чтобы собрать воедино все улики и узнать, что же случилось с Хелен. Избавьте многострадальный город от вселенского зла и не дайте гнусному Змеиному Богу завладеть миром!<ul><li>53 зловещих локации</li><li>13 хитроумных головоломок и мини-игр</li><li>6 загадочных персонажей</li><li>19 игровых достижений</li><li>Захватывающая история, произошедшая в середине прошлого века в Америке</li></ul>",
+        "ct": "<h3 style='text-align: center;'>9 улик: Тайна Серпент-Крика<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "9 Clues：蛇溪的秘密",
+        "title_short": "9 Clues：蛇溪的秘密"
+    },
+    "lang.ja": {
+        "title": "9 Clues：サーペントクリークの秘密",
+        "title_short": "9 Clues：サーペントクリークの秘密"
+    },
+    "lang.ko": {
+        "title": "9 Clues: 서펀트 크리크의 비밀",
+        "title_short": "9 Clues: 서펀트 크리크의 비밀"
+    }
+}

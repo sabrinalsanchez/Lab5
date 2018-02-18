@@ -1,0 +1,62 @@
+{
+    "lang.en": {
+        "title": "The Island: Castaway® 2",
+        "#slogan": "The much-anticipated sequel to the vibrant simulation game is here!",
+        "title_short": "The Island: Castaway® 2",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id834969633?mt=12",
+            "full": "http://itunes.apple.com/app/id834975771?mt=12"
+        },
+        "#youtube_id": "uTGeStkBEbY",
+        "genre": "ST",
+        "article span": "The much-anticipated sequel to the vibrant simulation game The Island: Castaway is here! Explore the large, picturesque island and learn to fish, catch multipedes, shoot the leap-quicks and boars, garden and harvest, cook, make arrows, cut trees and even practice sorcery!  <ul><li>A huge, colorful island to explore</li><li>Over 300 intriguing quests to complete</li><li>16 original and engaging characters</li><li>28 rarities to collect for Professor Langst</li><li>11 unique recipes to master</li><li>Dozens of vegetables, herbs and fruits to grow</li><li>Fascinating storyline and stunning artwork</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway® 2<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "The Island: Castaway® 2",
+        "#slogan": "Die mit Spannung erwartete Fortsetzung des populären Simulationsspiels ist da!",
+        "title_short": "The Island: Castaway® 2",
+        "article span": "Die mit Spannung erwartete Fortsetzung des populären Simulationsspiels The Island: Castaway ist da! Erforsche die große malerische Insel und lerne zu angeln, fange Tausenfüßler, schieße Böcke und Wildschweine, pflanze und ernte, koche, stelle Pfeile her, fälle Bäume und übe dich sogar in Zauberei!<ul><li>Eine großes, farbenfrohe Insel zum Erforschen</li><li>Mehr als 300 faszinierende Aufgaben</li><li>16 originale und bezaubernde Charaktere</li><li>Sammeln von 28 Raritäten für Professor Langst</li><li>Aneignen 11 einzigartiger Rezepte</li><li>Dutzende Gemüsearten, Kräuter und Früchte zum Anbauen</li><li>Faszinierende Handlung und atemberaubende Grafik</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway® 2<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "The Island: Castaway® 2",
+        "#slogan": "¡Ya está aquí la esperadísima continuación del emocionante juego de simulación!",
+        "title_short": "The Island: Castaway® 2",
+        "article span": "¡Ya está aquí la esperadísima continuación del emocionante juego de simulación The Island: Castaway! Explora la gran y pintoresca isla, y aprender a pescar, cazar ciempiés, disparar a jabalís y animales saltarines, cocinar, fabricar flechas, talar árboles... ¡y hasta practicar brujería!<ul><li>Una enorme y colorida isla por explorar</li><li>Más de 300 interesantes misiones por completar</li><li>16 originales y cautivadores personajes</li><li>28 rarezas que coleccionar para el profesor Langst</li><li>11 recetas únicas por dominar</li><li>Docenas de hortalizas, hierbas y frutas por cosechar</li><li>Un argumento fascinante y unos gráficos impresionantes</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway® 2<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "The Island: Castaway® 2",
+        "#slogan": "La suite tant attendue de la célébrissime aventure vidéoludique est enfin là !",
+        "title_short": "The Island: Castaway® 2",
+        "article span": "La suite tant attendue de la célébrissime aventure vidéoludique The Island: Castaway est enfin là ! Explorez d&apos;immenses territoires et apprenez à pécher, à attraper des mille-pattes, à traquer des oiseaux exotiques, à chasser le sanglier, à jardiner et à cultiver, à faire la cuisine, à fabriquer des flèches, à abattre des arbres, et même à maîtriser une sorcellerie surpuissante !  <ul><li>Une île immense et pittoresque à explorer</li><li>Plus de 300 quêtes fascinantes à mener à bien</li><li>16 personnages originaux et hauts en couleur</li><li>28 artefacts rarissimes à dénicher pour le professeur Langst</li><li>11 recettes uniques à maîtriser</li><li>Des dizaines de légumes, d&apos;herbes et de fruits à cultiver</li><li>Intrigue captivante et sublimes graphismes</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway® 2<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "The Island: Castaway® 2",
+        "#slogan": "L&apos;anticipatissimo seguito del vivace gioco di simulazione è arrivato!",
+        "title_short": "The Island: Castaway® 2",
+        "article span": "L&apos;anticipatissimo seguito del vivace gioco di simulazione The Island: Castaway è arrivato! Esplora la grande isola pittoresca e impara a pescare, a catturare i millepiedi, a sparare ai cinghiali, a coltivare e raccogliere, a cucinare, a fare frecce, a tagliare alberi e a fare lo stregone!<ul><li>Un&apos;enorme e vivace isola da esplorare</li><li>Più di 300 missioni intriganti da completare</li><li>16 personaggi originali e interessanti</li><li>28 rarità da collezionare per il professor Langst</li><li>11 diverse ricette da padroneggiare</li><li>Dozzine di ortaggi, erbe e frutta da coltivare</li><li>Grafiche splendide e una trama coinvolgente</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway® 2<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Остров: Затерянные в океане 2",
+        "#slogan": "Долгожданное продолжение бестселлера - Остров: Затерянные в океане!",
+        "title_short": "Остров 2",
+        "article span": "Долгожданное продолжение бестселлера - Остров: Затерянные в океане! Исследуйте огромный живописный остров и научитесь ловить рыбу, охотиться на многоногов и быстропрыгов, метко стрелять в диких кабанов, выращивать овощи и собирать урожай, готовить пищу, делать стрелы, рубить деревья и даже колдовать!<ul><li>Огромный живописный остров</li><li>Более 300 интригующих квестов</li><li>16 характерных и привлекательных персонажей</li><li>28 предметов для коллекции профессора Лангста</li><li>11 уникальных рецептов блюд</li><li>Десятки овощей, трав и фруктов для выращивания</li><li>Захватывающий сюжет и потрясающая графика</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Остров: Затерянные в океане 2<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "The Island: Castaway 2®",
+        "title_short": "The Island: Castaway 2®"
+    },
+    "lang.ja": {
+        "title": "The Island: Castaway 2®",
+        "title_short": "The Island: Castaway 2®"
+    },
+    "lang.ko": {
+        "title": "The Island: Castaway 2®",
+        "title_short": "The Island: Castaway 2®"
+    }
+}

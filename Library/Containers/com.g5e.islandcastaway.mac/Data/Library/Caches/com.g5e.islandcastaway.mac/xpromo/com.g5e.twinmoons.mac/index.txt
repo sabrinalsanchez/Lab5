@@ -1,0 +1,116 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Twin Moons",
+    "#slogan"     : "Save the future in this thrilling hidden object adventure!",
+    "title_short"  : "Twin Moons",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id680528796?mt=12",
+      "full"      : "http://itunes.apple.com/app/id680530795?mt=12"
+    },
+    "#youtube_id"  : "6L26fUBHdWo",
+    "article span"  : "Reveal shocking secrets from the past and save the future in this thrilling hidden object adventure! Explore eerie locations and piece together the truth about a mysterious portal that could change the world as we know it!
+<ul>
+<li>51 creepy and enigmatic levels</li>
+<li>20 challenging mini-games to master</li>
+<li>18 achievements to earn along the way</li>
+<li>Two alternative endings – you choose!</li>
+<li>Intriguing storyline and vivid characters</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Twin Moons",
+    "#slogan"     : "Rette die Zukunft in diesem fesselnden Wimmelbildabenteuer!",
+    "title_short"  : "Twin Moons",
+    "article span"  : "Decke schockierende Geheimnisse der Vergangenheit auf und rette die Zukunft in diesem fesselnden Wimmelbildabenteuer! Erkunde schaurige Schauplätze, finde die Wahrheit heraus und setze die einzelnen Puzzleteile eines geheimnisvollen Portals zusammen, das die Welt, wie wir sie derzeit kennen, für immer verändern könnte!
+<ul>
+<li>51 unheimliche und mysteriöse Level</li>
+<li>20 herausfordernde Minispiele zum Meistern</li>
+<li>18 Leistungen, die man sich während des Spielens verdienen kann</li>
+<li>Zwei verschiedene Spielausgänge – du entscheidest dich!</li>
+<li>Fesselnde Geschichte und lebendige Spielfiguren</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Twin Moons",
+    "#slogan"     : "¡Salva el futuro en esta emocionante aventura de objetos ocultos!",
+    "title_short"  : "Twin Moons",
+    "article span"  : "¡Desentraña sorprendentes secretos del pasado y salva el futuro en esta emocionante aventura de objetos ocultos! ¡Explora espeluznantes lugares y reconstruye la verdad sobre un misterioso portal que podría cambiar el mundo tal como lo conocemos!
+<ul>
+<li>51 espeluznantes y enigmáticos niveles</li>
+<li>20 desafiantes minijuegos por dominar</li>
+<li>18 logros por desbloquear durante la aventura</li>
+<li>Dos finales alternativos; ¡tú eliges!</li>
+<li>Una trama fascinantes y personajes memorables</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Twin Moons",
+    "#slogan"     : "Sauvez le futur dans cette aventure haletante truffée d&apos;objets cachés !",
+    "title_short"  : "Twin Moons",
+    "article span"  : "Découvrez de terribles secrets d&apos;antan et sauvez le futur dans cette aventure haletante truffée d&apos;objets cachés ! Explorez des lieux qui donnent froid dans le dos et percez le mystère d&apos;un portail étrange qui pourrait changer le monde à tout jamais !
+<ul>
+<li>51 niveaux terrifiants et énigmatiques</li>
+<li>20 minijeux stimulants à maîtriser</li>
+<li>18 trophées à gagner lors de votre aventure</li>
+<li>Deux fins possibles (c&apos;est vous qui choisissez !)</li>
+<li>Intrigue palpitante et personnages hauts en couleur</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Twin Moons",
+    "#slogan"     : "Salva il futuro in questa elettrizzante avventura a oggetti nascosti!",
+    "title_short"  : "Twin Moons",
+    "article span"  : "Scopri degli scioccanti segreti dal passato e salva il futuro in questa elettrizzante avventura a oggetti nascosti! Esplora ambientazioni inquietanti e scopri la verità su un misterioso portale che può cambiare il mondo che noi conosciamo!
+<ul>
+<li>51 livelli misteriosi e raccapriccianti</li>
+<li>20 difficili mini giochi da padroneggiare</li>
+<li>18 riconoscimenti da ottenere mentre giochi</li>
+<li>Due finali diversi, a tua scelta!</li>
+<li>Trama intrigante e personaggi pieni di vita</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Две луны",
+    "#slogan"     : "Спасите будущее в этом увлекательном приключении!",
+    "title_short"  : "Две луны",
+    "article span"  : "Раскройте шокирующие тайны прошлого, чтобы спасти будущее! Исследуйте таинственные локации и соберите по кусочкам правду о мистическом портале, который может изменить весь мир!
+<ul>
+<li>Более 50 увлекательных уровней</li>
+<li>20 интереснейших мини-игр</li>
+<li>18 достижений</li>
+<li>Два варианта окончания игры – выбор за вами!</li>
+<li>Захватывающий сюжет и яркие персонажи</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Две луны<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Twin Moons",
+    "title_short"  : "Twin Moons",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Twin Moons",
+    "title_short"  : "Twin Moons",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Twin Moons",
+    "title_short"  : "Twin Moons",
+    "ct"          : "<h3 style='text-align: center;'>Twin Moons<br>undefined:</h3>"
+  }
+}

@@ -1,0 +1,24 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Lewis, Gladius
+AU  - Schwardt, Jeffrey D.
+AU  - Slater, Thomas A.
+AU  - Janna, Si
+TI  - Evaluation of a synthetic vertebral body augmentation model for rapid and reliable cyclic compression life testing of materials for balloon kyphoplasty
+JO  - Journal of Biomedical Materials Research Part B: Applied Biomaterials
+JA  - J. Biomed. Mater. Res.
+VL  - 87B
+IS  - 1
+PB  - Wiley Subscription Services, Inc., A Wiley Company
+SN  - 1552-4981
+UR  - http://dx.doi.org/10.1002/jbm.b.31089
+DO  - 10.1002/jbm.b.31089
+SP  - 179
+EP  - 188
+KW  - balloon kyphoplasty
+KW  - bone cement
+KW  - fatigue
+PY  - 2008
+ER  - 

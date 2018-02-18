@@ -1,0 +1,62 @@
+{
+    "lang.en": {
+        "title": "The Island: Castaway®",
+        "#slogan": "Survive and get back home!",
+        "title_short": "The Island: Castaway®",
+        "#links": {
+            "free": "http://itunes.apple.com/app/id526739202?mt=12",
+            "full": "http://itunes.apple.com/app/id526740801?mt=12"
+        },
+        "#youtube_id": "SNA6vFD0j34",
+        "genre": "ST",
+        "article span": "Intense challenges await you in The Island: Castaway, an extremely addictive simulation game. Explore the enigmatic Island to find clues, solve over 200 diverse quests and decrypt ancient writings.<ul><li>12 Absorbing locations</li><li>14 Unique and fascinating characters</li><li>Over 200 quests to solve</li><li>Huge, perplexing island to investigate</li><li>Plot that&apos;s full of twists and turns</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway®<br>will be available in:</h3>"
+    },
+    "lang.de": {
+        "title": "The Island: Castaway®",
+        "#slogan": "Überlebe und kehre nach Hause zurück!",
+        "title_short": "The Island: Castaway®",
+        "article span": "Große Herausforderungen erwarten dich in The Island: Castaway, ein extrem süchtighendes Simulationsspiel. Erkunde die rätselhafte Insel und finde Hinweise, löse mehr als 200 abwechslungsreiche Quests und entschlüssele antike Schriften.<ul><li>12 Packende Schauplätze</li><li>14 Einzigartige und faszinierende Charaktere</li><li>Mehr als 200 zu lösende Quests</li><li>Eine riesige, verblüffende Insel, die es zu erkunden gilt</li><li>Spielhandlung mit vielen erstaunlichen Wendungen</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway®<br>ist in:</h3>"
+    },
+    "lang.es": {
+        "title": "The Island: Castaway®",
+        "#slogan": "¡Sobrevive y vuelve a casa!",
+        "title_short": "The Island: Castaway®",
+        "article span": "Te están esperando intensos retos en The Island: Castaway, un juego de simulación extremadamente adictivo. Explora la enigmática isla para encontrar pistas, resolver más de 200 misiones distintas y descifrar los escritos antiguos.<ul><li>12 Absorbentes lugares</li><li>14 Únicos y fascinantes personajes</li><li>Más de 200 misiones para resolver</li><li>Enorme, descorcentante isla para investigar</li><li>Una trama llena de giros y vueltas</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway®<br>estara disponible en:</h3>"
+    },
+    "lang.fr": {
+        "title": "The Island: Castaway®",
+        "#slogan": "Survivez et retournez chez vous !",
+        "title_short": "The Island: Castaway®",
+        "article span": "Des défis exaltants vous attendent dans The Island: Castaway, un jeu résolument simulation qui vous plongera au cœur d&apos;une aventure palpitante ! Explorez cette île énigmatique pour dénicher des indices, déchiffrer des écritures ancestrales et réaliser plus de 200 quêtes aussi diverses que passionnantes.<ul><li>12 Lieux incroyables</li><li>14 Personnages uniques et fascinants</li><li>Plus de 200 quêtes à mener à bien</li><li>Une île immense et mystérieuse à explorer</li><li>Une intrigue aux nombreux rebondissements</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway®<br>sera disponible dans:</h3>"
+    },
+    "lang.it": {
+        "title": "The Island: Castaway®",
+        "#slogan": "Sopravvivi e torna a casa!",
+        "title_short": "The Island: Castaway®",
+        "article span": "Sfide intense ti attendono in The Island: Castaway, un gioco di simulazione che crea estrema dipendenza. Esplora questa enigmatica isola per trovare indizi, risolvi più di 200 missioni diverse e decifra antichi scritti.<ul><li>12 Appassionanti luoghi</li><li>14 Personaggi, unici e affascinanti</li><li>Più di 200 missioni da risolvere</li><li>Un&apos;enorme isola, che ti confonderà, tutta da esplorare</li><li>Una trama ricca di colpi di scena</li></ul>",
+        "ct": "<h3 style='text-align: center;'>The Island: Castaway®<br>sara disponibile tra:</h3>"
+    },
+    "lang.ru": {
+        "title": "Остров: Затерянные в океане",
+        "#slogan": "Выживите и вернитесь домой!",
+        "title_short": "Остров",
+        "article span": "Невероятно увлекательное приключение в жанре симулятор ждет вас в игре Остров: Затерянные в океане. Исследуйте все уголки таинственного острова, выполните более 200 разнообразных заданий и расшифруйте древние письмена.<ul><li>12 Таинственных локаций</li><li>14 Уникальных и удивительных персонажей</li><li>Более 200 разнообразных заданий</li><li>Огромный остров с множеством таинственных мест</li><li>Cюжет, полный неожиданных поворотов</li></ul>",
+        "ct": "<h3 style='text-align: center;'>Остров: Затерянные в океане<br>выйдет через:</h3>"
+    },
+    "lang.zh": {
+        "title": "The Island: Castaway®",
+        "title_short": "The Island: Castaway®"
+    },
+    "lang.ja": {
+        "title": "The Island: Castaway®",
+        "title_short": "The Island: Castaway®"
+    },
+    "lang.ko": {
+        "title": "The Island: Castaway®",
+        "title_short": "The Island: Castaway®"
+    }
+}

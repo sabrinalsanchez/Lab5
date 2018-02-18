@@ -1,0 +1,110 @@
+{
+  "lang.en"       :
+  {
+    "title"       : "Red Crow Mysteries: Legion",
+    "#slogan"     : "Save mankind from a terrifying fate!",
+    "title_short"  : "Red Crow Mysteries",
+    "#links"      :
+    {
+      "free"      : "http://itunes.apple.com/app/id648921876?mt=12",
+      "full"      : "http://itunes.apple.com/app/id648929818?mt=12"
+    },
+    "#youtube_id"  : "9c5sVQ0VYWA",
+    "article span"  : "Save mankind from a terrifying fate in this heart-pounding adventure! Pass the ultimate test to prove that you are the only one able to defeat the impending threat and preserve the world as we know it.
+<ul>
+<li>73 hidden object scenes to search</li>
+<li>25 challenging mini-games to play</li>
+<li>Three awesome chapters with six eye-catching locations</li>
+<li>Three game play modes: easy, casual and adventure</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: Legion<br>will be available in:</h3>"
+  },
+  "lang.de"       :
+  {
+    "title"       : "Red Crow Mysteries: Legion",
+    "#slogan"     : "Rette die Menschheit vor einem schrecklichen Schicksal!",
+    "title_short"  : "Red Crow Mysteries",
+    "article span"  : "Rette die Menschheit vor einem schrecklichen Schicksal in diesem spannenden Abenteuer! Bestehe den ultimativen Test und beweise, dass du als einzige Person in der Lage bist, die drohende Gefahr abzuwenden und die Welt, wie wir sie jetzt kennen, zu bewahren.
+<ul>
+<li>73 Wimmelbildszenen zum Durchsuchen</li>
+<li>25 herausfordernde Minispiele zum Spielen</li>
+<li>Drei unglaubliche Kapitel mit sechs eindrucksvollen Schauplätzen</li>
+<li>Drei Spielmodi: Einfach, Hobby und Abenteuer</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: Legion<br>ist in:</h3>"
+  },
+  "lang.es"       :
+  {
+    "title"       : "Red Crow Mysteries: Legion",
+    "#slogan"     : "¡Salva a la humanidad de un destino terrible!",
+    "title_short"  : "Red Crow Mysteries",
+    "article span"  : "¡Salva a la humanidad de un destino terrible en esta emocionante aventura! Supera la prueba definitiva para demostrar que solo tú puedes derrotar la amenaza que se cierne sobre la humanidad, y conservar el mundo tal y como lo conocemos.
+<ul>
+<li>73 escenas de objetos ocultos por explora</li>
+<li>25 desafiantes minijuegos por resolver</li>
+<li>Tres increíbles episodios con seis llamativas ubicaciones</li>
+<li>Tres modos de juego: fácil, casual y aventura</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: Legion<br>estara disponible en:</h3>"
+  },
+  "lang.fr"       :
+  {
+    "title"       : "Red Crow Mysteries: Legion",
+    "#slogan"     : "Sauvez l&apos;humanité d&apos;un destin funeste !",
+    "title_short"  : "Red Crow Mysteries",
+    "article span"  : "Laissez-vous entraîner au cœur d&apos;une aventure haletante et sauvez l&apos;humanité d&apos;un destin funeste ! Relevez l&apos;ultime défi pour montrer que nul autre que vous ne peut endiguer une menace imminente et sauver le monde d&apos;une terrible catastrophe.
+<ul>
+<li>73 scènes truffées d&apos;objets savamment dissimulés</li>
+<li>25 mini-jeux tous plus stimulants les uns que les autres</li>
+<li>Trois chapitres captivants agrémentés de six lieux pittoresques</li>
+<li>Trois modes de jeu : facile, casual et aventure</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: Legion<br>sera disponible dans:</h3>"
+  },
+  "lang.it"       :
+  {
+    "title"       : "Red Crow Mysteries: Legion",
+    "#slogan"     : "Salva l&apos;umanità da un destino terribile!",
+    "title_short"  : "Red Crow Mysteries",
+    "article span"  : "Salva l&apos;umanità da un destino terribile in quest&apos;avventura mozzafiato! Supera la prova finale e dimostra che sei l&apos;unica persona in grado di annientare l&apos;incombente minaccia e preservare il mondo così come lo conosciamo oggi.
+<ul>
+<li>73 scene di oggetti nascosti da perlustrare</li>
+<li>25 fantastici minigiochi tutti da giocare</li>
+<li>Tre incredibili capitoli e sei ambientazioni di gioco appariscenti</li>
+<li>Tre modalità di gioco: principiante, intermedio, esperto</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: Legion<br>sara disponibile tra:</h3>"
+  },
+  "lang.ru"       :
+  {
+    "title"       : "Тайна Красного ворона: Легион",
+    "#slogan"     : "Защитите человечество от страшной участи!",
+    "title_short"  : "Тайна Красного ворона: Легион",
+    "article span"  : "Защитите человечество от страшной участи в этом головокружительном приключении! Пройдите испытание, которое покажет, действительно ли вы являетесь Избранным, которому суждено спасти землю от надвигающегося зла.
+<ul>
+<li>73 сцены поиска скрытых предметов</li>
+<li>25 головоломных мини-игр</li>
+<li>Три удивительные главы и шесть прекрасных локаций</li>
+<li>Три режима игры: легкий, нормальный и сложный</li>
+</ul>",
+    "ct"          : "<h3 style='text-align: center;'>Тайна Красного ворона: Легион<br>выйдет через:</h3>"
+  },
+  "lang.zh"       :
+  {
+    "title"       : "Red Crow Mysteries: 军团",
+    "title_short"  : "Red Crow Mysteries: 军团",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: 军团<br>undefined:</h3>"
+  },
+  "lang.ja"       :
+  {
+    "title"       : "Red Crow Mysteries: レギオン",
+    "title_short"  : "Red Crow Mysteries",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: レギオン<br>undefined:</h3>"
+  },
+  "lang.ko"       :
+  {
+    "title"       : "Red Crow Mysteries: 군단",
+    "title_short"  : "Red Crow Mysteries: 군단",
+    "ct"          : "<h3 style='text-align: center;'>Red Crow Mysteries: 군단<br>undefined:</h3>"
+  }
+}
