@@ -68,13 +68,12 @@ public class Main {
 
             int hexCalc;
             int index = hexInputLength - 1;
-        /*allows us to subtract from hexInputLength while still keeping hexInputLength a constant
-        which we'll need to use in the while loop*/
+       
 
             while (index >= 0) {
                 hexCalc = valueAssignment(hexInput.charAt(index));//gets the leftmost character and assigns it a value
                 decimalTotal = decimalTotal + Math.abs(hexCalc * (long) Math.pow(16, hexInputLength - index - 1));
-                \\new comment
+            
                 index--;
             }
 
