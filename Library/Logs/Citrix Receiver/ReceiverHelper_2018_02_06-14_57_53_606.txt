@@ -1,7 +1,0 @@
-| 02-06-2018 | 14:57:53.629 | 606 | 5135 | CEIPScheduler.m |  156 | -[CEIPScheduler startScheduleTimer:] |  LM_CEIP |   LL_ALWAYS | CEIP is scheduled to run after 350388.603437 seconds
-| 02-06-2018 | 14:57:53.631 | 606 | 5135 | AutoUpdateService.m |   72 | -[AutoUpdateService logAutoUpdateState] | LM_AUTOUPDATE |   LL_ALWAYS | Resolved Auto-Update State: Auto. Resolved Auto-Update Domain: User
-| 02-06-2018 | 14:57:53.631 | 606 | 5135 | AutoUpdateService.m |   80 | -[AutoUpdateService logAutoUpdateState] | LM_AUTOUPDATE |   LL_ALWAYS | Resolved Auto-Update Defer Count: -1. Resolved Auto-Update Defer Domain: User
-| 02-06-2018 | 14:57:53.632 | 606 | 5135 | AutoUpdateService.m |  313 | -[AutoUpdateService randomizedAutoUpdateInterval] | LM_AUTOUPDATE |   LL_ALWAYS | Auto Update check interval: 86400.000000 seconds
-| 02-06-2018 | 14:57:53.632 | 606 | 5135 | AutoUpdateService.m |  317 | -[AutoUpdateService randomizedAutoUpdateInterval] | LM_AUTOUPDATE |   LL_ALWAYS | Auto Update check random window is set to 2049.000000 seconds
-| 02-06-2018 | 14:57:53.632 | 606 | 5135 | AutoUpdateService.m |  277 | -[AutoUpdateService remainingTimeToRunAutoUpdate] | LM_AUTOUPDATE |   LL_ALWAYS | Auto Update check maximum interval is set to 432000.000000 seconds
-| 02-06-2018 | 14:57:53.632 | 606 | 5135 | AutoUpdateService.m |  202 | -[AutoUpdateService scheduleAutoUpdateTimer:] | LM_AUTOUPDATE |   LL_ALWAYS | Auto Update policy is scheduled to check after 18817.519769 seconds
